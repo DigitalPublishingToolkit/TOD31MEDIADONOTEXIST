@@ -1,4 +1,4 @@
-# Essence and performativity
+# Essence and Performativity
 
 ## Introduction
 
@@ -57,7 +57,7 @@ look at how the essentialist / non-essentialist contradiction can be
 transcended in order to escape the opposed perils of conflation and
 static categorization.
 
-## Essence and flux: The irreducibility of movement
+## Essence and Flux: The Irreducibility of Movement
 
 The history of Western philosophy starts with the apparently
 irresolvable aporia produced by the opposition between the one and the
@@ -170,7 +170,7 @@ principle of non-contradiction, for our thinking and language are
 predicated upon it. We shall return to this question in Chapter 4, where
 we examine processes of naturalization.
 
-## Discrete, continuous, digital
+## Discrete, Continuous, Digital
 
 Our analysis of the philosophical premises underpinning the distinction
 between the mediatic and postmediatic periods in intermedial thinking
@@ -261,7 +261,7 @@ of technical thinking: if we want to have a working knowledge of the
 world, knowledge that enables us to act on reality, we must divide it
 into discrete parts.
 
-## Media and action
+## Media and Action
 
 We will now try to apply these formal principles to the question of
 media and mediation. The discrete / continuous opposition provides
@@ -643,7 +643,7 @@ that the instant of action is subject to an element of indetermination
 as well. The concept of performativity offers us a theoretical handle on
 that indetermination.
 
-## Performativity in intermediality
+## Performativity in Intermediality
 
 Postmediatic intermedial thinking dismisses essentialist arguments and
 foregrounds necessarily situational processes of convergence. From this
@@ -730,7 +730,7 @@ akin to those that gave rise to both phases of intermedial thinking, and
 can similarly be traced back to the Platonic intuition of the
 *exaiphnes*.
 
-## Performativity as a component of action
+## Performativity as a Component of Action
 
 While the concept of performativity originally emerged in philosophy of
 language, it bears relevance well beyond language, especially in the
@@ -776,7 +776,7 @@ is a discursive distinction that serves an epistemological function,
 clarifying our understanding of the structure of action, and is not
 rooted in any ontological divide.
 
-## Drama and performance
+## Drama and Performance
 
 We will begin our dissection of action by returning to the theater and
 demonstrating that action on stage illustrates more generally the
@@ -865,7 +865,7 @@ action is the result of all the constraints by which it is produced.
 There is therefore a strict causal relationship between the preceding
 situation and the ensuing action.
 
-## The temporal structure of action
+## The Temporal Structure of Action
 
 Determinism can take various forms: physical (such as Laplacian
 determinism, which holds that if we knew all the physical variables in
@@ -955,7 +955,7 @@ mediation. To do so, we must first define the difference between
 Performance is an artistic rendering while performativity is a property
 of action. Any action is, to some degree, performative.
 
-## The undecided
+## The Undecided
 
 Performativity is the element of each action that eludes determination.
 It is what happens in the instant of action that could not have been
@@ -1054,7 +1054,7 @@ in reality. Nevertheless, we must consider them separately if, for
 ethical or political reasons, we wish to examine the undecided element
 of action.
 
-## Mediation as performativity
+## Mediation as Performativity
 
 What does this perspective mean for mediation? We have seen the
 essentialist and non-essentialist interpretations of the term. From a

@@ -1,4 +1,4 @@
-# Mediating conjunctures and mediation
+# Mediating Conjunctures and Mediation
 
 In the previous chapter, we explained why we prefer 'mediating
 conjunctures' to the concept of 'medium', which still dominates media
@@ -26,7 +26,7 @@ issues. We will conclude by proposing a new definition of mediation,
 that is, by describing what occurs when a set of mediating conjunctures
 is operative.
 
-## Historical perspectives on mediation: Individuation, naturalization and sociomedialities
+## Historical Perspectives on Mediation: Individuation, Naturalization and Sociomedialities
 
 While resisting the essentialist temptation to posit historically
 specific phenomena as ahistorical constants, we cannot ignore the hold
@@ -189,7 +189,7 @@ But it must be borne in mind that 'new media', or new dominant trends
 within mediating conjunctures are always appearing and disturbing users'
 behaviours.
 
-## Postmediatic perspectives
+## Postmediatic Perspectives
 
 Two points that emerge from this overview of mediation are worth noting.
 The first is its anthropocentric nature. Everything revolves around the
@@ -270,7 +270,7 @@ operate. This necessarily brings us back to the foundation of all
 mediation: its performative character and the nature of that
 performativity.
 
-## The formless: Beyond language
+## The Formless: Beyond Language
 
 A few years before Gouhier embarked on his quest for the constants that
 define theater and endow it with a specific 'essence', and Benjamin
@@ -366,7 +366,7 @@ naturalization of mediation processes and their artefacts that we
 discuss here, attest to the currency of Bataille's questions today and
 to the counterintuitive character of postmediatic intermediality.
 
-## Radical mediation: Updating the remediation model
+## Radical Mediation: Updating the Remediation Model
 
 In Chapter 1, we looked at some limitations of the remediation model and
 showed how other, non-transformational dynamics could connect mediating
@@ -476,7 +476,7 @@ representation, the persistence of the representational mode of
 mediation in all its forms, particularly in the arts and performance, is
 something that we must accommodate for.
 
-## Mediation as excommunication
+## Mediation as Excommunication
 
 Alexander R. Galloway was one of the fiercest critics of Bolter and
 Grusin's remediation model and a prolific proponent of abandoning the

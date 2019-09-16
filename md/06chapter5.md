@@ -1,4 +1,4 @@
-# The digital and theater as mediating conjunctures
+# The Digital and Theater as Mediating Conjunctures
 
 In this final chapter, we would like to show how intermedial thought, as
 we conceive of it, is able to renew our approach to certain questions
@@ -13,9 +13,9 @@ therefore focus on two concepts that have occupied, and continue to
 occupy, a considerable place in theatrical reflection: presence and
 theatricality.
 
-## The digital as mediating conjunctures
+## The Digital as Mediating Conjunctures
 
-### The digital does not exist
+### The Digital does not Exist
 
 The word 'digital' has invaded the public sphere for about twenty years.
 We use it in everyday language, we talk about it a great deal in the
@@ -72,7 +72,7 @@ particularly visible in mediatic and commercial discourse and which has
 a considerable impact on the general perception of technological
 changes.
 
-### The digital as a parallel space
+### The Digital as a Parallel Space
 
 One of the debates on the digital turn includes that which tends to
 identify the emergence of a space parallel to our primary space, a space
@@ -140,7 +140,7 @@ virtual reality rhetoric, is replaced by that of continuity. The digital
 turn appears to be not so much a revolution, but rather something
 natural that has always been a part of social practices.
 
-### The digital as medium
+### The Digital as Medium
 
 Another way of envisioning the digital turn has been to think about all
 tools -- or even groups of tools -- as a medium or as an ensemble of
@@ -237,7 +237,7 @@ This ideology is clearly justified by the necessity to sell 'new'
 products: it is, however, equally necessary to distance ourselves from
 it if we hope to gain a theoretical understanding of the digital turn.
 
-### Modern, contemporary... digital
+### Modern, Contemporary... Digital
 
 The debate on novelty allows us to better identify the origin of the
 need to make such common use of the word 'digital'. We maintain the
@@ -420,7 +420,7 @@ But this specification could otherwise be understood in a dynamic way:
 it is precisely what we propose with the notion 'mediating
 conjunctures'.
 
-### The digital as mediating conjunctures
+### The Digital as Mediating Conjunctures
 
 If the word digital allows us to *synchronously* unite very heterogenous
 practices, and if this group indeed serves to highlight the divergence
@@ -446,7 +446,7 @@ seem to us particularly pertinent: the notion of a network, the notion
 of performativity, the notion of non-linearity and lastly the idea of
 the mathematization of the world.
 
-#### Network culture
+#### Network Culture
 
 The word 'digital' is strongly associated with the development first of
 the Internet and then of the web. Digital culture is undoubtedly a
@@ -492,7 +492,7 @@ millions of different land owners. Therefore, the geopolitical issues
 tied to the construction of east-west railways in the 19^th^ century
 have an impact today on Internet geopolitics.[^16]
 
-#### The idea of performativity
+#### The Idea of Performativity
 
 Another characteristic of the digital, or even, another force in play in
 the establishment of the mediating conjunctures that we call 'digital',
@@ -545,7 +545,7 @@ word digital are, in fact, characterized by a pre-eminence of the
 performative paradigm, but this pre-eminence is only one of the forces
 in play in current mediating conjunctures.
 
-#### Non-linearity
+#### Non-Linearity
 
 Non-linearity is among the characteristic tendencies of the digital, as
 it, too, was obviously not born alongside the development of information
@@ -674,7 +674,7 @@ behind this crystallization we find a moving ensemble of forces and
 tendencies for which we can always retrace a continuous line of
 development.
 
-## Theater as mediating conjunctures
+## Theater as Mediating Conjunctures
 
 The theater offers an observational field so fertile for intermedial
 studies that it is surprising that a delay of nearly twenty years
@@ -725,7 +725,7 @@ identify some of its underlying causes. The notion of presence (and
 liveness) and that of theatricality thereby reveal a profound crisis
 which has not yet entirely subsided.
 
-### Presence and its founding trio: liveness, ephemeral, nowness
+### Presence and its Founding Trio: Liveness, Ephemeral, Nowness
 
 Jonathan Sterne,[^21] a figurehead of American Sound Studies, recalls
 the slogan-concepts 'fidelity' and 'high-fidelity' that have been
@@ -818,7 +818,7 @@ technologies. It is therefore unsurprising that the anxieties induced by
 electric media are not only transferred, but amplified by essentializing
 discourse.
 
-### Presence and reproduction
+### Presence and Reproduction
 
 Pougin published his dictionary even while sound reproduction
 technologies (telephone, microphone, phonograph) were still in their
@@ -1037,7 +1037,7 @@ ensure the mastery of a role with a mic, or before a camera) but, even
 further, in the treatment of theater archives resulting in the direct
 recording of the representation.
 
-### The archival status of sound and audiovisual recording
+### The Archival Status of Sound and Audiovisual Recording
 
 Certain archives seem 'natural' and possess a distinct value in virtue
 of an authenticity regime which, we notice, also rests primarily on the
@@ -1113,7 +1113,7 @@ materials shows that mentalities change and that the narrative of
 auratic and unique presence is losing influence. From an intermedial
 point of view, we can only rejoice.
 
-### Crisis symptoms: from theatricality to performativity to theatrically
+### Crisis Symptoms: from Theatricality to Performativity to Theatrically
 
 The chaotic emergence and evolution of the concept of theatricality give
 us another occasion to test the intermedial approach in theater. In the

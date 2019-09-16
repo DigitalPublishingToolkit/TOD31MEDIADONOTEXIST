@@ -1,4 +1,4 @@
-# From the birth of intermedial thinking to the concept of remediation: The mediatic phase of intermediality
+# From the Birth of Intermedial Thinking to the Concept of Remediation: The Mediatic Phase of Intermediality
 
 ## Introduction
 
@@ -145,7 +145,7 @@ photographs in literary texts, and so forth. Certainly, these are all
 examples of intermedial dynamics, but intermediality is much more than
 this, as we will show.
 
-## Historical overview
+## Historical Overview
 
 For nearly 20 years, up to the mid 2000s, intermedial research was
 dominated by a fairly traditional conception of media, which we shall
@@ -297,7 +297,7 @@ not in the artistic avant-garde, that this significant theoretical
 advance was made, shifting media researchers' attention from media to
 relations between media.
 
-## Remediation, central concept in intermediality's mediatic period
+## Remediation, Central Concept in Intermediality's Mediatic Period
 
 We have mentioned the original geographic dispersal of intermedial
 studies as one explanation for the arduous, still-incomplete unification
@@ -563,7 +563,7 @@ Bolter and Grusin's essay marks the high point of this first period of
 intermedial theory, which we have called the mediatic period, and also
 reveals its limits, to which we shall now turn.
 
-## Postmediatic intermediality: Remediation and beyond
+## Postmediatic Intermediality: Remediation and Beyond
 
 According to Alexander R. Galloway, the author of *The Interface
 Effect*, '\[t\]he remediation argument \[...\] is so full of holes that
@@ -594,7 +594,7 @@ types of interactions. But first, we will discuss some of the weaknesses
 that have been cited in the model's foundations, particularly the vein
 of essentialism and questions of origin and precedence.
 
-### Limitations of the remediation model
+### Limitations of the Remediation Model
 
 Intermediality rejects essentialist attempts to ascribe stable,
 irreducible properties to media. The essentializing temptation appears
@@ -809,7 +809,7 @@ and transparency with immediacy, and enrich the model with new elements,
 such as the 'obscured transparency' category we have mentioned,
 inopacity, and so forth, to make it truly operational.
 
-### Enriching the remediation model: Media resistance, demediation opacification
+### Enriching the Remediation Model: Media Resistance, Demediation Opacification
 
 We have seen the breakthroughs achieved by intermedial research up to
 the mid-2000s, and looked at resistance to remediation and the media
@@ -941,7 +941,7 @@ section, we look at the concepts of hypermediality, convergence and
 transmediality, which for the past 10 years have been at the center of
 intermedial reflection.
 
-### Hypermediality, convergence and transmediality: Other models of intermedial dynamics
+### Hypermediality, Convergence and Transmediality: Other Models of Intermedial Dynamics
 
 The concept of hypermediality emerged in the field of theater studies in
 the mid-2000s. From the intermedial point of view, theater is, of
@@ -1121,7 +1121,7 @@ emphasis is on the user and the user experience, which is always real.
 We have moved from the representational paradigm to the experiential
 paradigm.
 
-### Shattering the medium: The advent of postmediatic intermediality
+### Shattering the Medium: The Advent of Postmediatic Intermediality
 
 Transmediality has had another notable impact on intermedial theory: it
 challenges the very existence of media as they were conceived of by the

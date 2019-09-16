@@ -1,6 +1,6 @@
-# Mediating conjunctures
+# Mediating Conjunctures
 
-## Between multiplicity and identification
+## Between Multiplicity and Identification
 
 The idea of mediating conjunctures began with an observation: the terms
 used in the field of media studies are problematic because either they
