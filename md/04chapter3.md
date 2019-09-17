@@ -701,7 +701,7 @@ chapter.
 [^9]: Henry Jenkins, *Convergence Culture: Where Old and New Media
     Collide*, Revised edition, New York: NYU Press, 2008, p. 13.
 
-[^10]: See, for example Rosi Braidotti, *The Posthuman*, Cambridge, UK ;
+[^10]: See, for example Rosi Braidotti, *The Posthuman*, Cambridge, UK;
     Malden, MA, USA: Polity Press, 2013. and Manuel De Landa,
     *Assemblage Theory*, Speculative Realism, Edinburgh: Edinburgh
     University Press, 2016.
@@ -717,6 +717,6 @@ chapter.
 [^13]: This point can be understood in line with the agential realism of
     Karen Barad, *Meeting the Universe Halfway: Quantum Physics and the
     Entanglement of Matter and Meaning*, Second Printing edition,
-    Durham: Duke University Press Books, 2007 : instead of opposing
+    Durham: Duke University Press Books, 2007: instead of opposing
     agency and structures (p. 26), Barad proposes that we consider the
     ontological value of these entanglements.

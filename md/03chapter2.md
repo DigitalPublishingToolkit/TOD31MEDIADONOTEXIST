@@ -1138,7 +1138,7 @@ to elucidate using the concept of mediating conjunctures.
 [^7]: Plato, *Parmenides*, p. 156d.
 
 [^8]: For example, Fred Lawrence, *The Beginning and the Beyond: Papers
-    from the Gadamer and Voegelin Conferences*, Chico: Calif. : Scholars
+    from the Gadamer and Voegelin Conferences*, Chico: Calif.: Scholars
     Press, 1984, p. 7 ff.
 
 [^9]: Daniel Sibony, *Entre-deux: l'origine en partage*, Paris: Editions
@@ -1159,8 +1159,8 @@ to elucidate using the concept of mediating conjunctures.
 [^13]: See Trésor de la Langue Française informatisé, on line:
     http://atilf.atilf.fr/.
 
-[^14]: Bruno Bachimont, "Le numérique comme support de la connaissance :
-    entre matérialisation et interprétation," in *Ressources vives. Le
+[^14]: Bruno Bachimont, 'Le numérique comme support de la connaissance:
+    entre matérialisation et interprétation' in *Ressources vives. Le
     travail documentaire des professeurs en mathématiques*, ed. by
     Ghislaine Gueudet et Luc Trouche, Paideia, PUR et INRP, 2010, pp.
     75-90 http://hal.archives-ouvertes.fr/hal-00496590 [accessed
@@ -1171,7 +1171,7 @@ to elucidate using the concept of mediating conjunctures.
 [^16]: We use the English word 'apparatus' for the French word
     'dispositif' following the translators of Giorgio Agamben,
     *Qu'est-ce qu'un dispositif?*, Paris: Payot & Rivages, 2007,
-    translated: Giorgio Agamben, *\"What Is an Apparatus?\" And Other
+    translated: Giorgio Agamben, *'What Is an Apparatus?' And Other
     Essays*, Meridian, Crossing Aesthetics, Stanford, Calif: Stanford
     University Press, 2009. This word can be translated in many
     different ways: 'apparatus', 'device', 'machinery', 'construction'
@@ -1180,21 +1180,21 @@ to elucidate using the concept of mediating conjunctures.
     Gallimard, 2001, the term has been used by many scholars with
     differents meanings. See, for example: Arnaud Rykner, *Le tableau
     vivant et la scène du corps : vision, pulsion, dispositif*, Hyper
-    Article en Ligne - Sciences de l'Homme et de la Société, 2013
+    Article en Ligne – Sciences de l'Homme et de la Société, 2013
     https://isidore.science/document/10670/1.0jcfgt [accessed 16
     February 2019\], Agamben, *Qu'est-ce qu'un dispositif*, Bruno
     Bachimont, *Le sens de la technique: Le numérique et le calcul*,
     2010.
 
 [^17]: R. Grusin, *Premediation: Affect and Mediality After 9/11*, 2010
-    edition, Basingstoke England ; New York: Palgrave Macmillan, 2010.
+    edition, Basingstoke England; New York: Palgrave Macmillan, 2010.
 
 [^18]: Foucault and others, *Dits et écrits, 1954-1988. II, II,* p. 299.
 
-[^19]: Agamben, *\"What Is an Apparatus?\" And Other Essays*, pp. 2-3.
+[^19]: Agamben, *'What Is an Apparatus?' And Other Essays*, pp. 2-3.
 
-[^20]: Éliséo Véron, "De l'image sémiologique aux discursivités, From
-    the semiotic image to discursivity," *Hermès, La Revue*, 13, 2013,
+[^20]: Éliséo Véron, 'De l'image sémiologique aux discursivités, From
+    the semiotic image to discursivity' *Hermès, La Revue*, 13, 2013,
     45-64
     http://www.cairn.info/resume.php?ID_ARTICLE=HERM_013_0045
     [accessed 30 April 2017\].
@@ -1218,16 +1218,16 @@ to elucidate using the concept of mediating conjunctures.
     Minneapolis, Minn. \[u.a.: Univ. of Minnesota Press, 2008.
 
 [^27]: For an overview of the two concepts and their history, see
-    Nicholas Cotton, "Du performatif à la performance," *Sens Public*,
+    Nicholas Cotton, 'Du performatif à la performance' *Sens Public*,
     2016 http://www.sens-public.org/article1216.html [accessed 20
-    February 2018\]
+    February 2018].
 
-[^28]: Robert C. Bishop, "Determinism and Indeterminism,"
+[^28]: Robert C. Bishop, 'Determinism and Indeterminism'
     *arXiv:Physics/0506108*, 2005
     http://arxiv.org/abs/physics/0506108 [accessed 28 May 2018\].
 
 [^29]: Aristotle outlines the argument in *On Interpretation* 18b35. For
-    commentary, see Hervé Barreau, 'Le Maître argument de Diodore : Son
+    commentary, see Hervé Barreau, 'Le Maître argument de Diodore: Son
     interprétation traditionnelle, sa signification historique, sa
     reconstitution contemporaine', *Cahiers Fundamenta Scientiae* 46,
     1975, pp. 1-51; and G. Anscombe and M. Elizabeth, 'Aristotle and the
@@ -1242,6 +1242,6 @@ to elucidate using the concept of mediating conjunctures.
     James Opie Urmson, 2. ed., \[repr.\], Cambridge, Mass: Harvard Univ.
     Press, 2009.
 
-[^32]: Matteo Treleani, "Le spectre et l'automate. Deux figures du
-    spectateur," in *D'un écran à l'autre. Les mutations du spectateur*,
+[^32]: Matteo Treleani, 'Le spectre et l'automate. Deux figures du
+    spectateur' in *D'un écran à l'autre. Les mutations du spectateur*,
     Delavaud, G. Chateauvert, J., Harmattan, 2016.

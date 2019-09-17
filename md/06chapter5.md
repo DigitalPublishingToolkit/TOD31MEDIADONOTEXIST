@@ -1494,7 +1494,7 @@ to be, in our time, the primary objective of philosophy.
     1995.
 
 [^4]: Karl R. Popper and Giancarlo Bosetti, *The Lesson of This Century:
-    With Two Talks on Freedom and the Democratic State*, London ; New
+    With Two Talks on Freedom and the Democratic State*, London; New
     York: Routledge, 2000.
 
 [^5]: We deem it relevant in this instance to cite Marcello Vitali
@@ -1523,7 +1523,7 @@ to be, in our time, the primary objective of philosophy.
 [^11]: See Elizabeth L Eisentein, *The Printing Revolution in Early
     Modern Europe*, Cambridge: Cambridge University Press, 1983.
 
-[^12]: See, for example Mark Rose, *Authors and Owners : The Invention
+[^12]: See, for example Mark Rose, *Authors and Owners: The Invention
     of Copyright*, Cambridge, Mass.: Harvard University Press, 1993.
 
 [^13]: Roland Barthes, *Le bruissement de la langue*, Seuil, 1993,
@@ -1533,10 +1533,10 @@ to be, in our time, the primary objective of philosophy.
 [^14]: Doueihi, *Digital Cultures*.
 
 [^15]: See, for example Geert Lovink, *Dark Fiber: Tracking Critical
-    Internet Culture*, Electronic Culture--History, Theory, Practice,
+    Internet Culture*, Electronic Culture – History, Theory, Practice,
     Cambridge, Mass: MIT Press, 2002, Doueihi, *Digital Cultures*,
     Tiziana Terranova, *Network Culture: Politics for the Information
-    Age*, London ; Ann Arbor, MI: Pluto Press, 2004.
+    Age*, London; Ann Arbor, MI: Pluto Press, 2004.
 
 [^16]: See, for example Gill Plimmer and Daniel Thomas, 'Network Rail's
     Fibre Optic Network Attracts Telecoms Interest', 2016
@@ -1585,7 +1585,7 @@ to be, in our time, the primary objective of philosophy.
     heard him without seeing him, Pierre Schaeffer developed the concept
     of acousmatic sound by demonstrating the role played by sight in
     relation to hearing. (see Pierre Schaeffer, *Traité Des Objets
-    Musicaux: Essai Interdisciplines*, Paris: Seuil, 2002, p. 91 and ff.
+    Musicaux: Essai Interdisciplines*, Paris: Seuil, 2002, p. 91 and ff).
 
 [^26]: This concept is difficult to pin down, firstly because it is
     complex, but also because it has not ceased to evolve. For the
@@ -1636,8 +1636,8 @@ to be, in our time, the primary objective of philosophy.
 
 [^35]: The period of large definitive businesses and this identity quest
     is not specific to theater, as argued in a number of consequential
-    essays by Jean-Paul Sartre (*Qu'est-ce que la littérature ?*) and
-    André Bazin (*Qu'est-ce que le cinéma ?)*.
+    essays by Jean-Paul Sartre (*Qu'est-ce que la littérature?*) and
+    André Bazin (*Qu'est-ce que le cinéma?)*.
 
 [^36]: Benjamin, *Illuminations: Essays and Reflections*, p. 221.
 
@@ -1645,10 +1645,10 @@ to be, in our time, the primary objective of philosophy.
 
 [^38]: Benjamin, *Illuminations: Essays and Reflections*, p. 230.
     (quotation from Rudolf Arnheim, *Film Als Kunst.*, Frankfurt am
-    Main: Suhrkamp, 2002, p. 176.
+    Main: Suhrkamp, 2002, p. 176).
 
 [^39]: Peggy Phelan, *Unmarked: The Politics of Performance*, 1 édition,
-    London ; New York: Routledge, 1993, p. 146.
+    London; New York: Routledge, 1993, p. 146.
 
 [^40]: Philip Auslander, *Liveness: Performance in a Mediatized
     Culture*, London; New York: Routledge, 2011.
@@ -1691,7 +1691,7 @@ to be, in our time, the primary objective of philosophy.
     Macmillan, 2016, p. 21.
 
 [^53]: Reason, *Documentation, Disappearance and the Representation of
-    Live Performance.*, p. 21.
+    Live Performance*, p. 21.
 
 [^54]: This is what we described in chapter 4.
 
@@ -1754,7 +1754,7 @@ to be, in our time, the primary objective of philosophy.
     University of Chicago Press, 1998, p. 18.
 
 [^60]: Jacques Rancière, *Le partage du sensible: esthétique et
-    politique*, Paris: Fabrique : Diffusion Les Belles Lettres, 2000.
+    politique*, Paris: Fabrique: Diffusion Les Belles Lettres, 2000.
 
 [^61]: Among other texts by Karen Barad, see Barad, *Meeting the
     Universe Halfway: Quantum Physics and the Entanglement of Matter and

@@ -1260,7 +1260,7 @@ of intermediality.
 [^4]: Claus Clüver, 'Intermediality and Interarts Studies', in *Changing
     Borders: Contemporary Positions in Intermediality*, ed. by Jens
     Arvidson, Lund: Intermedia Studies Press, 2007, pp. 19-37; Water
-    Moser, 'L'interartialité : pour une archéologie de
+    Moser, 'L'interartialité: pour une archéologie de
     l'intermédialité', in *Intermedialité et socialité: histoire et
     géographie d'un concept*, ed. by Marion Froger and Jürgen E and
     Müller, Münster: Nodus, 2007, pp. 69-92.
@@ -1299,11 +1299,11 @@ of intermediality.
 [^15]: Jean-Louis Déotte, *Appareils et formes de la sensibilité*,
     L'Harmattan, 2005.
 
-[^16]: Philippe Ortel, 'Note sur une esthétique de la vue : Photographie
+[^16]: Philippe Ortel, 'Note sur une esthétique de la vue: Photographie
     et littérature', 2002
     https://doi.org/http://isidore.science/document/10.3406/roman.2002.1164;
     Arnaud Rykner, *Le tableau vivant et la scène du corps : vision,
-    pulsion, dispositif*, Hyper Article en Ligne - Sciences de l'Homme
+    pulsion, dispositif*, Hyper Article en Ligne – Sciences de l'Homme
     et de la Société, 2013
     https://isidore.science/document/10670/1.0jcfgt [accessed 16
     February 2019\].
@@ -1319,9 +1319,8 @@ of intermediality.
 [^20]: For reasons to be explained later, we prefer the expression
     'mediating conjuncture' to 'media'. During intermediality's
     'mediatic period', media was the preferred term cf Éric Méchoulan,
-    'Intermédialités : le temps des illusions perdues', *Intermédialités
-    : Histoire et théorie des arts, des lettres et des techniques /
-    Intermediality : History and Theory of the Arts, Literature and
+    'Intermédialités: le temps des illusions perdues', *Intermédialités: Histoire et théorie des arts, des lettres et des techniques /
+    Intermediality: History and Theory of the Arts, Literature and
     Technologies*, 1, 2003, 9-27
     https://doi.org/https://doi.org/10.7202/1005442ar.
 
@@ -1352,7 +1351,7 @@ of intermediality.
 [^29]: Müller, *Intermedialität: Formen Moderner Kultureller
     Kommunikation*, p. 70.
 
-[^30]: Jacques Rancière, 'Ce que « medium » peut vouloir dire :
+[^30]: Jacques Rancière, 'Ce que "medium" peut vouloir dire:
     l'exemple de la photographie', *Appareil*, 1, 2008
     https://doi.org/10.4000/appareil.135.
 
@@ -1366,7 +1365,7 @@ of intermediality.
 
 [^35]: *Travels in Intermedia\[lity\]: Reblurring the Boundaries*, ed.
     by Bernd Herzogenrath, Interfaces: Studies in Visual Culture, 1st
-    \[ed.\], Hanover: Dartmouth College Press, 2012.
+    [ed.], Hanover: Dartmouth College Press, 2012.
 
 [^36]: Herzogenrath, *Travels in Intermedia\[lity\]: Reblurring the
     Boundaries*, p. 30.
@@ -1481,7 +1480,7 @@ of intermediality.
     Press, 2015, p. 6.
 
 [^69]: Raymond Bellour, *La querelle des dispositifs. Cinéma,
-    installations, expositions*, coll. « Trafic », Paris, P.O.L., 2012,
+    installations, expositions*, coll. 'Trafic', Paris, P.O.L., 2012,
     p. 16 quoted by Gaudreault and Marion, *The End of Cinema? A Medium
     in Crisis in the Digital Age*, p. 249.
 

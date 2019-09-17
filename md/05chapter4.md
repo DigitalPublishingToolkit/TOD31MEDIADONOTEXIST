@@ -637,14 +637,14 @@ world and living together in and with the world.
 
 [^17]: *Excommunication: Three Inquiries in Media and Mediation*, ed. by
     Alexander R. Galloway, Eugene Thacker, and McKenzie Wark, Trios,
-    Chicago ; London: The University of Chicago Press, 2014, p. 10.
+    Chicago; London: The University of Chicago Press, 2014, p. 10.
 
 [^18]: Galloway, Thacker, and Wark, *Excommunication: Three Inquiries in
     Media and Mediation*, p. 11.
 
 [^19]: Eugene Thacker, 'Dark Media', in *Excommunication: Three
     Inquiries in Media and Mediation*, ed. by Alexander R. Galloway,
-    McKenzie Wark, and Eugene Thacker, Trios, Chicago ; London: The
+    McKenzie Wark, and Eugene Thacker, Trios, Chicago; London: The
     University of Chicago Press, 2014, p. 80.
 
 [^20]: John R. Pierce, *An Introduction to Information Theory: Symbols,

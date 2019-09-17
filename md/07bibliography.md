@@ -9,7 +9,7 @@ Minnesota Press, 2007.
 Agamben, Giorgio, *Qu'est-ce qu'un dispositif?*, Paris: Payot & Rivages,
 2007.
 
----------, *"What Is an Apparatus?" And Other Essays*, Meridian,
+---------, *What Is an Apparatus? And Other Essays*, Meridian,
 Crossing Aesthetics, Stanford, Calif: Stanford University Press, 2009.
 
 Andreazza, Fabio, 'La conversion de Pirandello au cinéma', *Actes de la
@@ -34,7 +34,7 @@ Austin, John Langshaw, *How to Do Things with Words: \[The William James
 Lectures Delivered at Harvard University in 1955\]*, ed. by James Opie
 Urmson, 2. ed., \[repr.\], Cambridge, Mass: Harvard Univ. Press, 2009.
 
-Bachimont, Bruno, 'Le numérique comme support de la connaissance : entre
+Bachimont, Bruno, 'Le numérique comme support de la connaissance: entre
 matérialisation et interprétation', in *Ressources vives. Le travail
 documentaire des professeurs en mathématiques*, ed. by Ghislaine Gueudet
 et Luc Trouche, Paideia, PUR et INRP, 2010, pp. 75-90
@@ -76,7 +76,7 @@ York: Rodopi, 2006, pp. 151-66.
 Bolter, J. David, and Richard A Grusin, *Remediation: Understanding New
 Media*, Cambridge, Mass.: MIT Press, 2000.
 
-Braidotti, Rosi, *The Posthuman*, Cambridge, UK ; Malden, MA, USA:
+Braidotti, Rosi, *The Posthuman*, Cambridge, UK; Malden, MA, USA:
 Polity Press, 2013.
 
 Butler, Judith, *Excitable Speech: A Politics of the Performative*, New
@@ -124,7 +124,7 @@ Didi-Huberman, Georges, *La ressemblance informe: ou le gai savoir
 visuel selon Georges Bataille*, 2019.
 
 Diels, Hermann, Walther Kranz, and Kathleen Freeman, *The Presocratic
-Writings.*, 2017
+Writings*, 2017
 http://pm.nlx.com/xtf/view?docId=presocratics_gr/presocratics_gr.00.xml
 [accessed 18 February 2019].
 
@@ -162,7 +162,7 @@ Ferraris, Maurizio, *Documentality: Why It Is Necessary to Leave
 Traces*, trans. by Richard Davies, 1 edition, New York: Fordham
 University Press, 2012.
 
-Foucault, Michel, 'Qu'est-ce qu'un auteur ?', in *Dits et écrits*,
+Foucault, Michel, 'Qu'est-ce qu'un auteur?', in *Dits et écrits*,
 Paris: Gallimard, 1994.
 
 Foucault, Michel, Daniel Defert, François Ewald, and Jacques Lagrange,
@@ -185,7 +185,7 @@ Gitelman, Lisa, *Always Already New: Media, History, and the Data of
 Culture*, The MIT Press, 2008.
 
 Grusin, R., *Premediation: Affect and Mediality After 9/11*, 2010
-edition, Basingstoke England ; New York: Palgrave Macmillan, 2010.
+edition, Basingstoke England; New York: Palgrave Macmillan, 2010.
 
 Grusin, Richard, 'Radical Mediation', *Critical Inquiry*, 42.1 (2015),
 124-48 https://doi.org/10.1086/682998.
@@ -194,7 +194,7 @@ Herzogenrath, Bernd, ed., *Travels in Intermedia\[lity\]: Reblurring the
 Boundaries*, Interfaces: Studies in Visual Culture, 1st \[ed.\],
 Hanover: Dartmouth College Press, 2012.
 
-Huhtamo, Erkki, and Jussi Parikka, eds., *What Is Media Archeology.*,
+Huhtamo, Erkki, and Jussi Parikka, eds., *What Is Media Archeology*,
 Cambridge: Polity Press, 2015.
 
 Jenkins, Henry, *Convergence Culture: Where Old and New Media Collide*,
@@ -212,7 +212,7 @@ Kittler, Friedrich, *Optical Media*, trans. by Anthony Enns, 1 edition,
 Cambridge: Polity, 2009.
 
 Lawrence, Fred, *The Beginning and the Beyond: Papers from the Gadamer
-and Voegelin Conferences*, Chico: Calif. : Scholars Press, 1984.
+and Voegelin Conferences*, Chico: Calif.: Scholars Press, 1984.
 
 Lovink, Geert, *Dark Fiber: Tracking Critical Internet Culture*,
 Electronic Culture-History, Theory, Practice, Cambridge, Mass: MIT
@@ -240,7 +240,7 @@ Méchoulan, Eric, 'Intermédialité, ou comment penser les transmissions',
 http://www.fabula.org/colloques/document4278.php [accessed 29 May
 2018].
 
-Méchoulan, Éric, 'Intermédialités : le temps des illusions perdues',
+Méchoulan, Éric, 'Intermédialités: le temps des illusions perdues',
 *Intermédialités : Histoire et théorie des arts, des lettres et des
 techniques / Intermediality : History and Theory of the Arts, Literature
 and Technologies*, 1, 2003, 9-27
@@ -250,7 +250,7 @@ Monjour, Servanne, *Mythologies postphotographiques: l'invention
 littéraire de l'image numérique*, Montréal: PUM, 2018
 http://parcoursnumeriques-pum.ca/introduction-158.
 
-Moser, Water, 'L'interartialité : pour une archéologie de
+Moser, Water, 'L'interartialité: pour une archéologie de
 l'intermédialité', in *Intermedialité et socialité: histoire et
 géographie d'un concept*, ed. by Marion Froger and Jürgen E and Müller,
 Münster: Nodus, 2007, pp. 69-92.
@@ -269,7 +269,7 @@ pp. 84-100 https://doi.org/10.1145/800197.806036.
 Norman, Donald A., *The Design of Everyday Things*, 1st Basic paperback,
 New York: Basic Books, 2002.
 
-Ortel, Philippe, 'Note sur une esthétique de la vue : Photographie et
+Ortel, Philippe, 'Note sur une esthétique de la vue: Photographie et
 littérature', 2002
 https://doi.org/http://isidore.science/document/10.3406/roman.2002.1164.
 
@@ -284,7 +284,7 @@ Pelisson, *Regie Theatrale et Mise En Scene*, Villeneuve d'Ascq, France:
 Presses Universitaires du Septentrion, 2014.
 
 Phelan, Peggy, *Unmarked: The Politics of Performance*, 1 édition,
-London ; New York: Routledge, 1993.
+London; New York: Routledge, 1993.
 
 Pierce, John R., *An Introduction to Information Theory: Symbols,
 Signals & Noise*, 2nd, rev. ed, New York: Dover Publications, 1980.
@@ -294,13 +294,13 @@ of Adelaide Library, 2008
 https://en.wikisource.org/wiki/Parmenides [accessed 21 December
 2018].
 
-Plimmer, Gill, and Daniel Thomas, 'Network Rail's Fibre Optic Network
+Plimmer, Gill and Daniel Thomas, 'Network Rail's Fibre Optic Network
 Attracts Telecoms Interest', 2016
 https://www.ft.com/content/173b6c06-f1da-11e5-aff5-19b4e253664a
 [accessed 10 April 2018].
 
 Popper, Karl R., and Giancarlo Bosetti, *The Lesson of This Century:
-With Two Talks on Freedom and the Democratic State*, London ; New York:
+With Two Talks on Freedom and the Democratic State*, London; New York:
 Routledge, 2000.
 
 Pougin, Arthur, *Dictionnaire Historique Et Pittoresque Du Théâtre Et
@@ -308,17 +308,17 @@ Des Arts Qui s'y Rattachent: Poétique, Musique, Danse, Pantomime, Décor,
 Costume, Machinerie, \... Fètes Publiques, Réjouissa*, Forgotten Books,
 2018.
 
-Rancière, Jacques, 'Ce que « medium » peut vouloir dire : l'exemple de
+Rancière, Jacques, 'Ce que "medium" peut vouloir dire: l'exemple de
 la photographie', *Appareil*, 1, 2008
 https://doi.org/10.4000/appareil.135.
 
 ---------, *Le partage du sensible: esthétique et politique*, Paris:
-Fabrique : Diffusion Les Belles Lettres, 2000.
+Fabrique: Diffusion Les Belles Lettres, 2000.
 
 ---------, *Le spectateur émancipé*, La Fabrique éditions, 2008.
 
 Reason, M, *Documentation, Disappearance and the Representation of Live
-Performance.*, Place of publication not identified: Palgrave Macmillan,
+Performance*, Place of publication not identified: Palgrave Macmillan,
 2016.
 
 Ricoeur, Paul, *Memory, History, Forgetting*, trans. by Kathleen Blamey
@@ -327,10 +327,10 @@ Chicago Press, 2006.
 
 RICOEUR, PAUL, *Soi-même comme un autre*, POINTS, 2015.
 
-Rose, Mark, *Authors and Owners : The Invention of Copyright*,
+Rose, Mark, *Authors and Owners: The Invention of Copyright*,
 Cambridge, Mass.: Harvard University Press, 1993.
 
-Rykner, Arnaud, *Le tableau vivant et la scène du corps : vision,
+Rykner, Arnaud, *Le tableau vivant et la scène du corps: vision,
 pulsion, dispositif*, Hyper Article en Ligne – Sciences de l'Homme et de
 la Société, 2013 https://isidore.science/document/10670/1.0jcfgt [accessed 16 February 2019].
 
