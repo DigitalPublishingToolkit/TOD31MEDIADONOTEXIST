@@ -8,7 +8,7 @@ particularly significant for our study. Firstly, we will focus on the
 digital in order to show how intermediality can help us to better
 understand this reality, its nature and its conjunctures. We will then
 reorient the discussion toward theater, a site of revaluation and major
-reforms throughout the Long 20^th^ century (from 1880 to today). We will
+reforms throughout the Long 20th century (from 1880 to today). We will
 therefore focus on two concepts that have occupied, and continue to
 occupy, a considerable place in theatrical reflection: presence and
 theatricality.
@@ -19,10 +19,10 @@ theatricality.
 
 The word 'digital' has invaded the public sphere for about twenty years.
 We use it in everyday language, we talk about it a great deal in the
-media; for institutions -- governments, universities, businesses -- it
+media; for institutions – governments, universities, businesses – it
 is as a key word. The word had first been used as an adjective: 'digital
 document', 'digital communities', 'digital identities', 'digital
-economy', 'digital environment' ... up until 'digital culture'. More
+economy', 'digital environment' [...] up until 'digital culture'. More
 recently, it has become a substantive: it is referred to as 'the
 digital' and even an 'object of analysis'.[^1] Enthusiasm for the
 digital has otherwise contributed to the renewal of Media Theory: the
@@ -55,16 +55,16 @@ the digital that is stable enough to consider it as a point of
 reference. Many, sometimes contradictory, parallel debates circulate in
 public space, none of which seem to generally converge in order to
 overtake others and thereby emerge as institutional discourse. It would
-otherwise be impossible -- precisely because of the instability and the
-non-institutionalized nature of these debates -- to analyze them, or
+otherwise be impossible – precisely because of the instability and the
+non-institutionalized nature of these debates – to analyze them, or
 even further, to simply establish an exhaustive list.
 
 We will here take into account three ways of describing the digital that
 seem to us the most present and therefore the most pertinent for
-analytical purposes: the digital as a parallel space -- the debate
-surrounding virtual reality --, as a medium or an ensemble of media --
-the debate on the age of communication -- and lastly as an ensemble of
-revolutionary devices -- the debate on 'New Technologies'. These three
+analytical purposes: the digital as a parallel space – the debate
+surrounding virtual reality –, as a medium or an ensemble of media –
+the debate on the age of communication – and lastly as an ensemble of
+revolutionary devices – the debate on 'New Technologies'. These three
 approaches do not really correspond to modes of critical or scholarly
 analysis, but they represent rather the collective imaginary surrounding
 the digital, the way of understanding this phenomenon which is
@@ -84,9 +84,9 @@ task because, evidently, it does not constitute an unprecedented
 *topos*: it had been present on numerous occasions throughout the
 history of thought, and not only in the last century. Indeed, we can
 recover this debate on a parallel and unreal space in the case of
-television -- as with Baudrillard[^3], for example, or with Popper[^4]
--- but also that of the knighthood novels of the 17^th^ century -- that
-we see for example in *Don Quixote.* But we could also go much further
+television – as with Baudrillard[^3], for example, or with Popper[^4]
+– but also that of the knighthood novels of the 17th century – that
+we see for example in *Don Quixote*. But we could also go much further
 in retracing the history of this *topos* from the myth of Plato's Cave,
 a myth that presents exactly the same logical structure: many parallel
 spaces whose degrees of reality are different, yet difficult to
@@ -97,15 +97,15 @@ digital, as it constitutes rather a reactualized *topos* enabling us to
 understand particular practices. More precisely, we can say that this
 debate asserts itself in relation to the digital in the 1980s, with the
 appearance of the expression 'virtual reality'. Many texts have already
-traced this history[^5], which we will very briefly summarize here.
+traced this history,[^5] which we will very briefly summarize here.
 Virtual reality is a modelled, immersive and interactive space produced
 with the help of a machine. The idea is that, thanks to computers, we
 can produce a parallel reality that is completely artificial and
 completely 'realistic'. This idea is more an imaginary space rather than
 a technical reality: indeed, this concept has considerably developed in
-science fiction tales, in literature -- Gibson's *Neuromancer,* for
-example -- and even more so in cinema -- from *The Matrix* to
-*Existenz.* Even if the technical possibilities for materializing this
+science fiction tales, in literature – Gibson's *Neuromancer*, for
+example – and even more so in cinema – from *The Matrix* to
+*Existenz*. Even if the technical possibilities for materializing this
 fantasy continue to develop and if the notion of virtual reality takes
 on a fundamental importance in industry discourse, notably since Oculus
 Rift's commercialization in 2016, this concept does not allow us to
@@ -118,7 +118,7 @@ technology uses.
 
 The parallel world *topos* is promising and interesting when we analyze
 its recreational or fictional use. It was, in fact, what Janet Murray
-observed even in the 1990s with her book *Hamlet on the Holodeck*[^6].
+observed even in the 1990s with her book *Hamlet on the Holodeck*.[^6]
 But this notion becomes insufficient and problematic in understanding a
 series of practices that are in no way fictional, nor recreational, and
 that take on a large importance in our daily use of digital tools. In
@@ -129,7 +129,7 @@ one of many possibilities relating to these tools, and probably not the
 most interesting.
 
 Taking the place of the debate on parallel, virtual, fictive, fluid and
-navigable space -- a series of terms tied to parallel space --, arises a
+navigable space – a series of terms tied to parallel space –, arises a
 debate on concrete, hybrid and inhabitable space. The digital is always
 considered a space, but a space that integrates with non-digital space
 by blurring the difference between physical and non-physical which
@@ -143,7 +143,7 @@ natural that has always been a part of social practices.
 ### The Digital as Medium
 
 Another way of envisioning the digital turn has been to think about all
-tools -- or even groups of tools -- as a medium or as an ensemble of
+tools – or even groups of tools – as a medium or as an ensemble of
 media. This debate is very complex and differentiated, as well as
 difficult to convincingly summarize, but we can try to understand it
 starting with its most extreme formulation, which consists in speaking
@@ -154,13 +154,13 @@ any mediation form. This is the idea behind Jenkins' *Black Box*.[^7]
 This approach is tied to a series of debates that have developed, since
 the 1960s, in the field of Media Studies and in the field of Information
 and Communication Sciences. From this point of view, one tends to think
-of media as devices enabling communication between two poles -- whether
+of media as devices enabling communication between two poles – whether
 these poles be either living beings, machines or even conceptual
 structures. One therein develops models to define the communication
-process -- as an exchange of information between two poles -- and one
+process – as an exchange of information between two poles – and one
 tries to understand media as an in-between that, at the same time,
 renders possible and structures the communication. This debate is often
-accompanied by the principle of transparency and immediacy -- and
+accompanied by the principle of transparency and immediacy – and
 remains closely tied to a representational regime. One presupposes that
 there would be an 'ideal' communication wherein there would be no
 'information loss' and that therefore there would be a perfect medium
@@ -178,7 +178,7 @@ problems and it is probably these problems that have contributed to the
 changes relating to theories on media. This is what we have seen with
 the different intermedial postmediatic approaches and in particular with
 the critique of the communication paradigm developed in
-*Excommunication.*[^8] Indeed, the very notion of communication is
+*Excommunication*.[^8] Indeed, the very notion of communication is
 tested in the digital context because, unless we accept an extremely
 wide definition of communication, it becomes impossible to think in
 terms of communication about phenomena, such as the algorithmic
@@ -199,24 +199,24 @@ technologies', whose paradox is easy to guess. Novelty can only be an
 ephemeral quality and can therefore not be acknowledged on a
 definitional basis. The adjective 'new' is therefore unrelated to the
 thing that it would like to characterize. Every technology has been
-'new' during a certain historical moment within a certain community --
+'new' during a certain historical moment within a certain community –
 as provocatively stated by the title of Carolyn Marvin's book *When Old
 Technologies Were New*.[^9] Naming a technology as 'new', on the one
 hand, emphasizes a presupposed break between this technology and the
 preceding one and, on the other hand, labels all that came before this
 novelty as obsolete, participating in a somewhat teleological discourse
-(which is a very good -- and very easy -- sale argument for businesses).
+(which is a very good – and very easy – sale argument for businesses).
 
 Regarding the notion of a presupposed break: the idea of novelty refers,
 from a theoretical point of view, to the possibility of clearly and
 cleanly separating one chronological moment from another. This exercise
 is obviously always characterized by an arbitrary aspect, as the caesura
-between two chronological moments -- as far as it can be justified -- is
+between two chronological moments – as far as it can be justified – is
 never without ambiguity and is, to an even lesser extent, based on
 consensus. The difficulty for historians to delineate historical periods
 serves as proof of this. In addition, the argument of novelty becomes
 weak when we consider the fact that it has been widely used for more
-than a century: in the field of media for the telephone, the radio[^10],
+than a century: in the field of media for the telephone, the radio,[^10]
 etc., and in art, for example the avant-garde.
 
 The notion of novelty has become an omnipresent *topos* in commercial
@@ -242,7 +242,7 @@ it if we hope to gain a theoretical understanding of the digital turn.
 The debate on novelty allows us to better identify the origin of the
 need to make such common use of the word 'digital'. We maintain the
 theory that this word does not derive from a real revolutionary change
-that presents itself as a veritable chronological break -- that it be
+that presents itself as a veritable chronological break – that it be
 produced with the arrival of the web in the 1990s or prior. No break
 disrupts temporal or historical linearity. Our history is continuous, it
 is its institutions that discretely alter it. In other terms, our
@@ -255,25 +255,25 @@ of things at a given moment. From the moment the institution
 crystallizes its standards, practices continue to change, until the
 moment that the institutions can no longer standardize them, as these
 practices have become too different. It is at this moment that the
-institution must change. And this change is done immediately -- with a
+institution must change. And this change is done immediately – with a
 change of standards that can only be discrete. It is at this moment that
 we invent new words to describe the change. And it is at this moment
-that we begin to refer to revolution. There is therefore revolution --
-or at least a discrete and important change --, but of the institution
+that we begin to refer to revolution. There is therefore revolution –
+or at least a discrete and important change –, but of the institution
 and not of the practices.
 
 Let us consider some examples. The institutional devices that
-standardize editorial practices were put in place during the 18^th^
-century[^11]. It is interesting to note that more than two centuries
+standardize editorial practices were put in place during the 18th
+century.[^11] It is interesting to note that more than two centuries
 separate Gutenberg's invention of the creation of institutions. It is in
 the 18^th^ century that copyright was put in place, that practices were
-standardized, that editing became a framed practice[^12]. Publishing
+standardized, that editing became a framed practice.[^12] Publishing
 companies became institutions. The states created laws to regulate these
 practices. The institutions enabled standardization and gave meaning to
-these practices -- but also gave them a name. And yet, since the 18^th^
+these practices – but also gave them a name. And yet, since the 18th
 century, these practices have progressively changed. The meaning given
 to words has changed, the importance attributed to the author has
-changed -- for example in the 1960s[^13] --, techniques have changed, as
+changed – for example in the 1960s[^13] – techniques have changed, as
 have readership, the number of literate readers, economic and social
 conditions, etc. These changes create unease from within the
 institution, as these norms no longer correspond to the realities of
@@ -284,7 +284,7 @@ symptom of this crisis and of this need for change is the word digital,
 with which we name the disparity between real practices and those
 practices that are standardized by the institution. In this sense, the
 expression 'digital editing' names all the continuous changes that
-separate 18^th^ century editing from today's editorial practices. With
+separate 18th century editing from today's editorial practices. With
 the expression 'digital editing', institutions try to take further stock
 of the state of practices in order to be capable of once again
 standardizing them so as to continue to manage them. We are living a
@@ -301,7 +301,7 @@ between what we mean by literature and what real practices are becomes
 too important to not pose a problem. The university does not know what
 to do with practices that do not enter into the institutional framework:
 they therefore begin to use the word 'digital'. In this sense, the
-digital has nothing -- or very little -- to do with computers. It may be
+digital has nothing – or very little – to do with computers. It may be
 revealed that information technology has played a role in the change of
 our practices, but this is not the primary role, and above all not the
 only one. This is why, in the end, digital literature does not refer to
@@ -328,7 +328,7 @@ previous chapter. In the case of digital literature, for example,
 institutionalization consists in creating prizes for 'digital
 literature', classes, associations, editors that make 'digital
 literature' and so forth (we could also refer to the work done for a
-number of years by the *Electronic Literature Organization).* This
+number of years by the *Electronic Literature Organization*). This
 institutionalization implies that new practices no longer seem foreign
 and deviant. They become normal. This also implies that norms are
 appearing. We begin to know what 'digital literature' is and therefore
@@ -388,7 +388,7 @@ concerns, etc., were not the same. But the fact of being Christian today
 alters the ensemble of possible practices (one is Christian when one
 eats, when one makes art, when one works, etc.).
 
-The digital tends to function in the same way -- it is Milad Doueihi's
+The digital tends to function in the same way – it is Milad Doueihi's
 central theory in his book *Digital Cultures*,[^14] wherein the author
 rightly makes comparisons between the digital and religion. With the
 word 'digital', we define a very heterogenous ensemble of practices
@@ -425,8 +425,8 @@ conjunctures'.
 If the word digital allows us to *synchronously* unite very heterogenous
 practices, and if this group indeed serves to highlight the divergence
 of current practices in relation to the ensemble of institutionalized
-practices, it should be possible to identify -- even in a non-exhaustive
-way -- the reoccurring features of these actions in order to extricate
+practices, it should be possible to identify – even in a non-exhaustive
+way – the reoccurring features of these actions in order to extricate
 the 'mediating conjunctures' that are the foundation of this digital
 turn. In other terms, it should be possible to identify a series of
 forces, tendencies, values, ideas, agents that dynamically interlace to
@@ -453,9 +453,9 @@ the Internet and then of the web. Digital culture is undoubtedly a
 network culture, as we can see by the large number of scholarly works
 dedicated to the subject.[^15] Ideas such as contribution, sharing,
 connectivity, collaboration, etc., which are so present in today's
-culture, bring into question many institutional gains -- tied to the
+culture, bring into question many institutional gains – tied to the
 idea of originality, for example, or of the individual, or again of the
-author -- that are founded on a network structure which seems to us
+author – that are founded on a network structure which seems to us
 increasingly present. Clearly, this large presence of networks and the
 impact that these structures have on our societies are not the only
 features of the digital world. In other words, the digital is without a
@@ -465,13 +465,13 @@ particularities, the tendencies in play in the mediating conjunctures
 that we call 'digital', but they are not a revolutionary element nor in
 themselves unprecedented. Retracing the history of network culture would
 be impossible, as it has crossed our societies' entire history as we
-remember, for example, the road networks put in place by the Romans -- a
+remember, for example, the road networks put in place by the Romans – a
 centralized network, of course, but one that aimed to facilitate the
 possibility of decentralization, a possibility on which the empire was
 thereafter founded. We could cite other situations where the idea of a
 network has played a fundamental role: the constitution of the posting
 network from the Middle Ages, *Canal mania* and then *Railway mania* in
-18^th^ and 19^th^ century England... Network culture has therefore
+18th and 19th century England... Network culture has therefore
 developed for millennia and their technical, economic and cultural
 capabilities, as well as their interpretative and symbolic capabilities
 relating to the network's consequences, which acquire over time, are
@@ -479,7 +479,7 @@ present during the development of informational networks, the Internet
 being the latest example. In other terms, the notion of the network has
 always existed, even if it were able to have a differing influence over
 the centuries. Digital mediating conjunctures renew this notion, but
-they are far from inventing it *ex nihilo.* In addition, understanding
+they are far from inventing it *ex nihilo*. In addition, understanding
 this long history of network culture is necessary for correctly
 analyzing the debates surrounding current technologies: informational
 networks have benefited from the infrastructures that have previously
@@ -489,7 +489,7 @@ railway, as railway societies are the only ones to have been given
 permission to bury a cable across the entire width of a country in
 avoiding telecommunication societies by needing to ask permission from
 millions of different land owners. Therefore, the geopolitical issues
-tied to the construction of east-west railways in the 19^th^ century
+tied to the construction of east-west railways in the 19th century
 have an impact today on Internet geopolitics.[^16]
 
 #### The Idea of Performativity
@@ -498,13 +498,13 @@ Another characteristic of the digital, or even, another force in play in
 the establishment of the mediating conjunctures that we call 'digital',
 leads us to the timeless opposition between two paradigms relating to
 our interpretation of reality: a representational paradigm and a
-performative -- or if preferred, operational -- paradigm. To put it
+performative – or if preferred, operational – paradigm. To put it
 simply, we can think about writing practices just as we think of forms
 of representations of the real, that is, a way to form a relationship
-between a signifier -- writing -- and a referent -- the real, to which
+between a signifier – writing – and a referent – the real, to which
 writing refers to. In this sense, we can think about writing as having a
 mimetic function and insert it into the series of representational
-forms, such as have been practiced and analyzed since Antiquity -- from
+forms, such as have been practiced and analyzed since Antiquity – from
 Plato to today. Within this context, the question to be asked would
 relate to the way linguistic acts correspond to their referents or,
 otherwise stated, the relationship between truth and fiction: is writing
@@ -515,21 +515,21 @@ And yet digital culture does not seem to privilege this paradigm and
 instead suggests another: the performative paradigm. We have studied the
 notion of performativity, and the effervescence around this term shows
 that this paradigm acquires an importance more and more central to the
-way we think the world[^17].
+way we think the world.[^17]
 
 To briefly explain, we could say that according to the performative
 paradigm, writing must be considered as an act producing the real. In
 other words, it is not a case of representing a reality, but of
 constructing it. Digital culture privileges this approach. When we write
-something on the web -- and here we imply, by writing, all forms that
-produce a trace, and therefore also the fact of publishing a photo --,
+something on the web – and here we imply, by writing, all forms that
+produce a trace, and therefore also the fact of publishing a photo –
 we do so with an operational aim. We do not represent something, but
-rather we do something -- on the web I buy plane tickets, I organize my
+rather we do something – on the web I buy plane tickets, I organize my
 bank account, I work, I buy a book, etc. Even when I write a review for
 a restaurant on Tripadvisor, I do this so I can do something: for
 example, to change the ranking of the restaurant in question or its
 visibility. In fact, I am in the process of producing the restaurant, of
-contributing to what this restaurant is -- for example, a good or a bad
+contributing to what this restaurant is – for example, a good or a bad
 restaurant, a fish or a meat restaurant.
 
 And yet, once again, it is easy to demonstrate that this tendency to
@@ -552,23 +552,23 @@ it, too, was obviously not born alongside the development of information
 technologies. The example of the Alexandrine manuscripts is particularly
 illuminating in this regard. It is enough to cast a quick look at a
 manuscript such as the *Palatine Anthology* to realize this. This is a
-10^th^ century codex containing a collection of Greek epigrams. The
+10th century codex containing a collection of Greek epigrams. The
 manuscript is particularly meaningful because, thanks to it, we have
 access to a large part of the Greek poetry that we know today: the
 manuscript is therefore of fundamental cultural importance.
 
 Many characteristics of the manuscript seem interesting given our
 current discussion: the fact that it is an anthology, the fact that it
-is the result of the sedimentation of many textual layers -- it contains
-poems written between the 7^th^ century BC to the 10^th^ century AD, the
+is the result of the sedimentation of many textual layers – it contains
+poems written between the 7th century BC to the 10th century AD, the
 fact that it contains fragments and that it proposes different
 non-linear classification systems. All these characteristics are
 specific to digital writing. The idea of the anthology, which developed
-during the Alexandrine age in the 3^rd^ century BC, consists in
-composing collections that are at the same time exhaustive -- they give
-an overall idea of a literary form or of particular themes -- and
-partial -- as it is always the result of a selection. The *Palatine
-Anthology* is the recompilation of ancient Alexandrine anthologies -- in
+during the Alexandrine age in the 3rd century BC, consists in
+composing collections that are at the same time exhaustive – they give
+an overall idea of a literary form or of particular themes – and
+partial – as it is always the result of a selection. The *Palatine
+Anthology* is the recompilation of ancient Alexandrine anthologies – in
 particular that of Meleager. Obviously, the anthology implies a
 fragmentary form, and the fragmentary form invites a non-linear
 structure. The question that herein arises is as follows: how to produce
@@ -586,9 +586,9 @@ centuries. Technological developments are probably in part determined by
 this desire to orient and structure them. We can try to retrace this
 penchant for non-linearity by citing, for example, the ideas of Vannevar
 Bush, and then of Ted Nelson, to make a link between a principle already
-present in the 3^rd^ century BC and the structuring of the web as
+present in the 3rd century BC and the structuring of the web as
 conceived of in the 1990s. The hyperlink, the layering of different
-versions, systematic rewriting -- plagiarism, pastiche, parody -- have
+versions, systematic rewriting – plagiarism, pastiche, parody – have
 always existed and the digital has only absorbed these culturally
 ancient tendencies.
 
@@ -607,15 +607,15 @@ purely human limitations that inhibit the retention and cultivation of
 this entirety of information: accessibility and calculability.
 
 Not all information is entirely accessible to humans, even if we
-consider that information exists, that it lies somewhere -- contained in
+consider that information exists, that it lies somewhere – contained in
 a book, retained by a group of specialists or simply observable in
-nature -- or that it is disseminated, hidden or even beyond
+nature – or that it is disseminated, hidden or even beyond
 understanding, and this is because of an inability wherein we find
 ourselves decoding and standardizing languages, coding, formats. The
 structural problem of the library derives from this observation. The
 library is a device that attempts to knock down one of two limits of the
 dream of complete knowledge: accessibility. In a library, all the
-information -- or at least a lot of information -- is accessible. But,
+information – or at least a lot of information – is accessible. But,
 even if complete accessibility were achieved, one other limit would
 remain: the concatenation of data, calculability. In other terms, once a
 person has access to a large mass of information, how can they cultivate
@@ -632,7 +632,7 @@ calculability. The machine became a Leibnizian god, capable of knowing
 all and calculating all and promising complete accessibility and
 complete calculability which means complete knowledge. Tim Berners Lee
 can be considered a public figure who promotes this dream of complete
-knowledge. In a 2009 TED Talk[^18], he presents this idea in an enthused
+knowledge. In a 2009 TED Talk,[^18] he presents this idea in an enthused
 and enthusiastic manner. 'A few years ago, I asked you to put your
 documents online and you did so. It's great! Today I ask you to put your
 data on the web'. Accessibility and calculability. The web renders an
@@ -656,8 +656,8 @@ traversed the history of thought.
 The ensemble of these ideas and tendencies combines today by giving way
 to conjunctures whose singular and novel aspect is not found in each of
 these ideas considered individually, but in their concentration in
-shared space. It is the combination of these ideas -- as well as a
-series of others that may please us to identify and specify -- within a
+shared space. It is the combination of these ideas – as well as a
+series of others that may please us to identify and specify – within a
 particular technological and economic context that gives way to the
 digital turn. And yet, as we have highlighted, mediating conjunctures
 are not stable and cannot be 'identified'. The gesture of identification
@@ -667,7 +667,7 @@ purposefully 'isolate' our observational range. As in the case of a
 school of fish, we can limit our gaze to what occurs within the
 geometric shape of the school, or we can also see how it interacts with
 one or many external elements. And again, we can choose a more or less
-extended period of observation -- synchronous or diachronic. In the same
+extended period of observation – synchronous or diachronic. In the same
 way, the digital turn is a way of demarcating a field of observation
 within our current society by prioritizing certain aspects. In reality,
 behind this crystallization we find a moving ensemble of forces and
@@ -700,13 +700,13 @@ called a 'mediatic resistance' occurring within the world of theater.
 The intermedialists affirm the primacy of relationships over the objects
 caught within the dynamic and the genesis of media practices and, above
 all, they place at the center of their preoccupations the question of
-materiality and the role of technology -- the non-human. In doing so,
+materiality and the role of technology – the non-human. In doing so,
 they have done little to draw sympathy from a community who, for more
 than a century, have forged their identity based on the real-life actor
 (their voice, their body) and their 'direct' relationship, reputed as
 pure, true and natural, with another real-life person, the spectator. By
-rejecting essence (including that of theater) and binary oppositions --
-for example, the live versus the mediated -- onto which dominant
+rejecting essence (including that of theater) and binary oppositions –
+for example, the live versus the mediated – onto which dominant
 theatrical discourse is constructed, intermediality calls into question
 certain foundations of theater studies and invites us to redefine them.
 But this meeting also concerns circumstantial factors. Intermedial
@@ -730,7 +730,7 @@ which has not yet entirely subsided.
 Jonathan Sterne,[^21] a figurehead of American Sound Studies, recalls
 the slogan-concepts 'fidelity' and 'high-fidelity' that have been
 hammered into the sound reproduction industry[^22] from the end of the
-19^th^ century up until the end of the 20^th^ century and that, relying
+19^th^ century up until the end of the 20th century and that, relying
 on mimetic logic, have no other objective than to frustrate the
 'traitor' accusations directed towards its 'devices', which disrupt the
 link between the body of the artist and the ear of the listener. These
@@ -740,9 +740,9 @@ nostalgia and anticipation of the future. Sound reproduction
 technologies supposedly damage the *aura*[^23] of the artist and the
 stage that had been, up until then, the only place of the consecration
 of 'beautiful voices'. In addition to questions of reproduction and
-authenticity that it gives rise to, the intrusion of 'mediated' sound --
+authenticity that it gives rise to, the intrusion of 'mediated' sound –
 that is to say, transmitted by microphones, loud speakers and
-phonographs (records) -- onto the theater stage was therefore perceived
+phonographs (records) – onto the theater stage was therefore perceived
 and presented as a double assault, by detractors who were also the
 defenders of the so-called 'secular' stage: the assault of the 'new
 decadent culture' of mechanic entertainment against the 'other' culture
@@ -760,8 +760,8 @@ the concept of liveness,[^26] a value which, from the outset must, in
 the spirit of its promoters, be situated at the hierarchical pinnacle of
 representational practices 'seen in action' (as in cinema, records,
 radio or television). Nobody today contests the fact that the theater is
-effectively a practice above all branded by living presence -- the
-co-presence of actor and spectator --, but the hierarchical conception
+effectively a practice above all branded by living presence – the
+co-presence of actor and spectator – but the hierarchical conception
 of practices that were attached to this argument rest on the existence
 of stability and of the media frontiers that intermediality reduces to
 discursive constructions. However, from an intermedial point of view,
@@ -805,8 +805,8 @@ hypermedium model, we find not a minute trace of this notion of presence
 so frequently evoked following the appearance of cinema!
 
 The intermedial approach has demonstrated that there are ontological
-issues tied to every technological innovation -- or every intermedial
-transfer (between an ensemble of mediating conjunctures and another) --
+issues tied to every technological innovation – or every intermedial
+transfer (between an ensemble of mediating conjunctures and another) –
 and that these concerns become major and therefore terribly worrying
 when innovation has the ability to overturn usage protocols and
 established values. The more anxiety thrives, the stronger the media
@@ -824,7 +824,7 @@ Pougin published his dictionary even while sound reproduction
 technologies (telephone, microphone, phonograph) were still in their
 infancy, when cinema was no more than a fantasy. But this is not the
 case for Walter Benjamin's *The Work of Art in the Age of Mechanical
-Reproduction,* published during the aforementioned period. He dedicates
+Reproduction*, published during the aforementioned period. He dedicates
 a long passage to the theater, largely repeating the criticisms and
 fears expressed by the playwright and director Luigi Pirandello
 regarding cinema in his novel *Si gira*.[^29] Choosing a camera operator
@@ -833,11 +833,11 @@ consideration, if not contempt, that he has for this 'new
 entertainment'. He therefore sees cinema as neither more nor less than
 the end of the actor's art. The cinema as anti-theater!
 
-> The film actor, wrote Pirandello, feels as if in exile -- exiled not
+> The film actor, wrote Pirandello, feels as if in exile – exiled not
 > only from the stage but also from himself. With a vague sense of
 > discomfort he feels inexplicable emptiness: his body loses its
 > corporeality, it evaporates, it is deprived of reality, life, voice,
-> and the noises caused by his moving about, \[...\].[^30]
+> and the noises caused by his moving about [...].[^30]
 
 Or again,
 
@@ -851,10 +851,10 @@ therein emerges as THE distinctive quality of theater performance and
 seems to guarantee its ontological superiority in regard to 'reproduced'
 performances. The depreciative effect extends not only to electric
 media, but to all forms of mediations realized with the help of
-technological (or non-human) devices -- be they acoustic or electric.
+technological (or non-human) devices – be they acoustic or electric.
 
 We could undoubtedly reproach Benjamin for having granted an overly
-large space -- an entire space, in fact -- to Pirandello in the 1910s,
+large space – an entire space, in fact – to Pirandello in the 1910s,
 the years of silent film, and of preoccupying himself with the writer
 during this period of his reflection on the *aura*, which concerns
 theater. We know that Benjamin defended the idea of wider sharing and
@@ -884,12 +884,12 @@ obviously unlikely that the defenders of theater's 'essence' had read
 Benjamin and were inspired by the passages that he dedicated to
 Pirandello. We should instead notice that these preoccupations were well
 and truly circulating in this troubled time and that, for the defenders
-of presence, art is human, and therefore all non-human intervention --
-technology, as it happens -- impoverishes it or, worse, betrays it. But
+of presence, art is human, and therefore all non-human intervention –
+technology, as it happens – impoverishes it or, worse, betrays it. But
 contrary to Benjamin, the defenders of theater's presence cling to a
 dualist model, forgetting the advantages of reproduction that Benjamin
 nonetheless highlights. They cling to this simplistic logic where the
-'reproduced' -- that which corresponds to the mediated -- suffers an
+'reproduced' – that which corresponds to the mediated – suffers an
 unavoidable loss in relation to the original. They present theater
 performance as one of the ultimate spaces of resistance to the
 domination of mechanical reproduction. This theory sometimes seems
@@ -904,16 +904,16 @@ its reproduction by technology, he highlighted the essential function
 played by the actor. It is to the actor that theater owes its
 originality, even its superiority. Quoting perceptual psychologist and
 film theorist Rudolph Arnheim, Benjamin recalls that 'the latest trend
-\[in film consists in\] treating the actor as a stage prop chosen for
-its characteristics and ... inserted at the proper place'.[^38]
+[in film consists in] treating the actor as a stage prop chosen for
+its characteristics and [...] inserted at the proper place'.[^38]
 
 Pirandello's complaint of the film cameras 'denaturing' interference is
 the same that motivated accusations of sound reproduction technologies'
 betrayal, as Jonathan Sterne mentions.
 
 One could be tempted to believe that three quarters of a century later,
-the reality of the practice -- which was not undermined by the invasion
-of reproduction technologies and intermedial transfers -- would have
+the reality of the practice – which was not undermined by the invasion
+of reproduction technologies and intermedial transfers – would have
 relegated this essentialist discourse, along with the notion of
 presence, which it is based on, to the ranks of a historically
 categorized argument. But it is far from that. In an important work
@@ -940,7 +940,7 @@ ontology.[^39]
 
 Therefore, associating with 'the economy of reproduction' in the middle
 of the 1990s while the digital wave unfolded, remained a betrayal of
-theater's 'ontological promise!'
+theater's 'ontological promise!'.
 
 Phelan's declaration would result in an aggressive reaction from Philip
 Auslander[^40] and trigger a long and passionate debate within
@@ -957,20 +957,20 @@ nearly the same time as Bolter and Grusin's work on remediation and as
 Auslander's work on liveness, Paul Ricœur furthers his reflection on the
 construction of identity and on related concerns initiated about ten
 years prior.[^42] By returning to concepts such as 'sameness' and
-'ipseity', the latter corresponding more to the defenders' arguments --
-including Phelan -- for maintaining the original purity of the practice,
+'ipseity', the latter corresponding more to the defenders' arguments –
+including Phelan – for maintaining the original purity of the practice,
 Ricœur underlines the flaws relating to the process of affirming one's
 identity and the downward spiral that this can cause. Identity is not
 entirely certain! 'What constitutes the fragility of identity? It is
 identity's purely presumptive, alleged, reputed character'.[^43] It is
 in order to legitimize this presumption-allegation-assertion that the
-defenders of identity -- namely, of ipseity -- recall with such
+defenders of identity – namely, of ipseity – recall with such
 insistence a past that is quite obviously a reinterpreted one.
 
 > The heart of the problem is the mobilization of memory in the service
 > of the quest, the appeal, the demand for identity.
 >
-> **\[...\]**
+> [...]
 >
 > As the primary cause of the fragility of identity we must cite its
 > difficult relation to time; this is a primary difficulty that,
@@ -998,7 +998,7 @@ however, mechanical nor insignificant. It allows one document, rather
 than another, to transcend time. Let us take two examples, one from the
 past, one from the present.
 
-The 20^th^-century historical narrative has rendered theater the
+The 20th century historical narrative has rendered theater the
 'residue of pure and authentic culture in a world of mass-media and
 television daftness', as Peter Boenisch rightly claims.[^46] From
 Jacques Copeau's 'bare stage' and Peter Brook's 'empty space' to Jerzy
@@ -1097,8 +1097,8 @@ presence, even in theater's most reduced form, is always the product of
 mediating conjunctures, they have raised this presence to the status of
 an absolute, insisting on its rarity and its immediacy. It is difficult
 to separate, in their long and complex action, that which comes from a
-**technophobic** sentiment, religious convictions -- and the belief in
-natural (divine) superiority over the artificial (human) --, from
+*technophobic* sentiment, religious convictions – and the belief in
+natural (divine) superiority over the artificial (human) – from
 commercialism, nostalgia, fear, blindness or simple naivety. But let us
 dream for a moment: what remarkable and precious information could
 provide us with a video recording of the creation of *Hamlet* in around
@@ -1125,23 +1125,23 @@ of presence. Up until now, we have analyzed facts and a discourse in
 relation to the intermedial grid. Here, we sketch an intermedial history
 of theatricality.
 
-As a composite practice in which human agents from different domains --
+As a composite practice in which human agents from different domains –
 authors, scenographers, musicians, actors, sound creators, lighting
-creators, performers, technicians, etc. -- collaborate alongside
+creators, performers, technicians, etc. – collaborate alongside
 non-human agents of an equally diverse nature, the theater is
-historically founded on the principle of mimesis -- as are other arts,
-such as in Western literature--, that is to say on the principle of the
+historically founded on the principle of mimesis – as are other arts,
+such as in Western literature – that is to say on the principle of the
 representation of a certain reality that is not exclusively limited to
 the visible universe and to everything that inhabits or has inhabited
 it, but to that which could have been, or should be. From Aristotle's
 *Poetics* to Paul Ricœur's *Time and Narrative* (1983), or to the
 cardinal rule of classical similitude, from the concern for the romantic
 'true detail' to realist requirements and Stanislavki's 'reliving of an
-experience' of the 19^th^ and 20^th^ centuries, we have not ceased to
+experience' of the 19th and 20th centuries, we have not ceased to
 redefine, to adapt, to draw out the concept of mimesis, all without
 bringing into question the existence of the triad that founds it or the
 invariable chronology of the mimetic action that requires, in this order
-(1) a source -- 'the original' --, (2) the action to imitate and (3) the
+(1) a source – 'the original', (2) the action to imitate and (3) the
 'copy' which is its outcome.
 
 Ricœur, in centring his reflection on mimesis in historical as well as
@@ -1173,10 +1173,10 @@ instability has been and is translated again into a necessity where we
 find ourselves continuously redefining theatricality and shifting the
 boundaries between media practices.
 
-Our inability to lastingly define genres or media -- to be precise, we
-are obliged to remain true to a defined conjuncture (5^th^ century (BC)
+Our inability to lastingly define genres or media – to be precise, we
+are obliged to remain true to a defined conjuncture (5th century (BC)
 Greek tragedy, the French theater of the *Grand Siècle*, American
-vaudeville theater, etc.) -- is the most striking display of this. And
+vaudeville theater, etc.) – is the most striking display of this. And
 technological progress derived from the mastery of electricity and, more
 recently, from digital developments, have only accentuated and rendered
 again more apparent this changing media reality that brings into light
@@ -1186,7 +1186,7 @@ discursive constructions). The audiences that attend the most recent
 theater productions and dance shows in fact regularly experience this:
 we find many more shared characteristics between these two reputed and
 distinct art practices than between current theater and that of the
-17^th^ century. Ontological discourse traces frontiers, suggests
+17th century. Ontological discourse traces frontiers, suggests
 historical filiations, deduces theoretical ties between practices of
 different periods, that the stage reality enjoys interfering with.[^54]
 
@@ -1201,8 +1201,8 @@ to cinema, and to the magic lantern. In the same way, the concept of
 presence, which Henri Gouhier has elevated to the 'essential' quality of
 theater, also applies to dance, as we have just mentioned, as well as to
 the circus and to concert performances, but also to sporting events
-(when one attends in person). And this same concept of presence -- or of
-live -- has paradoxically allowed radio and television to differentiate
+(when one attends in person). And this same concept of presence – or of
+live – has paradoxically allowed radio and television to differentiate
 themselves from cinema and to win popular favor.
 
 We unsurprisingly notice that even the term theatricality, as well as
@@ -1229,7 +1229,7 @@ by 'making theater'; or when there is the addition of the epithet
 'theatrical' to the substantives gesture, pose, attitude, situation, or
 conclusion, etc.
 
-The 'theatrical' -- and through this the very idea of theatricality --
+The 'theatrical' – and through this the very idea of theatricality –
 therefore rapidly acquires a negative connotation which, by
 contamination, would extend to the theater itself. It would be separated
 from, according to Postlewait and David, a profound 'anti-theatrical
@@ -1242,7 +1242,7 @@ confirms that theatricality is tied to its historical period. We
 otherwise notice that the arrival of stage realism corresponds, in time,
 to a marked acceleration of research and of experimentation in the field
 of sound and image reproduction, that would give birth to the large
-electric media of the 20^th^ century. In the mimetic logic that realist
+electric media of the 20th century. In the mimetic logic that realist
 theater defends, theatricality does not disappear, but its effect of
 enlargement and of exaggeration diminishes to the benefit of a
 'reliving' (of reality). The distance between the original and the
@@ -1254,9 +1254,9 @@ ultimate objective of mediation nor an inevitable and desired outcome,
 as opposed to what the reproduction technology industry has advocated
 for more than a century. Opacity, as the two authors demonstrate well,
 is omnipresent in history and if, as a whole, the need to experience an
-immediate relationship with what is represented -- thanks to
-transparency -- seems dominant, our fascination for the performance of
-mediation in work -- which is a way to define opacity -- never entirely
+immediate relationship with what is represented – thanks to
+transparency – seems dominant, our fascination for the performance of
+mediation in work – which is a way to define opacity – never entirely
 disappears. It is in fact a reversal of this tendency that we witnessed
 during the decline of realism and the appearance of the avant-gardes.
 The principle of opacity has therefore gained legitimacy, the
@@ -1265,13 +1265,13 @@ their shows. It thereby opened an age of 'theatricalized theater' that
 we will no longer cease to celebrate, first in restrained circles from
 Dada to Meyerhold, from Artaud to Brecht, then on a larger scale with
 postmodernity. For Postlewait and Davis, this change set in motion the
-progressive slide from 'representational' to 'presentational'\[\^c556\]
+progressive slide from 'representational' to 'presentational' [c556]
 and brought to the fore the performative dimension of mediation. We
 could add that this also marked the end of the domination of the
 traditional mimetic regime.
 
 Integrating the lessons of Mallarmé and Hegel, who sought to make
-language -- and poetic language -- an autonomous universe, a world in
+language – and poetic language – an autonomous universe, a world in
 itself, the heavy theatrical machine therefore provided a
 self-sufficient stage universe. This negation of the referential world
 has conferred to theatricality an unequal status in history: it took on
@@ -1294,7 +1294,7 @@ must understand the famous declaration of Roland Barthes, one of the
 most influential French critiques of the 1950s and 1960s, who is also
 one of the first theorists to use the word theatricality (from 1954):
 'What is theatricality? It is theatre without the text, it is a density
-of signs and sensations that manifests on stage \[\...\]'.[^57]
+of signs and sensations that manifests on stage [...]'.[^57]
 
 From an intermedial point of view, this definition is obviously
 absurd.[^58] Not only does the text participate in theatricality, but
@@ -1307,7 +1307,7 @@ meaning, that affects the domain of creation as much as that of
 reception, includes a major performative dimension (the term
 performativity had not yet entered into use in the mid 50s, at least in
 the theater domain), it is above all the removal on which Barthes's
-definition is founded -- 'theatre without the text' -- that made a
+definition is founded – 'theatre without the text' – that made a
 lasting impression on our minds. It is also what provoked a profound
 crisis from which theater has not entirely recovered from six decades
 later.
@@ -1315,7 +1315,7 @@ later.
 With the avant-gardes and postmodernity burgeoning, the progressive
 abandon of the representational, in favor of the presentational, paved
 the way for a new approach marked by performativity and collaboration
-between practices -- from interdisciplinary to multidisciplinary. It
+between practices – from interdisciplinary to multidisciplinary. It
 would have been logical that, in this context, the concept of
 theatricality would simply be enriched by a performative dimension, but
 two factors have inhibited this development. On the one hand, semiotic
@@ -1360,7 +1360,7 @@ The attraction of the performativity concept derives largely from the
 successes won by this new artistic practice, that is, performance and
 the critical thought that it produces. But its most sudden breakthrough
 within theater studies and the hegemony that this concept rapidly
-exerted -- and still exerts -- is initially explained by the decline in
+exerted – and still exerts – is initially explained by the decline in
 the concept of theatricality and by the void that its rejection created
 (aggravated by the general decline in semiotic influence). Richard
 Schechner and his collaborators for the renowned journal *Performance
@@ -1377,9 +1377,9 @@ of the performer, of course, but also that of the
 viewer-experiencer-user, rendered co-creator. He separates himself, on
 the one hand, from the image of the performer who (would) play his life;
 on the other hand, he distances himself from that of the actor who
-(would) represent one. Even if reality is not so simple -- because it
+(would) represent one. Even if reality is not so simple – because it
 always remains a part of the representational in any stage show and in
-its components, because mimesis has never entirely disappeared --, this
+its components, because mimesis has never entirely disappeared – this
 double equation remains.
 
 In this era of the presentational, which was also an era of a 'new
@@ -1399,17 +1399,17 @@ we have discussed in chapter 3. Josette Féral, who has successively been
 one of the influential theorists of theatricality and performativity,
 very recently offered one possible response:
 
-> To again interrogate the concept of theatricality \[...\] in light of
+> To again interrogate the concept of theatricality [...] in light of
 > the multiple developments of the performative that characterize a
 > contemporary theatre stage in constant change is a must.[^62]
 
 This suggestion is more than appropriate. By opposing theatricality and
 performativity, and by privileging the latter at the expense of the
-former -- under the pretext that the latter is true and the former is
+former – under the pretext that the latter is true and the former is
 false or because the former is weighed down by a heavy negative
 connotations (from enlargement and falsity to the semiotic aura), or
 even because the latter continues to enjoy an immense prestige within
-the human sciences --, theater studies have perhaps not but retraced the
+the human sciences – theater studies have perhaps not but retraced the
 model of old binary categories that they themselves have endured. Are we
 thereby still a part of the presentational era? Things evolve. We
 observe a marked return of the character, that of the narrative and,
@@ -1484,8 +1484,8 @@ together agency and structure, constructivism and realism, which seems
 to be, in our time, the primary objective of philosophy.
 
 [^1]: Patrik Svensson, 'Envisioning the Digital Humanities', 6.1 (2012)
-    \<<http://www.digitalhumanities.org/dhq/vol/6/1/000112/000112.html>\>
-    \[accessed 5 December 2014\].
+    http://www.digitalhumanities.org/dhq/vol/6/1/000112/000112.html
+    [accessed 5 December 2014\].
 
 [^2]: For the definition of this expression, see Milad Doueihi, *Digital
     Cultures*, Cambridge, Mass.: Harvard University Press, 2011.
@@ -1517,8 +1517,8 @@ to be, in our time, the primary objective of philosophy.
 
 [^10]: Micheline Cambron and Marilou St-Pierre, 'Presse et ondes
     radiophoniques', *Sens Public*, 2016
-    \<<http://www.sens-public.org/article1199.html>\> \[accessed 29 May
-    2018\].
+    http://www.sens-public.org/article1199.html [accessed 29 May
+    2018].
 
 [^11]: See Elizabeth L Eisentein, *The Printing Revolution in Early
     Modern Europe*, Cambridge: Cambridge University Press, 1983.
@@ -1540,12 +1540,12 @@ to be, in our time, the primary objective of philosophy.
 
 [^16]: See, for example Gill Plimmer and Daniel Thomas, 'Network Rail's
     Fibre Optic Network Attracts Telecoms Interest', 2016
-    \<<https://www.ft.com/content/173b6c06-f1da-11e5-aff5-19b4e253664a>\>
-    \[accessed 10 April 2018\]. or Jane Tanner, 'New Life for Old
+    https://www.ft.com/content/173b6c06-f1da-11e5-aff5-19b4e253664a
+    [accessed 10 April 2018]. or Jane Tanner, 'New Life for Old
     Railroads; What Better Place to Lay Miles of Fiber Optic Cable',
     *The New York Times*, 2000
-    \<<https://www.nytimes.com/2000/05/06/business/new-life-for-old-railroads-what-better-place-to-lay-miles-of-fiber-optic-cable.html>\>
-    \[accessed 10 April 2018\].
+    https://www.nytimes.com/2000/05/06/business/new-life-for-old-railroads-what-better-place-to-lay-miles-of-fiber-optic-cable.html
+    [accessed 10 April 2018\].
 
 [^17]: On the topicality of the performative paradigm in relation to the
     representational paradigm, see also Karen Barad, *Meeting the
@@ -1592,23 +1592,23 @@ to be, in our time, the primary objective of philosophy.
     purposes of this study, we will limit ourselves to the definition
     offered by Philip Auslander: 'In theatrical parlance, *presence*
     usually refers either to the relationship between actor and audience
-    -- the actor as manifestation before an audience -- or, more
+    – the actor as manifestation before an audience – or, more
     specifically, to the actor's psychophysical attractiveness to the
-    audience, a concept related to that of *charisma.* Concepts of
+    audience, a concept related to that of *charisma*. Concepts of
     presence are grounded in notions of actorly representation; the
     actor's presence is often thought to derive from her embodiment of,
     or even possession by, the character defined in a play text, from
     the (re)presentation of self through the mediation of character, or,
     in the Artaudian/Grotowskian/Beckian line of thought, from the
     archetypal psychic impulses accessible through the actor's
-    physicality'., Philip Auslander, *Presence and Resistance:
+    physicality, Philip Auslander, *Presence and Resistance:
     Postmodernism and Cultural Politics in Contemporary American
     Performance*, Annotated edition edition, Ann Arbor: University of
     Michigan Press, 1994, p. 37.
 
 [^27]: Arthur Pougin, *Dictionnaire Historique Et Pittoresque Du Théâtre
     Et Des Arts Qui s'y Rattachent: Poétique, Musique, Danse, Pantomime,
-    Décor, Costume, Machinerie, \... Fètes Publiques, Réjouissa*,
+    Décor, Costume, Machinerie [...] Fètes Publiques, Réjouissa*,
     Forgotten Books, 2018, p. 63, our translation.
 
 [^28]: The influence of the concept of *Gesamtkunstwerk* is defended by
@@ -1627,7 +1627,7 @@ to be, in our time, the primary objective of philosophy.
     Characters in Search of an Author* to the screen. On this topic, see
     Fabio Andreazza, 'La conversion de Pirandello au cinéma', *Actes de
     la recherche en sciences sociales*, 161-162.1 (2006), 32 (pp.
-    32-41) \<<https://doi.org/10.3917/arss.161.0032>\>.
+    32-41) https://doi.org/10.3917/arss.161.0032.
 
 [^33]: And also covered in his essays *Petite histoire de la
     photographie* and *Sur quelques motifs baudelairiens.*
@@ -1681,7 +1681,7 @@ to be, in our time, the primary objective of philosophy.
 
 [^50]: Gay McAuley, 'The Video Documentation of Theatrical Performance',
     *New Theatre Quarterly*, 10.38 (1994), 183-94 (p. 184)
-    \<<https://doi.org/10.1017/S0266464X00000348>\>.
+    https://doi.org/10.1017/S0266464X00000348.
 
 [^51]: *Writers at Work: The Paris Review Interviews: First Series*, ed.
     by Malcolm Cowley, New York: Penguin Books, 1977, p. 100.
@@ -1720,8 +1720,8 @@ to be, in our time, the primary objective of philosophy.
     example of what is produced in the chiasmus between visible and
     invisible.
 
-    We are not before a visible center -- once upon a time there was
-    Phaedra -- that is reproduced, represented here and now thanks to
+    We are not before a visible center – once upon a time there was
+    Phaedra – that is reproduced, represented here and now thanks to
     the actor's action. It is more a case of the invisible, and this
     invisibility structures all the visible; Phaedra is the invisible.
     What is produced on stage is a sort of embodiment: the actor becomes
@@ -1762,5 +1762,5 @@ to be, in our time, the primary objective of philosophy.
 
 [^62]: Josette Feral, 'Les paradoxes de la théâtralité',
     *Théâtre/Public*, 2012, p. 8
-    \<<https://hal-univ-paris3.archives-ouvertes.fr/hal-01497261>\>
-    \[accessed 12 June 2019\], our translation.
+    https://hal-univ-paris3.archives-ouvertes.fr/hal-01497261
+    [accessed 12 June 2019], our translation.

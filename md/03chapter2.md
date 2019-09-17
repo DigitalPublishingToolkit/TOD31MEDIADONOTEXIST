@@ -4,13 +4,13 @@
 
 In Chapter 1, we described the history of intermedial thinking as a
 gradual transition from a theory of media, constructed as objects, to a
-theory of the end of media -- a 'postmediatic' theory. This development
+theory of the end of media – a 'postmediatic' theory. This development
 was accompanied by a steady decline in essentialist ways of thinking
 about media. Intermediality can therefore be said to have sprung from
 the shift from an essentialist heuristic (based on the assumed existence
 of competing media) towards a non-essentialist heuristic (there are no
 media but rather dynamic convergences that produce forms of mediation,
-what we call 'mediating conjunctures' -- see Chapter 3). We therefore
+what we call 'mediating conjunctures' – see Chapter 3). We therefore
 divide intermedial thinking into two periods: the mediatic and the
 postmediatic.
 
@@ -34,9 +34,9 @@ which they are distinguished? In short, while the complex concept of
 difficulties of a radically essentialist stance, its critique brings us
 up against the limitations of any non-essentialist position. If we try
 to define one medium's characteristics in order to distinguish it from
-another -- to articulate the difference between a printed book and an
+another – to articulate the difference between a printed book and an
 e-book, for example, or between a play and a movie that tell the same
-story -- we take medium and content to be mutually independent (the
+story – we take medium and content to be mutually independent (the
 position defended by Jenkins[^1] and Elleström[^2]), which confronts us
 with the paradox of imagining content without a medium, ready to be
 shaped in one manner or another, depending on the chosen medium. If, on
@@ -70,7 +70,7 @@ possibility of motion and freedom. This debate remains pertinent to this
 day and the theoretical issues it throws up will inform our reflections
 on media.
 
-In Book 1 of the *Metaphysics,* Aristotle discusses the ideas of
+In Book 1 of the *Metaphysics*, Aristotle discusses the ideas of
 Parmenides, the founder of the Eleatic School, who held that reality is
 one. As Aristotle notes, the difficulty with this position is how to
 account for motion, since Parmenides is 'compelled to accord with
@@ -96,7 +96,7 @@ is immobile, for motion is a contradiction.
 Other philosophers, of course, defend a diametrically opposed position:
 Heraclitus sides with motion and arrives at the conclusion that there is
 no unity or essence, only flux: 'No man ever steps in the same river
-twice'[^5], for everything is in movement, 'everything flows'.
+twice',[^5] for everything is in movement, 'everything flows'.
 
 The opposition between the one and the many is central to the dialogue
 Plato entitled the *Parmenides*, believed to be one of his last. It has
@@ -140,7 +140,7 @@ and not white. In that instant, the principle of non-contradiction does
 not apply.
 
 Plato calls this paradoxical transition by the Greek word
-*exaiphnes,*[^7] which means, precisely, 'instant'. The *exaiphnes* is
+*exaiphnes*,[^7] which means, precisely, 'instant'. The *exaiphnes* is
 an in-between, an inter-space where opposites coexist; it might
 therefore be translated as 'interval'. Plato's discussion of the concept
 is highly complex and has been the subject of diverse interpretations
@@ -213,7 +213,7 @@ words, phonemes, etc.) while reality appears continuous. The attempt to
 understand the objects of perception using our discretizing apparatus is
 troubled by paradoxes, the resolution of which can be counted among
 humanity's loftiest aspirations. It might be said that all scientific
-thought -- and technical thinking in particular -- strives to refine our
+thought – and technical thinking in particular – strives to refine our
 apparatus for discretizing reality in order to grasp the world as a
 continuous system without eliding its complexity.
 
@@ -235,8 +235,8 @@ the sound as a whole but rather the changes between set intervals. A
 shorter interval will yield more precise sampling and therefore digital
 sound of higher quality. However, the sound has an inherently lower
 grade than that produced by analog recording, since it does not reflect
-the continuity of the original, but only a number -- albeit a high
-number in many cases -- of sample points. The discretization process
+the continuity of the original, but only a number – albeit a high
+number in many cases – of sample points. The discretization process
 simplifies the recorded sound by reducing it to a series of whole
 numbers, specifically 0's and 1's. This simplification makes the
 reproductions easier to manipulate.
@@ -275,7 +275,7 @@ do so without identifying them, without marking their boundaries?
 
 As we have seen, the concept of medium carries a heavy essentialist
 burden: the in-between is understood as a solid, a thing. In this case,
-media are objects; each medium -- radio, television, the Web -- has its
+media are objects; each medium – radio, television, the Web – has its
 own specificity. The essentialist approach renders shifting
 configurations discrete and graspable, but it thereby runs the risk of
 reifying them and suppresses a critical factor: action.
@@ -296,7 +296,7 @@ Zeno's, there is no room for verbs, with the sole exception of the verb
 'to be'. The postmediatic approach therefore spurns the concept of
 medium in favor of mediation, a move that enables it to restore the
 centrality of action. This is the argument Alexander Galloway makes in
-his essay *The Interface Effect,* to which we shall return.[^10]
+his essay *The Interface Effect*, to which we shall return.[^10]
 
 In a way, the first intermedialists' efforts to understand the human and
 non-human mechanisms and agents, at work in the complexes they called
@@ -316,7 +316,7 @@ the specificity of the 'theatrical apparatus' in relation to the
 'cinematic apparatus', or of a 'digital interface' compared with another
 interface, or of print as a *support* compared with a computer monitor.
 These three categories effectively encompass the normative dimension of
-media -- that is, they articulate how a specific medium structures,
+media – that is, they articulate how a specific medium structures,
 shapes and determines an action. (As we shall see, these processes can
 also be described using Grusin's concept of premediation, or the idea of
 'affordance' advanced by Donald Norman.[^12]) The categories of
@@ -343,10 +343,10 @@ stands, to be sure, but it can also mould a plant, making it grow
 straight or at the desired angle.
 
 We must begin by asking what it is the *support* holds up.
-Theoretically, it could be anything -- a plant, a person, or (and this
+Theoretically, it could be anything – a plant, a person, or (and this
 is what interests us) an idea, content or information. To speak of a
-*support* means there must be a thing that can be imagined -- or at
-least named -- that existed before it was supported. First there is a
+*support* means there must be a thing that can be imagined – or at
+least named – that existed before it was supported. First there is a
 plant, and then, if it is placed against a trellis, it will grow as the
 trellis bends it; it will assume a given shape. First there are people,
 and providing them with support will help them live more fulfilling
@@ -371,8 +371,8 @@ A *support* for ideas, content and information can be said to operate in
 much the same way. Content (data, ideas, information, etc.) can be
 considered independent and self-sufficient to varying degrees, depending
 on one's point of view. The role of the *support* is to receive it and
-structure it. Content may be likened to the tree -- the *support* only
-keeps it from growing warped -- or on the contrary to water, which is
+structure it. Content may be likened to the tree – the *support* only
+keeps it from growing warped – or on the contrary to water, which is
 completely shaped by the *support*. In either case, the conceptual
 structure is the same. On one side, there is the content; on the other,
 the *support* which structures it and which *is* the medium, in a sense.
@@ -382,11 +382,11 @@ text could be conveyed in another form, such as parchment or a monitor.
 The various *supports* are therefore understood as different ways of
 mediating between the writing and its reception. First came the writing,
 and then the document in the form in which we are reading it. The
-document changes form depending on the *support*. A different *support,*
+document changes form depending on the *support*. A different *support*,
 a different medium produces a different mediation. Clearly, the extent
 of the difference will depend on the structuring power we ascribe to the
-*support*. In writing like the tree -- the difference between reading it
-in print or on a monitor is not huge, or more like water -- the
+*support*. In writing like the tree – the difference between reading it
+in print or on a monitor is not huge, or more like water – the
 difference is pronounced since water can assume any shape.
 
 This is precisely the idea McLuhan critiques in *Understanding Media*.
@@ -401,12 +401,12 @@ media that has followed from McLuhan's analysis. If a medium establishes
 a mediation between two things, it becomes difficult if not impossible
 to separately identify those two things.
 
-Bruno Bachimont considers digital a *support.* He observes that things
+Bruno Bachimont considers digital a *support*. He observes that things
 that exist in non-digital form (such as books, videocassettes, photos)
 can be transferred to the digital realm, calling this migration
-'recontextualisation'[^14]. The *support*, then, is the context in which
+'recontextualisation'.[^14] The *support*, then, is the context in which
 the content appears. According to this logic, there is always a
-*support.* There is no writing or video without a *support*; they have
+*support*. There is no writing or video without a *support*; they have
 only moved from one to another. But still, how is it possible to speak
 of transferring content from one *support* to another unless we are able
 to bracket the *support* and focus on the content? In other words, if we
@@ -418,8 +418,8 @@ content of a medium is always another medium: the book contains the
 writing, which contains text, which contains language, and so on *ad
 infinitum*. In practical terms, it amounts to essentializing mediation,
 to making the mediation process itself an object, a substance, more than
-a *support*. Ultimately, this substance -- whether it is a book, a
-screen or a cassette -- supports only itself. Can we still call this
+a *support*. Ultimately, this substance – whether it is a book, a
+screen or a cassette – supports only itself. Can we still call this
 substance a medium if the things it mediates no longer exist?
 
 These considerations suggest that the very idea of *support* is
@@ -461,8 +461,8 @@ interpreted by human beings: the code's 'inside' must be transformed by
 mediation to make it usable on the 'outside' by the viewer. To do so, a
 software application, in this case a browser, serves as the interface
 and transforms the code into the graphically organized page that users
-see on the screen. We therefore have two poles -- the code and the page
-displayed -- and an in-between -- the interface -- which mediates
+see on the screen. We therefore have two poles – the code and the page
+displayed – and an in-between – the interface – which mediates
 between the two and enables the passage from one to the other.
 
 This example raises a series of problems as soon as we endeavour to
@@ -473,7 +473,7 @@ already a product of mediation. In the case of html, the code plainly
 results from interpretation of another code, which transforms a series
 of 0's and 1's into alphanumeric characters through the process called
 character encoding. The computer cannot generate text directly; it can
-do so only through a mediation -- an interface -- between text and
+do so only through a mediation – an interface – between text and
 numbers, based on a defined character set (such as UTF-8).
 
 We therefore arrive at other content, the series of 1's and 0's. But
@@ -519,7 +519,7 @@ apparatus, a complicated concept that demands clarification. To begin
 with Foucault's definition, an apparatus is 'a resolutely heterogeneous
 body composed of discourses, institutions, architectural arrangements,
 regulatory decisions, laws, administrative measures, scientific
-statements, philosophical propositions, morals, philanthropy -- in
+statements, philosophical propositions, morals, philanthropy – in
 short, both the said and the unsaid.'[^18] This understanding of
 apparatus, which can be compared with the concept of institution
 developed and popularized by Pierre Bourdieu, is a central term for
@@ -530,10 +530,9 @@ based on Foucault:
 >     anything, linguistic and nonlinguistic, under the same heading:
 >     discourses, institutions, buildings, laws, police measures,
 >     philosophical propositions, and so on. The apparatus itself is the
->     network that is established between these elements.
+>     network that is established between these elements.  
 > b.  The apparatus always has a concrete strategic function and is
->     always located in a power relation.
-
+>     always located in a power relation.  
 > c.  As such, it appears at the intersection of power relations and
 >     relations of knowledge.[^19]
 
@@ -543,9 +542,9 @@ heterogeneous constellation and it performs an organizing function. It
 is a set of discursive and technical elements that determines actions
 and behaviours. The apparatus structures the realm of possibility. For
 example, a classroom is an apparatus. A heterogeneous array of factors
--- the architecture, the arrangement of tables and chairs, the school's
+– the architecture, the arrangement of tables and chairs, the school's
 authority, the teacher's role, the subject matter's place in the
-curriculum and in the collective imagination, etc. -- shapes what
+curriculum and in the collective imagination, etc. – shapes what
 transpires in the classroom, namely the course. Each apparatus has its
 specific affordance and premediation: a classroom designed as a lecture
 hall will prompt the teacher to deliver lectures and inhibit the
@@ -572,8 +571,8 @@ delivers is the classroom, which determines and structures her actions.
 Indeed, it is impossible to conceive of a course without the space in
 which it is conducted, for the space establishes the 'course format'.
 Clearly, the space is not created *ex nihilo*; as it is part of a larger
-complex -- the institution, its protocols, its history, power
-relationships, expectations, and so forth -- that endow it with its
+complex – the institution, its protocols, its history, power
+relationships, expectations, and so forth – that endow it with its
 structuring power. It may therefore be concluded that the apparatus
 determines behaviours and actions.
 
@@ -622,13 +621,13 @@ Elleström. To summarize, mediation is the process that makes perceptible
 to the mind something that would not otherwise be so. This definition
 has the merit of being wide enough to embrace a series of media
 practices without necessarily leading us back to communication theory.
-The problem is its anthropocentric -- or, at the very least, anthropo-
-and zoo-centric -- bias. The rise of information technology forces us to
+The problem is its anthropocentric – or, at the very least, anthropo-
+and zoo-centric – bias. The rise of information technology forces us to
 question this limitation, for the digital arena is occupied in large
 part by machine-to-machine interactions that have nothing to do with
 perception. Can those interactions be excluded from the realm of
 mediation? Another difficulty with this approach is the existence of
-practices -- the magic show being the most salient example -- in which
+practices – the magic show being the most salient example – in which
 the effect of the mediation is to make imperceptible what would
 otherwise have been perceptible.
 
@@ -647,7 +646,7 @@ that indetermination.
 
 Postmediatic intermedial thinking dismisses essentialist arguments and
 foregrounds necessarily situational processes of convergence. From this
-point of view, there are no media; there are only dynamics -- or, in
+point of view, there are no media; there are only dynamics – or, in
 Dworkin's terms, media are not things, but rather activities.[^24]
 Reality is no longer apprehended as a series of immobile objects endowed
 with an essence, but as motion itself. There are no things, only
@@ -666,9 +665,9 @@ our own field inquiry:
 
 > The challenge for rethinking gender categories outside of the
 > metaphysics of substance will have to consider the relevance of
-> Nietzsche's claim ... that 'there is no "being" behind doing,
+> Nietzsche's claim [...] that 'there is no "being" behind doing,
 > effecting, becoming; the "doer" is merely a fiction added to the deed
-> -- the deed is everything'. ... \[W\]e might state as a corollary:
+> – the deed is everything'. [...] [W]e might state as a corollary:
 > There is no gender identity behind the expressions of gender; that
 > identity is performatively constituted by the very 'expressions' that
 > are said to be its results.[^25]
@@ -689,7 +688,7 @@ Clearly, it isn't easy to describe this motion using our language, with
 its heavy essentialist burden; our words are also essentializations.
 Plato's *exaiphnes* can be interpreted as an instant that eludes the
 discretized timeline along which essences are strung. To describe the
-same theoretical structure, Nietzsche used the term *das Tun,* Bergson
+same theoretical structure, Nietzsche used the term *das Tun*, Bergson
 *élan*, Derrida *différance*.
 
 If we bring this perspective to bear on our analysis of technology and
@@ -708,8 +707,8 @@ media; there are only practices. In this case, there is no longer an
 in-between for there is nothing for it to be between. There is nothing
 but action transpiring in the continuum of reality. It is only in
 meeting the requirements of language that we crystallize actions by
-freezing and naming them retrospectively. The naming of media -- radio,
-television, the Web, theater -- is an example of this process. We shall
+freezing and naming them retrospectively. The naming of media – radio,
+television, the Web, theater – is an example of this process. We shall
 return to this point in Chapter 4.
 
 As we have argued, assigning priority to action and refusing the
@@ -721,9 +720,9 @@ postmediatic approach, we might paraphrase Judith Butler by replacing
 behind the performance; media are performatively constituted by the very
 expressions that are said to be their results'.
 
-The concept of 'performativity' -- which focuses our attention on the
+The concept of 'performativity' – which focuses our attention on the
 action, on what is happening in the here and now, and links it to its
-conditions of possibility -- proceeds from the same logic as the concept
+conditions of possibility – proceeds from the same logic as the concept
 of media convergence that we defend here. The conditions from which it
 emerged, the tensions from which it sprang and which it has spawned, are
 akin to those that gave rise to both phases of intermedial thinking, and
@@ -814,8 +813,8 @@ But this opposition, which underpinned the abandonment of theatricality
 in the theater in the 1980s and 1990s in favor of performativity, cannot
 withstand scrutiny. The question of the determination or indetermination
 of action is more complex and irreducible to any binary pair. The true
-polarity -- though strictly speaking it is no such thing, at least not
-in the conventional sense of polarity -- must be sought elsewhere, in
+polarity – though strictly speaking it is no such thing, at least not
+in the conventional sense of polarity – must be sought elsewhere, in
 the opposition between the determination and performativity of action.
 Those two elements, which coexist to varying degrees in any action,
 define what happens on the stage as drama or performance. All theater is
@@ -836,7 +835,7 @@ When a stage is used for a play, a playground for a baseball game, a
 classroom for a course or a bedroom for a nap, the spatial and
 architectural environment limits and structures the action. The
 architecture, understood in its broadest sense as the organization of
-space, functions as an apparatus; it predetermines -- and premediates --
+space, functions as an apparatus; it predetermines – and premediates –
 the spectrum of possibilities. A chair predetermines the act of sitting
 down, a door the act of opening and closing, and so forth. 'Natural'
 spaces, necessarily perceived through a cultural lens, are also endowed
@@ -857,8 +856,8 @@ principles (it cannot be raining and not raining at the same time).
 
 These three factors, to which we shall return in the next chapter,
 determine and circumscribe the action. From a strongly deterministic
-point of view -- such as the one implicit in the concept of apparatus as
-defined by Bachimont -- no non-determined space remains: if we knew all
+point of view – such as the one implicit in the concept of apparatus as
+defined by Bachimont – no non-determined space remains: if we knew all
 the constraints, we would be able to predict every action. Spinoza's
 *Ethics* provides a well-known example of this claim; for Spinoza, an
 action is the result of all the constraints by which it is produced.
@@ -870,26 +869,26 @@ situation and the ensuing action.
 Determinism can take various forms: physical (such as Laplacian
 determinism, which holds that if we knew all the physical variables in
 play at time T, we could predict the state of the world at time
-T~1~[^28]), logical (Diodorus Cronus's master argument, according to
+T<sub>1</sub>),[^28] logical (Diodorus Cronus's master argument, according to
 which, based simply on the principle of non-contradiction, we can
 establish which propositions are true and which are false at any given
-moment, and therefore into the future[^29]), or fatalistic (there is a
+moment, and therefore into the future),[^29] or fatalistic (there is a
 predetermined ending, like the script of a play).
 
 All these varieties of determinism are rooted in a specific
 interpretation of the time sequence in which the action is embedded.
 They assume linear time, consisting in a series of discrete units from
-which particular moments, linked by the principle of causality -- a
-string of cause-effect relationships -- can be picked out. In other
+which particular moments, linked by the principle of causality – a
+string of cause-effect relationships – can be picked out. In other
 words, the deterministic conception of action is entrenched in an
-essentialist understanding of reality: there is a 'before' -- the script
--- and an 'after' -- the playing out of the script. We therefore return
+essentialist understanding of reality: there is a 'before' – the script
+– and an 'after' – the playing out of the script. We therefore return
 to the two poles discussed earlier, and the essentialist perspective
 postulating that they are ontological precedents to the in-between that
 connects them.
 
-Ontologically, then, the essence of the 'before' -- the script -- and
-the 'after' -- the performance -- must already be given, prior to any
+Ontologically, then, the essence of the 'before' – the script – and
+the 'after' – the performance – must already be given, prior to any
 action. To stage a drama, there must already be a script and an idea of
 what it would and should look like when performed on the stage. From an
 ontological point of view, the two poles have priority over the action
@@ -899,7 +898,7 @@ action.
 Approaching the question from a chronological angle, Paul Ricoeur
 describes a sequence of mimetic action consisting of an original, a
 mediation, and then a copy. There is an initial pole (the original) and
-it is from the mediation -- the in-between -- that the second (the
+it is from the mediation – the in-between – that the second (the
 'copy', or the representation) springs. But while there is a shift in
 perspective between the ontological and chronological points of view,
 they spring from the same essentialist conception of the order of
@@ -911,8 +910,8 @@ existence of two poles, the essentialist approach forces us to attach
 the action to one of them, specifically the second, the one that comes
 chronologically after the first. The action is understood as the simple
 effect of a determining cause. Applied to the theater, this logic casts
-the performance -- determined by that which preceded it and is its
-cause, namely the script -- as the action.
+the performance – determined by that which preceded it and is its
+cause, namely the script – as the action.
 
 But how can we conceive of the script as a separate, pre-existing
 entity? Contrary to Barthes, recent work in dramaturgy by Joseph Danan
@@ -944,8 +943,8 @@ form a dynamic, indivisible whole.
 Clearly, the non-essentialist approach poses a major challenge, for the
 real, continuous instant in which the action occurs is ungraspable and
 undefinable. It remains mysterious and escapes all the varieties of
-determinism implied by essentialist thinking. It is in this instant --
-in the *exaiphnes* -- that the performativity of each action is to be
+determinism implied by essentialist thinking. It is in this instant –
+in the *exaiphnes* – that the performativity of each action is to be
 found.
 
 We propose to further develop this perspective and frame a different,
@@ -994,7 +993,7 @@ element of action because that is where we will find the zone of freedom
 and responsibility. We cannot be responsible for something that has
 already been determined, but only for what is as yet undecided, where
 our actions can sway the outcome. Responsibility prevails in the
-*exaiphnes:* only in the non-determined space where I enjoy a margin of
+*exaiphnes*: only in the non-determined space where I enjoy a margin of
 freedom can I be accountable.
 
 From the ethical point of view, the key question is: precisely what
@@ -1030,7 +1029,7 @@ existing norms, it produces new ones.
 
 By thus distinguishing action from performativity, we can avoid the
 debate about the determination and indetermination of performativity
-that Judith Butler sums up in *Excitable Speech.*[^30] She outlines the
+that Judith Butler sums up in *Excitable Speech*.[^30] She outlines the
 limits of the approach that originated with J.L. Austin's *How To Do
 Things With Words*,[^31] a seminal text in the development of
 performance studies. For Austin, utterances are performative when they
@@ -1080,7 +1079,7 @@ expectations, abilities and needs. From the characteristics of code and
 user, we can deduce the interface. Its function is pre-established: what
 happens in the mediation reproduces what was already plotted. Similarly,
 the essentialization of the interface compels us to conceive the action
-that occurs within it as entirely determined -- by its premediation, by
+that occurs within it as entirely determined – by its premediation, by
 its affordance, by the fact that it is an apparatus, in Bachimont's
 sense.
 
@@ -1128,12 +1127,12 @@ to elucidate using the concept of mediating conjunctures.
 
 [^5]: Hermann Diels, Walther Kranz, and Kathleen Freeman, *The
     Presocratic Writings.*, 2017, p. 22B12
-    \<<http://pm.nlx.com/xtf/view?docId=presocratics_gr/presocratics_gr.00.xml>\>
+    http://pm.nlx.com/xtf/view?docId=presocratics_gr/presocratics_gr.00.xml
     \[accessed 18 February 2019\].
 
 [^6]: Plato, *Parmenides*, trans. by Benjamin Jowett, Adelaide: The
     University of Adelaide Library, 2008, p. 130e
-    \<<https://en.wikisource.org/wiki/Parmenides>\> \[accessed 21
+    https://en.wikisource.org/wiki/Parmenides [accessed 21
     December 2018\] ff.
 
 [^7]: Plato, *Parmenides*, p. 156d.
@@ -1164,7 +1163,7 @@ to elucidate using the concept of mediating conjunctures.
     entre matérialisation et interprétation," in *Ressources vives. Le
     travail documentaire des professeurs en mathématiques*, ed. by
     Ghislaine Gueudet et Luc Trouche, Paideia, PUR et INRP, 2010, pp.
-    75-90 \<<http://hal.archives-ouvertes.fr/hal-00496590>\> \[accessed
+    75-90 http://hal.archives-ouvertes.fr/hal-00496590 [accessed
     12 November 2012\].
 
 [^15]: Galloway, *The Interface Effect*, p. 39/40.
@@ -1182,7 +1181,7 @@ to elucidate using the concept of mediating conjunctures.
     differents meanings. See, for example: Arnaud Rykner, *Le tableau
     vivant et la scène du corps : vision, pulsion, dispositif*, Hyper
     Article en Ligne - Sciences de l'Homme et de la Société, 2013
-    \<<https://isidore.science/document/10670/1.0jcfgt>\> \[accessed 16
+    https://isidore.science/document/10670/1.0jcfgt [accessed 16
     February 2019\], Agamben, *Qu'est-ce qu'un dispositif*, Bruno
     Bachimont, *Le sens de la technique: Le numérique et le calcul*,
     2010.
@@ -1197,8 +1196,8 @@ to elucidate using the concept of mediating conjunctures.
 [^20]: Éliséo Véron, "De l'image sémiologique aux discursivités, From
     the semiotic image to discursivity," *Hermès, La Revue*, 13, 2013,
     45-64
-    \<<http://www.cairn.info/resume.php?ID_ARTICLE=HERM_013_0045>\>
-    \[accessed 30 April 2017\].
+    http://www.cairn.info/resume.php?ID_ARTICLE=HERM_013_0045
+    [accessed 30 April 2017\].
 
 [^21]: Bachimont, *Le sens de la technique: Le numérique et le calcul*,
     p. 42.
@@ -1220,12 +1219,12 @@ to elucidate using the concept of mediating conjunctures.
 
 [^27]: For an overview of the two concepts and their history, see
     Nicholas Cotton, "Du performatif à la performance," *Sens Public*,
-    2016 \<<http://www.sens-public.org/article1216.html>\> \[accessed 20
+    2016 http://www.sens-public.org/article1216.html [accessed 20
     February 2018\]
 
 [^28]: Robert C. Bishop, "Determinism and Indeterminism,"
     *arXiv:Physics/0506108*, 2005
-    \<<http://arxiv.org/abs/physics/0506108>\> \[accessed 28 May 2018\].
+    http://arxiv.org/abs/physics/0506108 [accessed 28 May 2018\].
 
 [^29]: Aristotle outlines the argument in *On Interpretation* 18b35. For
     commentary, see Hervé Barreau, 'Le Maître argument de Diodore : Son

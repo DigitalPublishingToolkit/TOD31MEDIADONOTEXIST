@@ -24,13 +24,13 @@ other names, and is dictated by disciplinary convention, institutional
 constraints and editorial policies that occur in the parts of the world
 where it is conducted.
 
-Born in the wake of what Milad Doueihi calls the 'great digital
-conversion[^1] and what is commonly referred to as the 'digital
-revolution', intermedial studies are barely 30 years old. That's not
+Born in the wake of what Milad Doueihi calls the *great digital
+conversion*[^1] and what is commonly referred to as the *digital
+revolution*, intermedial studies are barely 30 years old. That's not
 much, considering the dispersal and often isolation of the first
 intermedial researchers, an isolation that was aggravated precisely by
 the profusion of labels used to describe their subject matter. It took
-almost 10 years -- from the mid-1980s to the mid-1990s -- before bridges
+almost 10 years – from the mid-1980s to the mid-1990s – before bridges
 were built between some of the research groups and the first
 international research network began to take shape. And it was another
 20 years before an international scientific association devoted to
@@ -42,7 +42,7 @@ discipline's growth, it also attests to the supranational and
 supradisciplinary scope of the intermedial approach, and the ubiquity of
 the gaps it addresses. Those gaps are not confined to the lightning-fast
 digital invasion, which has radically transformed our lives since the
-end of the 20^th^ century, but existed during the pre-digital age, as
+end of the 20th century, but existed during the pre-digital age, as
 well. As Espen J. Aarseth observed in one of the foundational texts of
 game studies,[^2] information technology did not make the cybertext
 possible; cybertexts existed before computers and cybertextual thinking
@@ -71,14 +71,14 @@ reflection developed steadily and was constantly enriched, unbeknownst
 to the researchers themselves. A few examples: in 2000, the American
 researchers Jay David Bolter and Robert Grusin published what would be
 considered a groundbreaking work in intermedial studies: *Remediation.
-Understanding New Media*[^5]. The concept of remediation they develop is
+Understanding New Media*.[^5] The concept of remediation they develop is
 at the heart of intermedial dynamics. But nowhere in their 295-page tome
 do the words 'intermedial' or 'intermediality' appear. The same is true
 of other seminal texts in the evolution of intermedial thinking in the
 US since the late 1980s. In *When Old Technologies Were New*,[^6] which
 may be considered one of the foundational texts of American intermedial
 studies, Carolyn Marvin discusses how, as the use of electricity became
-widespread in the 19^th^ century, electrical media emerged by
+widespread in the 19th century, electrical media emerged by
 cannibalizing each other, transforming interpersonal relationships and
 social behaviour in the process. Her book came out at the same time as
 the first essays by German intermedialists on related themes, but they
@@ -90,7 +90,7 @@ Mediatized Culture*[^7] took aim at the deep-rooted idea that the direct
 physical co-presence (in the same place, in the flesh) of senders and
 receivers in a venue such as the theater and technological mediatization
 were irreconcilable. Auslander argued that those distinctions born of
-the operation of electrical media in the late 19^th^ century cannot
+the operation of electrical media in the late 19th century cannot
 withstand the reality test: liveness may be mediatized and still be
 live. In 2003, Jonathan Sterne published another key intermedial work:
 not only did *The Audible Past*[^8] revolutionize sound studies, but it
@@ -122,7 +122,7 @@ the word 'intermediality'.
 
 The same observation can be made about intermedial studies in the
 French-speaking world, with the exception of research activities in
-Canada around the Centre de recherche sur l\'intermédialité at the
+Canada around the Centre de recherche sur l'intermédialité at the
 Université de Montréal. Works by Philippe Marion on linkages between
 media,[^14] by François Odin on the 'births' of cinema, by Jean-Luc
 Déotte on the concept of apparatus[^15] and by the Toulouse group[^16]
@@ -191,8 +191,8 @@ from which media emerge and on which they act. This interest in
 sociality is worth noting because the first intermedialists were often
 wrongly accused of technocentrism, when in fact they held that media
 practices could not be dissociated from the individuals who were their
-agents. The socialities associated with media or created by media --
-from the first telephones to contemporary social networks -- are not
+agents. The socialities associated with media or created by media –
+from the first telephones to contemporary social networks – are not
 comparable to traditional social classes nor to stable communities;
 hence the neologism 'sociomedialities' is used to refer to these
 socialities that are specific to media and shaped by the processes of
@@ -207,8 +207,8 @@ and composer who was heavily influenced by John Cage. Through a series
 of experiments that decompartmentalized disciplines, media, techniques
 and technologies, and effected transfers between them, Higgins and his
 Fluxus confederates produced works that would now be described as
-intermedial, since they harnessed multiple media (or arts) -- which is
-characteristic of multimediality -- for purposes of artistic production,
+intermedial, since they harnessed multiple media (or arts) – which is
+characteristic of multimediality – for purposes of artistic production,
 presentation and experience (when the work involved user experience).
 Their approach was not entirely new, insofar as its creative logic was
 consistent with that of the historical avant-garde and rested on a
@@ -235,7 +235,7 @@ These definitions make no mention of the material dimension of media or
 the role of the user in the process. Éliséo Véron proposes a
 structuralist approach that encompasses these factors:
 
-> A medium is ... a constellation composed of a technology *PLUS* the
+> A medium is [...] a constellation composed of a technology *PLUS* the
 > social practices of production and appropriation of that technology,
 > when there is public access to the messages (regardless of the
 > conditions of access, which usually involve payment).[^26]
@@ -274,7 +274,7 @@ communication theory, which, as we shall see, intermediality has
 gradually abandoned.
 
 The word intermediality originally appeared in German
-(*Intermedialität*). It is believed to have been used for the first time
+*(Intermedialität)*. It is believed to have been used for the first time
 by media philosophers (e.g. Ole Hansen-Löve in 1983) and then spread to
 media studies, where it was popularized by the German scholar Jürgen E.
 Müller,[^28] a dominant figure in the foundational period of
@@ -292,7 +292,7 @@ practice of the Fluxus group to the realm of media theory.
 > developed in the history of Western media and would play with these
 > elements.[^29]
 
-It was therefore in German media studies (*Medienwissenschaften*), and
+It was therefore in German media studies *(Medienwissenschaften)*, and
 not in the artistic avant-garde, that this significant theoretical
 advance was made, shifting media researchers' attention from media to
 relations between media.
@@ -307,8 +307,8 @@ marked, one might even say dated, by the historical circumstances under
 which it arose. The combination of the prefix 'inter' and the stem
 'media' initially attracted derision. Therefore intermedialists are
 interested in what lies between that which is between: presumably, it
-can't be much! While the premise is accurate -- intermedialists do
-indeed attend to what is between the in-between -- the clearly false
+can't be much! While the premise is accurate – intermedialists do
+indeed attend to what is between the in-between – the clearly false
 conclusion illustrates the widespread initial distrust in academic
 circles of a field that presented itself as an 'indiscipline'. It is
 true, however, that the question of the 'in-between' and how it was
@@ -326,39 +326,39 @@ and structuralism distorts its essence. That confusion was aggravated by
 the juxtaposition of 'inter-' with 'media', which duplicated its
 meaning. Some clarifications are in order here.
 
-In a study of the concept of 'medium'[^30] -- that which is at the
-center, in the middle - Jacques Rancière stresses the order of
+In a study of the concept of 'medium'[^30] – that which is at the
+center, in the middle – Jacques Rancière stresses the order of
 precedence implicit in the 'inter-' principle. It may seem obvious but
 Rancière underscores that for there to be an in-between, there must be
-two terms -- two texts, two discourses, two disciplines, two subjects --
+two terms – two texts, two discourses, two disciplines, two subjects –
 engaged in a mutual relationship in space, in time, in logic, in short
 within a framework or system where an in-between can come between. The
 French mathematician, philosopher and psychiatrist Daniel Sibony had
 addressed the question several years earlier in *Entre-deux. L'origine
 du partage*,[^31] an essay that may be considered a first attempt to
-theorize the notion of the in-between (*l'entre-deux*), a category from
+theorize the notion of the in-between *(l'entre-deux)*, a category from
 which intermediality is distinguished but with which it was and remains
 associated.
 
 Sibony situates the concept of the in-between as an extension and
 transcendence of the poststructuralist idea of difference: 'Until now,
-we have lived and thought under the sign of *difference'* but
-'fast-moving facts and events ... mean we can no longer be content with
+we have lived and thought under the sign of *difference*' but
+'fast-moving facts and events [...] mean we can no longer be content with
 using difference as our reference point'.[^32] Sibony argues that while
 the idea of difference is fundamentally valid, it is no longer adequate
 to reality. Difference has lost its relevance and must therefore be
-expanded to the in-between, an 'effective ... operator'[^33] that makes
+expanded to the in-between, an 'effective [...] operator'[^33] that makes
 it possible to grasp the complexity of the phenomena at work in the
-in-between. Sibony calls those phenomena trials (*épreuves*), for the
+in-between. Sibony calls those phenomena trials *(épreuves)*, for the
 in-between appears to him fraught with tensions and rifts.
 
 > Perhaps the trials of the in-between come down to movements of varying
 > degrees of richness in which *an identity attempts to piece itself
 > back together again,* to resolve itself (while believing it is
 > resolving with others), to stand up like a Harlequin costume in the
-> circus of the world ... But beyond the piecing together that the
+> circus of the world [...] But beyond the piecing together that the
 > in-between actualizes, it achieves full strength when, in its great
-> burgeoning, it appears as an *origin* figure ... which assumes or
+> burgeoning, it appears as an *origin* figure [...] which assumes or
 > implies something other than rehashing an immobile 'in-between'.[^34]
 
 We should note here in passing the nostalgic dimension of the origin
@@ -372,7 +372,7 @@ mediation). Technology 'pieced together again' what it itself had rent
 asunder, since it had initially been incapable of reproducing sound and
 image synchronously. In short, and this is the second aspect of the
 paradox, the progress of media means that in the future we will be
-better off -- as we were before! We will return to this paradox later;
+better off – as we were before! We will return to this paradox later;
 at this point, it should just be noted that the origin myth is not
 unrelated to the myth of authenticity.
 
@@ -392,12 +392,12 @@ between-two-betweens, and this is complicated by the fact that these
 in-betweens are dynamic, alive and constantly changing. The
 disappearance of the pre-existing, fixed poles that had been the
 starting point not only has a destabilizing effect but ultimately
-excludes any precedence and relegates the origin figure to mythology --
+excludes any precedence and relegates the origin figure to mythology –
 and with it the nostalgia for an (idealized) past we can seek to
 recover.
 
-The first intermedialists did not initially question precedence but --
-and this was already a significant shift -- they reversed its elements,
+The first intermedialists did not initially question precedence but –
+and this was already a significant shift – they reversed its elements,
 as Jens Schröter noted in 2012[^35] in a retrospective discussion of the
 development of intermedial thinking.
 
@@ -409,8 +409,8 @@ development of intermedial thinking.
 
 As can be seen, Schröter does not go so far as to question the origin
 figure defended by Sibony, nor the existence of media. He is content to
-invert the usual order -- which places the two poles first, and then the
-in-between -- and cast media as the product rather than the source of
+invert the usual order – which places the two poles first, and then the
+in-between – and cast media as the product rather than the source of
 intermedial relations.
 
 Before considering the reasons for abandoning the idea of precedence, we
@@ -423,8 +423,8 @@ book *Remediation: Understanding New Media*, published in 2000 some 15
 years after the emergence of intermedial thinking, is a milestone in the
 brief history of intermedial theory that models the intermedial dynamic
 for the first time. It is also a pivotal work that takes stock of the
-progress of intermediality from the late 20^th^ century to the dawn of
-the 21^st^ and opens up new perspectives that are central to
+progress of intermediality from the late 20th century to the dawn of
+the 21st and opens up new perspectives that are central to
 contemporary intermedial thinking. Bolter and Grusin thus offer a rich
 synthesis of mediatic intermediality while at the same time noting its
 weaknesses and contradictions, heralding the next phase: postmediatic
@@ -448,8 +448,8 @@ medium is something that remediates, then there can have been no first
 remediation. Lisa Gitelman encapsulates this disconcerting logic, which
 runs counter to tradition and to the Sibony / Rancière school of
 thought, in a phrase we have already quoted: a medium is 'always already
-new'. While it does not question the reality of media -- on the
-contrary, that is its basis - Bolter and Grusin's model understands
+new'. While it does not question the reality of media – on the
+contrary, that is its basis – Bolter and Grusin's model understands
 media as being in perpetual motion, perpetual remediation. Their
 emphasis is based squarely on what a medium produces and what it is
 produced by. In this sense, they substantiate Chiel Kattenbelt's
@@ -468,8 +468,8 @@ produces remediation, remains a discretizable entity and its operation
 is limited to carrying, transforming or producing data, which is what
 Lars Elleström calls a 'media container'.
 
-Bolter and Grusin's conceptual apparatus -- starting with the concept of
-'immediacy', a quality they ascribe to some forms of mediation -- is
+Bolter and Grusin's conceptual apparatus – starting with the concept of
+'immediacy', a quality they ascribe to some forms of mediation – is
 built on this paradigm. By their definition, immediacy exists when
 mediation is imperceptible to the user, who may thus believe himself or
 herself to be in the presence of something which, in fact, is only being
@@ -480,7 +480,7 @@ the art of illusion, into a logic that returns us to mimesis and repeats
 the traditional arguments on which the media industry has constructed
 its marketing strategies for more than a century: the promise of
 'fidelity' and 'high fidelity' (to what is unclear), touted by the music
-recording industry in particular since the beginning of the 20^th^
+recording industry in particular since the beginning of the 20th
 century. The visual reproduction industry's claims to steady progress
 hinge on the same illusionistic rationale. Bolter and Grusin's phrase
 'in the name of the real' must be read in this light.
@@ -517,8 +517,8 @@ impression of reality). But hypermediacy is more than that. The
 hypermedial image Bolter and Grusin use to illustrate the idea is a page
 from the World Wide Web (unaccompanied by sound, in their example) that
 displays on the screen the system of hyperlinks described by Nelson. The
-page consists of disparate elements -- letters, numbers, icons, photos,
-images of all kinds, fixed and moving -- that share screen space within
+page consists of disparate elements – letters, numbers, icons, photos,
+images of all kinds, fixed and moving – that share screen space within
 a system of complex, constantly changing and shifting relationships.
 Unlike the transparency effect which, as has been noted, works to
 suppress the perception of mediation, the webpage offers the spectacle
@@ -543,7 +543,7 @@ Grusin put it this way:
 
 > \[C\]ontemporary hypermediacy offers a heteregoneous space, in which
 > representation is conceived of not as a window on to the world, but
-> rather as 'windowed' itself -- with windows that open on to other
+> rather as 'windowed' itself – with windows that open on to other
 > representations or other media. The logic of hypermediacy multiplies
 > the signs of mediation and in this way tries to reproduce the rich
 > sensorium of human experience.[^42]
@@ -604,7 +604,7 @@ their differentiation and hierarchization. The impulse to identify and
 classify the mediatic dynamics crystallized in media likely derives in
 large part from this paragonic reflex, triggered by the fact that the
 first great mediations of the electrical age appeared in the
-ontology-obsessed 19^th^ and 20^th^ centuries and possessed, or laid
+ontology-obsessed 19th and 20th centuries and possessed, or laid
 claim to, an artistic dimension.
 
 We have outlined how intermediality deals with dynamics that consist of
@@ -615,17 +615,17 @@ noted, while the remediation model is quite useful for clarifying
 certain intermedial exchanges, its originators' attachment to the
 (essentialist) concept of medium, inherited from classic communication
 theory, limits its effectiveness and coherence. How can we reconcile
-their resolutely dynamic definition of media -- 'a medium is that which
-remediates' -- with traditional definitions that regard a medium as an
+their resolutely dynamic definition of media – 'a medium is that which
+remediates' – with traditional definitions that regard a medium as an
 identifiable, stable entity with relatively clear contours, that
 construct it as an object?
 
 The origin figure is a key element in the essentialist arsenal, serving
 as sanction and performing a legitimating or delegitimating function, as
 the case may be. It is true that Bolter and Grusin's remediation model
-partially evades it by excluding any first remediation -- there was
+partially evades it by excluding any first remediation – there was
 therefore no original medium and their understanding of media is not
-monistic -- but nevertheless their model remains attached, as we have
+monistic – but nevertheless their model remains attached, as we have
 seen, to the idea of precedence, through both the logic of the
 'in-between' and the primacy they assign to the reproductive function of
 media, returning us to the general principle of mimesis in which
@@ -669,13 +669,13 @@ The optimistic, linear vision of media evolution that runs through
 Bolter and Grusin's essay and infuses the mediatic period of
 intermediality, which clearly rests on an old, essentialist substratum,
 is, however, contradicted by reality. Greater 'fidelity' to the 'source'
--- since media are replicating it with increasing accuracy -- has been
+– since media are replicating it with increasing accuracy – has been
 so vaunted by the media industry for more than a century because it
 revives the promise of a direct and true relationship to the external
 world. Here we clearly see the simplistic nature of the remediation
-model. If the obsessive quest for increased transparency -- which often
+model. If the obsessive quest for increased transparency – which often
 goes by names such as fidelity, high fidelity, high definition,
-ultra-high definition, stereo or surround sound -- really were the sole
+ultra-high definition, stereo or surround sound – really were the sole
 driver of remediation, how can we explain the fact that low-resolution
 mediations like web documentaries shot with cellphones and MP3 tracks
 have not only survived, but continue to thrive? How are we to explain
@@ -698,26 +698,26 @@ remediation(s) by cinema, radio or television, or survived in a weakened
 state, losing influence and *mainstream* status. This essential aspect
 of remediation, the survival of what Charles Acland has called 'residual
 media',[^45] is entirely ignored by Bolter and Grusin. But the evidence
-clearly suggests that cases of aborted remediation -- remediation that
-does not yield a new medium -- are the rule, not the exception.
+clearly suggests that cases of aborted remediation – remediation that
+does not yield a new medium – are the rule, not the exception.
 
 The essentialist temptation and the attachment to the idea of progress
 are not the remediation model's only weaknesses. Though seductive, its
-underlying tetrad -- immediacy / transparency, hypermediacy / opacity --
+underlying tetrad – immediacy / transparency, hypermediacy / opacity –
 is also problematic. As we have noted, for Bolter and Grusin,
 remediation operates 'in the name of the real', which is to say its goal
 is to produce the greatest possible transparency or, to use their
 terminology, to create the best possible immediacy effect (in rendering
 the object of representation). This first pair of the tetrad is opposed
-to the second -- hypermediacy /opacity -- within a simplistic, dualistic
+to the second – hypermediacy /opacity – within a simplistic, dualistic
 system that is presented as self-evident, when in fact the opposition is
 in no way preordained. To be sure, the tetradic structure is not really
 new: it derives from great debates in art history dating from the end of
-the 19^th^ century about the nature and function of art, and more
+the 19th century about the nature and function of art, and more
 specifically the status of mimesis, a term of oft-noted polysemic
 import: 'imitation, copy, tracing, transcription, translation,
 execution, incarnation'.[^46] In an important essay entitled
-*Transparence et opacité. Essai sur les fondements théoriques de l\'art
+*Transparence et opacité. Essai sur les fondements théoriques de l'art
 moderne*,[^47] the art historian Philippe Junod, drawing heavily on the
 work of the German philosopher Konrad Fiedler (1841-1895), shows how the
 development of the machine in the 19^th^ century paradoxically
@@ -736,9 +736,9 @@ the perceptibility of artifice'.[^50]
 
 > The theme of the value of artifice as a specific characteristic of
 > art, which was picked up by romanticism and passed on to symbolism and
-> then Russian formalism, was present throughout the \[19^th^\] century
-> and its development led to the theories of *theatricality* ...,
-> litterarity ..., pictoriality ...[^51]
+> then Russian formalism, was present throughout the [19th] century
+> and its development led to the theories of *theatricality* [...],
+> litterarity [...], pictoriality [...].[^51]
 
 In other words, to specific forms of mediation and mediality. In his
 demonstration, Junod aligns transparency with mimesis and opacity with
@@ -750,15 +750,11 @@ mimesis.
 
 In Bolter and Grusin, Junod's equations
 
-\begin{center}
-transparency = mimesis, opacity = *poiesis *
-\end{center}
+   transparency = mimesis, opacity = * poiesis *
 
 are replaced by
 
-\begin{center}
-transparency = immediacy, opacity = hypermediacy.
-\end{center}
+   transparency = immediacy, opacity = hypermediacy.
 
 These parallels should not surprise us; they betray the debt that the
 creators of the remediation model owe to art history and aesthetics. Nor
@@ -767,7 +763,7 @@ electrical media.
 
 There are two possible charges against Bolter and Grusin: that they
 hewed too closely to this model transplanted from another field, or not
-closely enough. The idea of *poiesis,* inherited from Fiedler, is
+closely enough. The idea of *poiesis*, inherited from Fiedler, is
 dominated by the central principle of action and activity. Everything
 happens in and through action; all flows from it. This eliminates any
 precedence and, most importantly, makes performativity the basis of the
@@ -791,9 +787,9 @@ The absence of this consideration is acutely perceived in the passages
 in which Bolter and Grusin attempt to articulate immediacy, transparency
 and opacity. Either mediation is opaque, in which case there is no
 immediacy, or it is imperceptible, in which case there *is* immediacy.
-Aside from the fact that this is a simplistic alternative -- as the
+Aside from the fact that this is a simplistic alternative – as the
 category of 'obscured transparency' demonstrates, reality is more
-complex - Bolter and Grusin fail to take into account the user's agency
+complex – Bolter and Grusin fail to take into account the user's agency
 and capacity to change and adapt. In her study of the spread of the
 telephone in the US, Carolyn Marvin traces its transition from
 curiosity, in the technology's 'magical moment', to part of everyday
@@ -848,8 +844,8 @@ antibodies to expel or destroy an intruder. The resistance is always of
 a sociomedial nature: it arises in the community of men and women in
 which the medium operates; it springs from values; it is tied to a
 discourse, to representations. The microphone, which was long rejected
-by the theater -- although today its use is becoming increasingly
-common, so much so that it goes unnoticed -- was readily accepted on the
+by the theater – although today its use is becoming increasingly
+common, so much so that it goes unnoticed – was readily accepted on the
 cabaret stage for use by singers. And yet, since the days of
 Shakespeare, theater reviews had been complaining that it was hard to
 hear the actors. They did not articulate clearly enough or did not speak
@@ -870,9 +866,9 @@ as the rich tradition of adaptation (of novels for the stage, of plays
 for the movies, etc.) shows.
 
 Media resistance also points to the fact that remediation doesn't only
-happen between media, it can also strike elements -- again, often
-technologies -- that are not attached to any specific medium, as was
-seen during the 'great digital conversion' of the late 20^th^ century.
+happen between media, it can also strike elements – again, often
+technologies – that are not attached to any specific medium, as was
+seen during the 'great digital conversion' of the late 20th century.
 Nor is it a one-way process. What we can extract from this is that media
 are not the only things that remediate or are remediated, and
 remediation produces all manner of effects, including media resistance
@@ -885,8 +881,8 @@ mediation is perceptible to the user. But Bolter and Grusin never
 consider the origins of opacity. Let us take the example of the use of
 the microphone in the theater. For reasons we will discuss later, the
 theater, like the opera, initially banned the mic from the stage, while
-three major media practices -- records, radio and talking pictures (to
-which we might add cabaret) -- developed and triumphed because of it.
+three major media practices – records, radio and talking pictures (to
+which we might add cabaret) – developed and triumphed because of it.
 The radio played a central role in this process. The radio microphone
 truly revolutionized the art of public speaking, sparking an explosion
 of vocal styles. With radio, says Jacob Smith, the audience discovered
@@ -911,7 +907,7 @@ The new aurality created by radio brought out the artificiality of the
 voice and diction of stage actors, which had always been based on
 projection, volume and eloquence. Those fundamental qualities had been
 so assimilated by users that they no longer noticed them. They had
-become 'naturalized'. Until the end of the 19^th^ century, i.e. the
+become 'naturalized'. Until the end of the 19th century, i.e. the
 advent of sound reproduction technologies, a fine voice was necessarily
 a powerful voice. The theater decided to stick with that. The contrast
 with radio voices laid bare the incongruity of theatrical practices,
@@ -933,8 +929,8 @@ hostile to the medium and damages its image.
 The mechanisms of media resistance, demediation and opacification do not
 exhaust the possibilities for further development of the remediation
 model, but the model's scope still remains limited, and it is clear
-today that this product of an age obsessed with recycling -- industrial,
-esthetic, cultural, philosophical -- cannot by itself account for the
+today that this product of an age obsessed with recycling – industrial,
+esthetic, cultural, philosophical – cannot by itself account for the
 complexity and diversity of the intermedial dynamic. Other types of
 media interactions have been uncovered recently. In the following
 section, we look at the concepts of hypermediality, convergence and
@@ -946,11 +942,11 @@ intermedial reflection.
 The concept of hypermediality emerged in the field of theater studies in
 the mid-2000s. From the intermedial point of view, theater is, of
 course, a medium. Indeed, it is the quintessential intermedial practice
-insofar as it is itself made up of interacting media -- music, set
+insofar as it is itself made up of interacting media – music, set
 design, plastic arts, dance, gesture, the actor's performance, the
-script, etc. -- just as a webpage is composed of interacting elements.
-To put it in Bernd Herzogenrath's terms, theater is an '*intermedium',*
-in Jens Schröter's terminology, it is a'*super medium'.* Chiel
+script, etc. – just as a webpage is composed of interacting elements.
+To put it in Bernd Herzogenrath's terms, theater is an *intermedium*,
+in Jens Schröter's terminology, it is a *super medium*. Chiel
 Kattenbelt goes still further, arguing that theater is a hypermedium but
 in a rather different sense than what Ted Nelson means by the term, as
 the following passage makes clear:
@@ -970,7 +966,7 @@ the following passage makes clear:
 
 A 'hypermedium' must therefore be understood as a federating medium, not
 an assimilating or transformative one. It is an 'archi-medium' or
-'medium of media', '*home to all*', an interart, a technological meeting
+'medium of media', *home to all*, an interart, a technological meeting
 place 'where the art forms of theater, opera and dance meet, interact
 and integrate with the media of cinema, television, video and the new
 technologies'.[^56] This welcoming attitude is reflected in the
@@ -979,7 +975,7 @@ arts and media that enter into the process of theatrical creation or
 performance. The concept of hypermediality clearly derives from Bolter
 and Grusin's concept of hypermediacy, but it goes further. One
 attractive feature is that it eliminates the question of representation
--- and the relationship to reality -- for, to return to Lanham's
+– and the relationship to reality – for, to return to Lanham's
 'window' metaphor, it does not require us to choose between 'looking at'
 and 'looking through'. Better still, it allows for both simultaneously,
 which fits well with current theatrical practices and the performative,
@@ -994,9 +990,9 @@ In 2006, the same year that Chiel Kattenbelt developed the concept of
 hypermediality, Henry Jenkins tackled a central notion in the genealogy
 of media, one that underpins the concept of remediation: media
 convergence. It is not a new idea; its famous first appearance was in
-Wagner's call for a *Gesamtkunstwerk* -- a total artwork -- but it truly
+Wagner's call for a *Gesamtkunstwerk* – a total artwork – but it truly
 and lastingly took hold with the spread of electrical media in the first
-three decades of the 20^th^ century. The advent of talking pictures is
+three decades of the 20th century. The advent of talking pictures is
 one of its most famous and memorable exempla, and also the most
 compelling argument in favor of the existence of a convergence dynamic.
 The talkies were in fact the result of the long-predicted 'convergence'
@@ -1010,11 +1006,11 @@ progress in the relevant technologies; technological determinism, which
 tends towards their fusion; and users' obsessive quest for absolute
 transparency. The convergence principle, which is held to be operative
 in all media dynamics, purportedly works 'in the name of the real', as
-the series of industry slogans we have already listed -- fidelity, high
+the series of industry slogans we have already listed – fidelity, high
 fidelity, stereo, high definition, 3D, ultra-high definition, and so
-forth -- assert. The relentless drumbeat of these claims over the space
-of more than a century constitutes a series of milestones -- since they
-form a sequence -- on the triumphant road that will ultimately lead to
+forth – assert. The relentless drumbeat of these claims over the space
+of more than a century constitutes a series of milestones – since they
+form a sequence – on the triumphant road that will ultimately lead to
 the absolute medium and perfectly transparent mediation, in Bolter and
 Grusin's sense. 'Sooner or later, the argument goes, all media content
 is going to flow through a single black box into our living rooms (or,
@@ -1030,9 +1026,9 @@ natural and inevitable, but Jenkins demurs. In his view, technological
 progress cannot be separated from the conjuncture in which it arose and
 technological determinism is an illusion, a marketing ploy: 'convergence
 refers to a process, not an endpoint'.[^58] Jenkins argues that
-'\[p\]art of what makes the black box concept a fallacy is that it
+'[p]art of what makes the black box concept a fallacy is that it
 reduces media change to technological change and strips aside the
-cultural levels'.[^59] But '\[c\]onvergence does not occur through media
+cultural levels'.[^59] But '[c]onvergence does not occur through media
 appliances, however sophisticated they may become. Convergence occurs
 within the brains of individual consumers and through their social
 interactions with others'.[^60]
@@ -1041,8 +1037,8 @@ One of Jenkins' great merits is that he has refocused intermedial
 reflection on the key role of the user (he uses the word 'consumer') and
 more generally on the ever-changing environment from which media emerge
 and in which they operate. He thereby converts the traditional concept
-of media convergence -- spontaneously understood as 'technological'
-convergence -- into a theory of comprehensive convergence,
+of media convergence – spontaneously understood as 'technological'
+convergence – into a theory of comprehensive convergence,
 
 > where old and new media collide, where grassroots and corporate media
 > intersect, where the power of the media producer and the power of the
@@ -1092,7 +1088,7 @@ content.
 In the second case, the semantic content is broken up according to the
 mediating qualities of the available platforms and the 'fragments' are
 distributed across the platforms. Thus, to return to the *Matrix*
-example*,* the user discovers new media content on each platform, since
+example, the user discovers new media content on each platform, since
 each supports an aspect of *The Matrix* that corresponds to its specific
 mediality. In practical terms, this means that no single user can master
 the entirety of the media content; only the sum of users has that grasp,
@@ -1149,9 +1145,9 @@ dynamics support the conclusion that a change in technology does not
 produce a change in medium. This also has consequences for the origins
 of media, as Jenkins makes clear:
 
-> \[H\]istory teaches us that old media never die -- and they don't even
+> [H]istory teaches us that old media never die – and they don't even
 > necessarily fade away. What dies are simply the tools we use to access
-> media content -- the 8-Track, the Beta tape.[^65]
+> media content – the 8-Track, the Beta tape.[^65]
 
 Jenkins ends up drawing a clear distinction between the medium and what
 he calls the 'delivery technology' for media content. 'Recorded sound is
@@ -1173,21 +1169,21 @@ We can see at once the ontological and methodological issues presented
 by this conceptual move and the concomitant risk of a reversion to an
 essentialist vision of media. To date, a medium's identity has been
 defined primarily by the material dimension of the mediation, but what
-happens if an important element of the mediation -- Elleström's
-technical medium or Jenkins' delivery technology -- is radically
+happens if an important element of the mediation – Elleström's
+technical medium or Jenkins' delivery technology – is radically
 changed? Will this lead to the end of the medium? That is precisely the
 question at the center of Gaudreault and Marion's essay, *The End of
 Cinema? A Medium in Crisis in the Digital Age*. They ask whether
 'cinema, in its shift to the digital, has simply made a turn (in which
 case we could speak of a digital turn) or whether it is in the process
-of becoming something else - whether it is undergoing a true mutation
+of becoming something else – whether it is undergoing a true mutation
 (in which case we could speak of a digital mutation)'.[^68] The latter
 case will presumably need a new name. The authors quote, in passing,
 Raymond Bellour to the effect that 'digital technology is not enough to
 kill cinema. Although it may disturb it in many respects, it does not
 touch its essence'[^69] and draw on the genealogy of cinema arguing that
 the movies are not dying; it is just that 'a generation stands aside and
-makes room for the next'[^70]
+makes room for the next'.[^70]
 
 The genealogical argument is attractive. To the double birth model they
 developed in 2000, the second birth being the institutionalization of
@@ -1204,8 +1200,8 @@ media practice as technologized as cinema can survive the most radical
 technological transformations.
 
 Current intermedial thinking, i.e. that of the postmediatic period, is
-characterized by the erosion of belief in determinism and progress --
-and particularly the death of the illusion of mediating exclusivity --
+characterized by the erosion of belief in determinism and progress –
+and particularly the death of the illusion of mediating exclusivity –
 as much as it is by the shattering of the traditional conception of
 media and the demise of technological primacy. The question of a
 medium's identity has become secondary to its action and its position in
@@ -1287,7 +1283,6 @@ of intermediality.
 [^9]: Lisa Gitelman, *Always Already New: Media, History, and the Data
     of Culture*, The MIT Press, 2008.
 
-
 [^11]: Alexander R Galloway, *The Interface Effect*, Cambridge, UK;
     Malden, MA: Polity, 2012.
 
@@ -1298,19 +1293,19 @@ of intermediality.
     Parikka, Cambridge: Polity Press, 2015.
 
 [^14]: Philippe Marion, *L'année des médias 1996,* 1997
-    \<<https://dial.uclouvain.be/pr/boreal/object/boreal:83077>\>
-    \[accessed 16 February 2019\].
+    https://dial.uclouvain.be/pr/boreal/object/boreal:83077
+    [accessed 16 February 2019].
 
 [^15]: Jean-Louis Déotte, *Appareils et formes de la sensibilité*,
     L'Harmattan, 2005.
 
 [^16]: Philippe Ortel, 'Note sur une esthétique de la vue : Photographie
     et littérature', 2002
-    \<<https://doi.org/http://isidore.science/document/10.3406/roman.2002.1164>\>;
+    https://doi.org/http://isidore.science/document/10.3406/roman.2002.1164;
     Arnaud Rykner, *Le tableau vivant et la scène du corps : vision,
     pulsion, dispositif*, Hyper Article en Ligne - Sciences de l'Homme
     et de la Société, 2013
-    \<<https://isidore.science/document/10670/1.0jcfgt>\> \[accessed 16
+    https://isidore.science/document/10670/1.0jcfgt [accessed 16
     February 2019\].
 
 [^17]: Jacques Rancière, *Le spectateur émancipé*, La Fabrique éditions,
@@ -1328,7 +1323,7 @@ of intermediality.
     : Histoire et théorie des arts, des lettres et des techniques /
     Intermediality : History and Theory of the Arts, Literature and
     Technologies*, 1, 2003, 9-27
-    \<<https://doi.org/https://doi.org/10.7202/1005442ar>\>.
+    https://doi.org/https://doi.org/10.7202/1005442ar.
 
 [^21]: We shall return to the question of sociomedialities in Chapter 4.
 
@@ -1346,7 +1341,7 @@ of intermediality.
 
 [^26]: Eliséo Véron, 'De l'image sémiologique aux discursitivtés. Le
     temps d'une photo', *Hermès*, 13, 1994, 45 (p. 51)
-    \<<https://doi.org/10.4267/2042/15515>\>, our translation.
+    https://doi.org/10.4267/2042/15515, our translation.
 
 [^27]: Gitelman, *Always Already New: Media, History, and the Data of
     Culture*, p. 7.
@@ -1359,7 +1354,7 @@ of intermediality.
 
 [^30]: Jacques Rancière, 'Ce que « medium » peut vouloir dire :
     l'exemple de la photographie', *Appareil*, 1, 2008
-    \<<https://doi.org/10.4000/appareil.135>\>.
+    https://doi.org/10.4000/appareil.135.
 
 [^31]: Sibony, *Entre-deux: l'origine en partage*.
 
@@ -1386,7 +1381,7 @@ of intermediality.
     for the Complex, the Changing and the Indeterminate', in
     *Proceedings of the 1965 20th National Conference*, ACM '65, New
     York, NY, USA: ACM, 1965, pp. 84-100
-    \<<https://doi.org/10.1145/800197.806036>\>.
+    https://doi.org/10.1145/800197.806036.
 
 [^41]: Bolter and Grusin, *Remediation: Understanding New Media*, pp.
     41-42.
@@ -1436,7 +1431,7 @@ of intermediality.
 [^54]: Jacob Smith and American Council of Learned Societies, *Vocal
     Tracks: Performance and Sound Media*, Berkeley: University of
     California Press, 2008, p. 94
-    \<<https://login.gbcprx01.georgebrown.ca/login?url=https://ebookcentral.proquest.com/lib/georgebrown-ebooks/detail.action?docID=358943>\>
+    https://login.gbcprx01.georgebrown.ca/login?url=https://ebookcentral.proquest.com/lib/georgebrown-ebooks/detail.action?docID=358943
     \[accessed 16 February 2019\].
 
 [^55]: Chiel Kattenbelt, 'Theatre as the Art of the Performer and the

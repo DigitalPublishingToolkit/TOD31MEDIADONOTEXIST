@@ -8,8 +8,8 @@ generally, in response to the complexity of mediation phenomena as they
 manifest themselves in the present day. This is not a matter of
 tinkering with our conceptual apparatus to account for a more elusive
 reality. What is at stake is our ability to develop new tools to better
-grasp the scope of the mediation processes -- of which we are, in one
-way or another, the agents -- and the issues they raise.
+grasp the scope of the mediation processes – of which we are, in one
+way or another, the agents – and the issues they raise.
 
 In this chapter, we will continue our discussion of mediating
 conjunctures, focussing on what they produce, namely mediation *per se*.
@@ -217,7 +217,7 @@ better still there is never a mediation that is identifiable as such,
 but always mediating conjunctures.
 
 But this perpetual novelty is itself variable in scope and intensity. In
-a given space of time -- and both time and space may be extended -- the
+a given space of time – and both time and space may be extended – the
 degree of novelty may be relatively weak, and mediating conjunctures may
 be grouped together on the basis of similarities, or what Wittgenstein
 called 'family resemblance'. Likenesses of this kind ground categories
@@ -231,9 +231,9 @@ naming of the conjunctures not only discretizes, but also reifies them,
 concealing to some degree their fundamental and dynamic characteristics.
 
 What is true of the arts applies as well to media. The term 'medium' as
-we refer to the it here was, in the late 19^th^ century, both of the
-need to distinguish traditional representational practices -- the arts
--- from new practices in which the non-human occupied a hitherto unknown
+we refer to the it here was, in the late 19th century, both of the
+need to distinguish traditional representational practices – the arts
+– from new practices in which the non-human occupied a hitherto unknown
 role (thanks to the growing use of electricity and the fast-paced
 development of sound and image reproduction technologies). This
 revolution in agency, by which we mean the scope and nature of the role
@@ -316,7 +316,7 @@ form: the formless is not just the absence of form but also, at the same
 time and inseparably, its active suppression. From this perspective,
 then, the formless possesses a destructive dimension that is,
 paradoxically, also a gateway to something else. Bataille's dictionary
-would 'no longer \[render\] the meanings of words but rather their
+would 'no longer [render] the meanings of words but rather their
 tasks'[^12] and it was through those tasks that the reader, listener or
 spectator would open up to the presence of the formless and experience
 it. The formless contains a strong performative vein even as it calls
@@ -349,8 +349,8 @@ was something beyond communication, he did not move beyond a preliminary
 stage of reflection, one that consisted not so much of blazing new
 trails towards the vast continent of the formless, as of dismantling the
 routes that do not lead there. His enterprise heralds the great debates
-that would attend the rise and fall of semiotics -- and of linguistics
-in general -- but its lasting importance resides mainly in this
+that would attend the rise and fall of semiotics – and of linguistics
+in general – but its lasting importance resides mainly in this
 fundamental and fraught question, precisely because it is
 counterintuitive: what is the undifferentiated? To ask this question
 also involves asking how the undifferentiated is to be mediated,
@@ -389,11 +389,11 @@ with this move Grusin frees mediation from the representational yoke to
 which he and Bolter had originally tied it to. This liberated mediation
 is what he calls 'radical mediation'. And Grusin goes further still. He
 argues that immediacy is limited neither to the products of mediation,
-nor to its erasure -- *i.e.*, its transparency -- and, what's more, that
+nor to its erasure – *i.e.*, its transparency – and, what's more, that
 it is mediation itself that is immediate: 'Mediation is not opposed to
 immediacy but rather is itself immediate'.[^14]
 
-Grusin returns -- or rather relegates -- the two-pronged concept of
+Grusin returns – or rather relegates – the two-pronged concept of
 transparent immediacy to an instance of 'media correlationism', which
 might be regarded as an updated version of the historical notion of a
 copy's fidelity to the original. Likening transparent immediacy to a
@@ -406,7 +406,7 @@ and non-human.
 How does this major amendment to the remediation model by one of its
 authors help advance thinking about mediating conjunctures? In two ways.
 First, it tacks towards performativity. Grusin's 'immediate mediation'
-now includes what might be called 'intransitive mediation' -- that is,
+now includes what might be called 'intransitive mediation' – that is,
 mediation that essentially refers to nothing beyond what occurs at the
 moment of mediation: no model is transmitted, no pre-existing before or
 elsewhere is summoned in the here and now of the mediation.
@@ -421,7 +421,7 @@ mediation would take into account the entire human sensorium'.[^15] This
 passage and others from the landmark article suggest that, like Bolter,
 Grusin has trouble conceiving visual mediation outside of
 representational logic, which is why he entirely abandons the concept of
-opacity -- it is never mentioned in the article -- and also why he
+opacity – it is never mentioned in the article – and also why he
 concludes that immediacy makes the concept of transparency inoperative
 and useless. However, stating that mediation is immediate is
 insufficient for defining it. By excluding the interplay between
@@ -499,7 +499,7 @@ unquestionably represents another significant advance in intermedial
 thinking about mediation and effects a major paradigm shift: while
 Grusin has released mediation from the representational cage to which he
 and Bolter had confined it, he still keeps it penned within the
-perimeter of communication -- a larger enclosure, to be sure, but an
+perimeter of communication – a larger enclosure, to be sure, but an
 enclosure nonetheless. Galloway and his co-authors go further by
 proposing to remove mediation from the communicative framework. Just as
 Grusin showed that the representational schema is only one remediation
@@ -536,9 +536,9 @@ The proposal Galloway and his colleagues make does not overcome the
 difficulty Bataille encountered in defining the formless and modeling
 its dynamics. This does not, however, vitiate its value, for it in fact
 unveils a new stage in debates about intermediality and mediation. Just
-as we can regard mediation as excommunication -- that is, understand it
-outside the communicative framework -- we can speak of excommunicating
-mediating conjunctures -- *i.e.*, instances of mediation that are
+as we can regard mediation as excommunication – that is, understand it
+outside the communicative framework – we can speak of excommunicating
+mediating conjunctures – *i.e.*, instances of mediation that are
 located outside the classic model and hence cannot be explained by it.
 Thacker calls these types of mediation 'Dark Media'. It might be
 suggested that the magic show, with its 'inopacity', is a salient
@@ -546,7 +546,7 @@ example. The function of what might be called 'dark mediating
 conjunctures', which rub shoulders with more traditional mediating
 conjunctures, no longer aims to make the inaccessible accessible or to
 connect what is separate: 'Instead, media reveal inaccessibility in and
-of itself -- they make accessible the inaccessible -- in its
+of itself – they make accessible the inaccessible – in its
 inaccessibility'.[^21]
 
 ## Conclusion
@@ -584,7 +584,7 @@ world and living together in and with the world.
 [^1]: See Chapter 1.
 
 [^2]: Richard Grusin, 'Radical Mediation', *Critical Inquiry*, 42.1
-    (2015), 124-48 (pp. 137-38) \<<https://doi.org/10.1086/682998>\>.
+    (2015), 124-48 (pp. 137-38) https://doi.org/10.1086/682998.
 
 [^3]: Ian Hacking gave an example of the institutionalization of
     discourse in 2005, in his Philosophy and History of Scientific
@@ -596,8 +596,8 @@ world and living together in and with the world.
     Hacking identifies at least four moments in the process: (1)
     classification, (2) people, (3) institutions and (4) expert
     knowledge and popular knowledge. His lecture is available online at
-    [[https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510\_Hacking2004\_2005.pdf]{.underline}](https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510_Hacking2004_2005.pdf).
-    Retrieved on 29 May, 2018.
+    https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510\_Hacking2004\_2005.pdf]{.underline}](https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510_Hacking2004_2005.pdf.
+    [Retrieved on 29 May, 2018].
 
 [^4]: Carolyn Marvin, *When Old Technologies Were New: Thinking About
     Electric Communication in the Late Nineteenth Century*, Nachdr.,
@@ -616,7 +616,7 @@ world and living together in and with the world.
     the human, as we have noted.
 
 [^9]: Dominic Faccini and others, 'Critical Dictionary', *October*, 60
-    (1992), 25-31 (p. 27) \<<https://doi.org/10.2307/779027>\>.
+    (1992), 25-31 (p. 27) https://doi.org/10.2307/779027.
 
 [^10]: In general terms, he suggests the examples of the earthworm, the
     spider and the spittle.
