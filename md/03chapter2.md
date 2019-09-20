@@ -1,4 +1,4 @@
-# Essence and Performativity
+#Essence and Performativity
 
 ## Introduction
 
@@ -37,7 +37,7 @@ to define one medium's characteristics in order to distinguish it from
 another – to articulate the difference between a printed book and an
 e-book, for example, or between a play and a movie that tell the same
 story – we take medium and content to be mutually independent (the
-position defended by Jenkins[^1] and Elleström[^2]), which confronts us
+position defended by Jenkins[^1] and Elleström[^2] ), which confronts us
 with the paradox of imagining content without a medium, ready to be
 shaped in one manner or another, depending on the chosen medium. If, on
 the other hand, we take the non-essentialist view and suppose that

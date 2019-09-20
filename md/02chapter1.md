@@ -99,7 +99,7 @@ full complexity of mediation processes and underlining the hazards of
 transposing concepts from visual studies to sound studies. In *Always
 Already New: Media, History, and the Data of Culture*,[^9] Lisa Gitelman
 questions whether what were then referred to, by researchers and in
-society in general , as 'new media' in the industry really were new.
+society in general, as 'new media' in the industry really were new.
 Adapting and developing Derrida's well-known phrase, she contends that
 all media were always already new. Gitelman's analysis was grounded in a
 synthetic definition of media to which no intermedialist, in the US or
@@ -720,7 +720,7 @@ execution, incarnation'.[^46] In an important essay entitled
 *Transparence et opacité. Essai sur les fondements théoriques de l'art
 moderne*,[^47] the art historian Philippe Junod, drawing heavily on the
 work of the German philosopher Konrad Fiedler (1841-1895), shows how the
-development of the machine in the 19^th^ century paradoxically
+development of the machine in the 19th century paradoxically
 contributed to 'a revalorization of manual labour',[^48] beginning with
 the work of artists. Their previously little-studied *praxis* began
 attracting the interest of analysts and of the artists themselves. The
