@@ -1,3 +1,22 @@
+---
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 31
+Type: book
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: Media Do Not Exist
+Article-status: accepted
+Author: Jean-Marc Larrue, Marcello Vitali-Rosati
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Mediating Conjunctures
 
 ## Between Multiplicity and Identification
@@ -66,7 +85,7 @@ action takes place, they are what in part condition and shape it; on the
 other hand, they can only be formed because the mediating dynamic has
 already been set off.
 
-The concept of stigmergy, that we borrow from Ollivier Dyens,[^1]
+The concept of stigmergy, that we borrow from Ollivier Dyens,[^04chapter3_1]
 appears particularly useful for explaining this singular logic.
 Originating in the field of biology, stigmergy describes a form of
 self-organization. It is based on a simple principle: that a trace left
@@ -107,7 +126,7 @@ develop the concept of mediating conjunctures because the word
 structured and defined that – as the combustion engine described by
 Bachimont – would transform space into time, completely determining
 every event produced within the frame of the mediation. As in the case
-described by Matteo Treleani,[^2] who asserts that a user before a web
+described by Matteo Treleani,[^04chapter3_2] who asserts that a user before a web
 document is as an automaton, that is to say that in a nearly mechanic
 way he performs actions that are measured by the mediating device: one
 click on a link, then another, and one sees a series of actions framed
@@ -163,7 +182,7 @@ closer to a dance performance of the same period than a Molière play.
 This perspective simultaneously allows us to take into account the
 premediation that exists within each media practice without
 essentializing it. This is at the heart of the notion of mediating
-conjunctures.[^3]
+conjunctures.[^04chapter3_3]
 
 Let us return to the example of theatrical action in order to explain
 this point of view. If we imagine an actress, she is on stage, playing
@@ -191,8 +210,8 @@ in play is evidently an abstraction: it is impossible to demarcate in a
 predictable manner the perimeters of observation. For example: we can
 take into consideration the health conditions of the actress and tie
 them to a history of her illnesses since childhood – or place them in a
-genealogical lineage; we could do the same thing for the spectators;
-we could take into account the weather conditions and situate them in an
+genealogical lineage; we could do the same thing for the spectators; we
+could take into account the weather conditions and situate them in an
 ensemble of atmospheric phenomena... and yet each action, theatrical or
 not, is produced within the context of a particular ensemble of
 mediating conjunctures. In the case of a 'theatrical' action, we find a
@@ -233,17 +252,17 @@ action, in the mediating conjunctures within which she is placed. This
 is precisely what the notion of stigmergy implies: the movement and the
 behaviour of each animal contribute to the production of a dynamic
 spatial structure – the school of fish or the ant hive or the spider's
-web, but this spatial structure itself conditions the behaviour of
-the animals. There is no 'school' without the movement of each fish, and
-yet the movement of a fish or of a particular bird is initiated by the
+web, but this spatial structure itself conditions the behaviour of the
+animals. There is no 'school' without the movement of each fish, and yet
+the movement of a fish or of a particular bird is initiated by the
 structure of the school. It is obviously the movement of the spider that
 determines the structure of the web, but at the same time the webs
 architecture determines the movement. The two occur together because one
 forms part of the other. The action that is produced in the mediating
 conjuncture is at the same time conditioned by its mediating conjuncture
-– as the latter is its context – but, in turn, it conditions and
-shapes the mediating conjuncture. Without the actress who acts, the
-mediating conjunctures would be different.
+– as the latter is its context – but, in turn, it conditions and shapes
+the mediating conjuncture. Without the actress who acts, the mediating
+conjunctures would be different.
 
 Another example could help to understand this complex relationship
 between mediating conjunctures and action. We are, at this very moment,
@@ -307,48 +326,47 @@ all the moving forces that come into play in mediating conjunctures.
     the moment that she acts, the actress finds herself in a particular
     space. This space is the ensemble of relationships tying the stage
     to the audience – the orientation of seats, the height of the stage
-    in relation to the auditorium, the placement of the theater wings
-    –, but that also tie the different objects on stage to one another
-    – the scenography, the position of other actors –, and that tie
+    in relation to the auditorium, the placement of the theater wings –,
+    but that also tie the different objects on stage to one another –
+    the scenography, the position of other actors –, and that tie
     together the ensemble of the 'theater' structure with its external
-    factors – the theater's location, for example. The actress's
-    action, her acting, only has meaning because it takes place in a
-    particular spatial context: she is on the stage, there is an
-    audience watching her, she finds herself in a theater, this theater
-    is in the center of, say, Montreal, or even in the suburbs of New
-    York. And yet this space is not simply the ensemble of elements and
-    forces present but, moreover, as we have said, the ensemble of
-    relations that bind them together. This is why this space can be
-    considered the technical dimension of mediating conjunctures;
-    elements such as lighting or acoustics are part of the spatial
-    context. The relationship between the actors and the audience is not
-    defined simply by the distance or geometrical position of the stage
-    in relation to the auditorium and the theater boxes, but also by the
-    fact that a particular lighting device enables the stage to be seen
-    by the spectators, and the sounds produced to be heard. All of the
-    technical and technological devices in place form part of the
-    spatial context that produces them. If there is a microphone, or a
-    video recorder, or a computer that connects another theater via
-    videoconference, these apparatus also form part of the spatial
-    context because they contribute to building relationships between
-    objects.
+    factors – the theater's location, for example. The actress's action,
+    her acting, only has meaning because it takes place in a particular
+    spatial context: she is on the stage, there is an audience watching
+    her, she finds herself in a theater, this theater is in the center
+    of, say, Montreal, or even in the suburbs of New York. And yet this
+    space is not simply the ensemble of elements and forces present but,
+    moreover, as we have said, the ensemble of relations that bind them
+    together. This is why this space can be considered the technical
+    dimension of mediating conjunctures; elements such as lighting or
+    acoustics are part of the spatial context. The relationship between
+    the actors and the audience is not defined simply by the distance or
+    geometrical position of the stage in relation to the auditorium and
+    the theater boxes, but also by the fact that a particular lighting
+    device enables the stage to be seen by the spectators, and the
+    sounds produced to be heard. All of the technical and technological
+    devices in place form part of the spatial context that produces
+    them. If there is a microphone, or a video recorder, or a computer
+    that connects another theater via videoconference, these apparatus
+    also form part of the spatial context because they contribute to
+    building relationships between objects.
 
-2.  The technical dimension is necessarily accompanied by a discursive
-    – or cultural – dimension, without which the other would not make
+2.  The technical dimension is necessarily accompanied by a discursive –
+    or cultural – dimension, without which the other would not make
     sense. This is what we have demonstrated in our discussion on
     sociomedialities. It is not, as we henceforth highlight, an abstract
     or immaterial aspect of mediating conjunctures. The discursive
     dimension is made up of the ensemble of documents, texts, or other
     forms of traces on which our interpretation of the world is
-    based.[^4] These diverse documents, traditions and traces give way
+    based.[^04chapter3_4] These diverse documents, traditions and traces give way
     to a series of interpretative tendencies that shape the action at
     any given moment. The actress acts because there is a text -- in our
     example Racine's text. She also acts because there is a tradition
     wherein the theater means something for a group of people or a
     society. There are texts that have been studied and transmitted, a
-    learning that occurs at school – or elsewhere –, a familiarity
-    with the device that is possible thanks only to the sharing of
-    communal textual or informational references. The ensemble of these
+    learning that occurs at school – or elsewhere –, a familiarity with
+    the device that is possible thanks only to the sharing of communal
+    textual or informational references. The ensemble of these
     references is shared by the audience – each member of the public in
     their own way –, by the actors, by the director. And these
     references are also shifting, as they do not cease to change and
@@ -371,8 +389,8 @@ all the moving forces that come into play in mediating conjunctures.
     high-fidelity sound and image reproduction technology is an example.
     To understand the specificity of digital sound we must, on the one
     hand, understand technical sampling and discretization of analogue
-    sound and, on the other hand, understand industrial discourse that
-    – as opposed to technical realities – presents this sampling as a
+    sound and, on the other hand, understand industrial discourse that –
+    as opposed to technical realities – presents this sampling as a
     faithful representation of the continued realities of sound. CDs
     are, at the same time, a reproducing technique that reduces
     'fidelity' to the reality of sound, but also a cultural object that,
@@ -383,7 +401,7 @@ all the moving forces that come into play in mediating conjunctures.
     of *supports*: 'with intermediality, we are not interested in the
     hidden meanings beyond the text, but in the operations that unite
     matter, forms, social usage, scholarly practices, the historicity of
-    phenomena and authorizing institutions'.[^5] In this sense, the
+    phenomena and authorizing institutions'.[^04chapter3_5] In this sense, the
     *support* is no longer a stable premediating technique, but a
     dynamic produced by the interlacing forces put in play in a
     particular moment.
@@ -441,14 +459,14 @@ add a particular technique, that of the *camera obscura* which, if it
 was undeniably at the center of photographic development, also
 characterized painting, at lease from the Venetian Veduta. Instead of
 identifying digital photography as a separate medium, we could therefore
-concentrate on the practice of taking a photo – the very moment that
-the photo is taken – and analyze the ensemble of tendencies that are
+concentrate on the practice of taking a photo – the very moment that the
+photo is taken – and analyze the ensemble of tendencies that are
 activated at this precise moment: this is what it means to account for
-*mediating conjunctures*.[^6]
+*mediating conjunctures*.[^04chapter3_6]
 
 Servanne Monjour analyzes this complex mechanism of dialogue between
 techniques, discourse and practice in the context of digital photography
-by referring to 'remanence'.[^7] The idea of remanence allows a
+by referring to 'remanence'.[^04chapter3_7] The idea of remanence allows a
 reinterpretation of the notion of remediation as defined by Bolter and
 Grusin in *Understanding New Media*, all while avoiding the major
 pitfall of this essay, which is a certain teleological temptation that
@@ -471,12 +489,12 @@ established in reverse:
 > its invention, even if it means integrating it, in reverse, into a
 > tradition, that is, retroactively associating it with a meaning that
 > it has perhaps not (yet) entirely had – or, in certain cases, that it
-> did not have at all.[^8]
+> did not have at all.[^04chapter3_8]
 
 This approach therefore allows us to avoid a teleological vision of
 media's progress. There is not, in other terms, a linear development of
 all media that would become more and more transparent, for example, as
-in the illustrious metaphor of the 'Black Box' that Henry Jenkins[^9]
+in the illustrious metaphor of the 'Black Box' that Henry Jenkins[^04chapter3_9]
 denounces, as well as what we have seen in this chapter. The change of
 mediatic practices often occurs following an oscillation of ideas and
 tendencies that more or less have a strong influence on these practices
@@ -487,35 +505,35 @@ in rendering present something that will no longer be, during a given
 period, one of the forces that, for example, leads to making a painting
 or to staging a theater play. This thirst for representation inevitably
 generates the development of techniques and apparatus that allow us to
-render present that which is not or, at least, to give us the illusion
-– perspective, the *camera obscura*, photography, the phonograph, etc.
-In their essay, *Remediation. Understanding New Media*, Bolter and
-Grusin in this way attempt to identify the vast historical periods
-wherein the principle of 'immediacy' was dominant, which we assimilate
-with the representational system. But they are also interested in other
+render present that which is not or, at least, to give us the illusion –
+perspective, the *camera obscura*, photography, the phonograph, etc. In
+their essay, *Remediation. Understanding New Media*, Bolter and Grusin
+in this way attempt to identify the vast historical periods wherein the
+principle of 'immediacy' was dominant, which we assimilate with the
+representational system. But they are also interested in other
 historical moments that they associate with hypermediacy, wherein this
-desire is less evident. This is the case in the 20th and 21st
-centuries, primarily in the visual arts field. The very concept of
-representation competes with other aspects of artistic experience as in,
-for example, life. If we think about the effects of the analogue that
-digital photo software offers, it is clear that the desire of
-representation has been replaced by other desires. Obviously, we cannot
-think this reduction of want of representation as progress: criticizing
-the idea of representation was fundamental in Plato's thinking, which
-did not prevent a great comeback of *mimesis* in other historical
-periods, as well as its decline in others. It really relates to an
-oscillating movement. But this movement does not, as Bolter and Grusin
-suggest, limit itself to two poles – namely, immediacy and
-hypermediacy. In moving towards representation, other tendencies arise,
-for example the tendency to create world hierarchies in structured
-taxonomies, the tendency to organize complex linear structures, the
-tendency to mathematize reality, or the tendency to create networks
-(that we observe with the Romans, builders of road networks, with the
-English *Railway mania* and *Canal mania*, with internet pioneers...).
-We could identify an ensemble of tendencies to describe particular
-mediating conjunctures. It is what we will do in the last chapter of
-this work in an attempt to justify the mediating conjunctures that
-crystallize today with a substantive adjective: 'the digital'.
+desire is less evident. This is the case in the 20th and 21st centuries,
+primarily in the visual arts field. The very concept of representation
+competes with other aspects of artistic experience as in, for example,
+life. If we think about the effects of the analogue that digital photo
+software offers, it is clear that the desire of representation has been
+replaced by other desires. Obviously, we cannot think this reduction of
+want of representation as progress: criticizing the idea of
+representation was fundamental in Plato's thinking, which did not
+prevent a great comeback of *mimesis* in other historical periods, as
+well as its decline in others. It really relates to an oscillating
+movement. But this movement does not, as Bolter and Grusin suggest,
+limit itself to two poles – namely, immediacy and hypermediacy. In
+moving towards representation, other tendencies arise, for example the
+tendency to create world hierarchies in structured taxonomies, the
+tendency to organize complex linear structures, the tendency to
+mathematize reality, or the tendency to create networks (that we observe
+with the Romans, builders of road networks, with the English *Railway
+mania* and *Canal mania*, with internet pioneers...). We could identify
+an ensemble of tendencies to describe particular mediating conjunctures.
+It is what we will do in the last chapter of this work in an attempt to
+justify the mediating conjunctures that crystallize today with a
+substantive adjective: 'the digital'.
 
 It now remains to see how these forces and tendencies can be interpreted
 not only as factors that frame and shape the action, but also, and above
@@ -551,17 +569,17 @@ what Lars Elleström calls 'media transformation'. This movement, that
 manifests as a result of a growing lack of differentiation between media
 and an erasure of the barriers that demarcate them – think about a
 television system and home cinema or current mobile phones and their
-multifunctional qualities – is precisely what highlights the
-centrality of mediation and medialities. It is otherwise on the basis of
-these medialities that the transmedial dynamic is founded: the mediatic
+multifunctional qualities – is precisely what highlights the centrality
+of mediation and medialities. It is otherwise on the basis of these
+medialities that the transmedial dynamic is founded: the mediatic
 contents are treated and distributed in accordance with specific
 medialities. This indicates well that, if there are no longer media, we
 are not in an unclear continuum where it would be impossible – even
-unreasonable – to identify a particular mediatic situation.[^10]
+unreasonable – to identify a particular mediatic situation.[^04chapter3_10]
 
 If intermediality does participate in this performative shift marking
-the end of the 20th century and the beginning of the 21st, the idea
-of mediating conjunctures discussed here marks a crucial step in the
+the end of the 20th century and the beginning of the 21st, the idea of
+mediating conjunctures discussed here marks a crucial step in the
 development of thinking about mediation, as well as that of
 performativity. Intermediality is, above all, performative, regardless
 of the period and regardless of the system – mediatic, postmediatic –
@@ -572,7 +590,7 @@ larger movement that we could consider 'mediationist', that varies from
 media theory (Galloway) to *new materialism* (De Landa, Braidotti) or to
 Karen Barad's *agential realism*. According to Barad, 'reality is not
 composed of things-in-themselves or things-behind-phenomena but
-"things"-in-phenomena'.[^11] From this logical shift, and its
+"things"-in-phenomena'.[^04chapter3_11] From this logical shift, and its
 considerable repercussions, emerged the major concept of intra-activity.
 Within the intermedial field that interests us, what we consider to be
 mediating conjunctures largely corresponds to the intra-active dynamic
@@ -582,7 +600,7 @@ While the first assumes the pre-existence of predetermined independent
 entities to be related to one another, it is on the other hand 'through
 specific agential intra-actions that the boundaries and properties of
 the "components" of phenomena become determinate and that particular
-embodied concepts become meaningful'.[^12]
+embodied concepts become meaningful'.[^04chapter3_12]
 
 If mediating conjunctures are always something specific, the question
 therefore arises: how do we consider the difference between one
@@ -597,7 +615,7 @@ genuine solution – adopting an approach that could be described as
 always the result of the mediation process. Instead of thinking of a
 Being in itself which is thereafter meditated to give way to a Being for
 us, or a representational Being, metaontology considers mediations as
-original.[^13] We could therefore adopt an ontological approach, which
+original.[^04chapter3_13] We could therefore adopt an ontological approach, which
 aims to grasp the specificity of mediating conjunctures, without
 renouncing their elusive nature. Indeed, the originality of mediations
 implies an original multiplicity of Beings, and therefore a multiplicity
@@ -650,14 +668,14 @@ process of naturalization which presents itself as the inevitable
 aftermath of any performative gesture. This is covered in the following
 chapter.
 
-[^1]: Ollivier Dyens, *Enfanter l'inhumain: le refus du vivant*,
+[^04chapter3_1]: Ollivier Dyens, *Enfanter l'inhumain: le refus du vivant*,
     Montréal: Triptyque, 2012.
 
-[^2]: Matteo Treleani, 'Le spectre et l'automate. Deux figures du
+[^04chapter3_2]: Matteo Treleani, 'Le spectre et l'automate. Deux figures du
     spectateur', in *D'un écran à l'autre. Les mutations du spectateur*,
     Delavaud, G. Chateauvert, J., Harmattan, 2016.
 
-[^3]: The notion of mediating conjunctures, as we conceive of it, could
+[^04chapter3_3]: The notion of mediating conjunctures, as we conceive of it, could
     be likened to that of the 'cultural series' developed by Gaudreault
     and Marion., André Gaudreault and Philippe Marion, *The End of
     Cinema? A Medium in Crisis in the Digital Age*, New York: Columbia
@@ -674,16 +692,16 @@ chapter.
     each media practice is only one of many avenues of possible
     interpretations.
 
-[^4]: Regarding this aspect, see Maurizio Ferraris, *Documentality: Why
+[^04chapter3_4]: Regarding this aspect, see Maurizio Ferraris, *Documentality: Why
     It Is Necessary to Leave Traces*, trans. by Richard Davies, 1
     edition, New York: Fordham University Press, 2012.
 
-[^5]: Eric Méchoulan, 'Intermédialité, ou comment penser les
+[^04chapter3_5]: Eric Méchoulan, 'Intermédialité, ou comment penser les
     transmissions', *Fabula Colloques*, 2017
-    http://www.fabula.org/colloques/document4278.php [accessed 29
-    May 2018\].
+    http://www.fabula.org/colloques/document4278.php \[accessed 29 May
+    2018\].
 
-[^6]: As opposed to cultural series, mediating conjunctures insist that
+[^04chapter3_6]: As opposed to cultural series, mediating conjunctures insist that
     we account for the multiplicity of elements present at the moment of
     the action: there are multiple histories relating to the many
     different elements. One cannot include the ensemble of mediating
@@ -691,30 +709,30 @@ chapter.
     cultural series and mediating conjunctures, it is that the latter
     can be thought of as the crossing over of different cultural series.
 
-[^7]: Servanne Monjour, *Mythologies postphotographiques: l'invention
+[^04chapter3_7]: Servanne Monjour, *Mythologies postphotographiques: l'invention
     littéraire de l'image numérique*, Montréal: PUM, 2018
     http://parcoursnumeriques-pum.ca/introduction-158.
 
-[^8]: Monjour, *Mythologies postphotographiques: l'invention littéraire
+[^04chapter3_8]: Monjour, *Mythologies postphotographiques: l'invention littéraire
     de l'image numérique*, p. 146.
 
-[^9]: Henry Jenkins, *Convergence Culture: Where Old and New Media
+[^04chapter3_9]: Henry Jenkins, *Convergence Culture: Where Old and New Media
     Collide*, Revised edition, New York: NYU Press, 2008, p. 13.
 
-[^10]: See, for example Rosi Braidotti, *The Posthuman*, Cambridge, UK;
+[^04chapter3_10]: See, for example Rosi Braidotti, *The Posthuman*, Cambridge, UK;
     Malden, MA, USA: Polity Press, 2013. and Manuel De Landa,
     *Assemblage Theory*, Speculative Realism, Edinburgh: Edinburgh
     University Press, 2016.
 
-[^11]: Karen Barad, 'Posthumanist Performativity: Toward an
+[^04chapter3_11]: Karen Barad, 'Posthumanist Performativity: Toward an
     Understanding of How Matter Comes to Matter', *Signs: Journal of
     Women in Culture and Society*, 28.3 (2003), 801-31 (p. 817)
     https://doi.org/10.1086/345321.
 
-[^12]: Barad, 'Posthumanist Performativity: Toward an Understanding of
+[^04chapter3_12]: Barad, 'Posthumanist Performativity: Toward an Understanding of
     How Matter Comes to Matter', p. 815.
 
-[^13]: This point can be understood in line with the agential realism of
+[^04chapter3_13]: This point can be understood in line with the agential realism of
     Karen Barad, *Meeting the Universe Halfway: Quantum Physics and the
     Entanglement of Matter and Meaning*, Second Printing edition,
     Durham: Duke University Press Books, 2007: instead of opposing

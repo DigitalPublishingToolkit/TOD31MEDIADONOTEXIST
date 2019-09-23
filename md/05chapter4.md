@@ -1,3 +1,22 @@
+---
+Pr-id: Publications
+P-id: Theory on Demand
+A-id: 31
+Type: book
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: Media Do Not Exist
+Article-status: accepted
+Author: Jean-Marc Larrue, Marcello Vitali-Rosati
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
 # Mediating Conjunctures and Mediation
 
 In the previous chapter, we explained why we prefer 'mediating
@@ -8,8 +27,8 @@ generally, in response to the complexity of mediation phenomena as they
 manifest themselves in the present day. This is not a matter of
 tinkering with our conceptual apparatus to account for a more elusive
 reality. What is at stake is our ability to develop new tools to better
-grasp the scope of the mediation processes – of which we are, in one
-way or another, the agents – and the issues they raise.
+grasp the scope of the mediation processes – of which we are, in one way
+or another, the agents – and the issues they raise.
 
 In this chapter, we will continue our discussion of mediating
 conjunctures, focussing on what they produce, namely mediation *per se*.
@@ -59,10 +78,10 @@ third option (principle of excluded middle).
 
 The second form of discretization of reality is individuation. Richard
 Grusin, the coauthor of *Remediation: Understanding New Media*, which we
-have discussed[^1] and to which we shall return, defines mediation as
+have discussed[^05chapter4_1] and to which we shall return, defines mediation as
 'the process, action, or event that generates or provides the conditions
 for the emergence of subjects and objects, for the individuation of
-entities within the world'.[^2]
+entities within the world'.[^05chapter4_2]
 
 Such entities can be constituted only if we take a section of the whole,
 isolate it, and consider it as a unit in and of itself. This entails
@@ -128,7 +147,7 @@ a polarity or an individuality for it to attain an institutional
 existence. The discourse that produces the discretization must
 circulate, must be shared, and must stabilize: it must always say more
 or less the same thing (or at least give the impression of doing
-so).[^3]
+so).[^05chapter4_3]
 
 To return to the example of units of measure, the definition of a meter
 is not rooted in any necessity: the same distance could be measured in
@@ -152,7 +171,7 @@ when it no longer appears tied to cultural variables, but instead seems
 to belong to the natural order of things.
 
 In the case of media, a naturalized medium becomes a fixture of its
-users' daily lived environment. In *When Old Technologies Were New*,[^4]
+users' daily lived environment. In *When Old Technologies Were New*,[^05chapter4_4]
 Carolyn Marvin provides a striking example of how a medium becomes
 naturalized. She describes how the telephone entered the daily lives of
 a steadily growing congregation of individuals (in homes, businesses and
@@ -161,11 +180,11 @@ its users. She notes that it is always a small group of initiates that
 promotes a new technology. At first, they are the only ones to master
 its use and realize its utility. But unlike other types of knowledge,
 this 'technological literacy' does not establish a permanent elite, for
-it soon comes to be widely shared.[^5]
+it soon comes to be widely shared.[^05chapter4_5]
 
 At the level of the user, naturalization has the effect of blurring the
 distinction between the human and the non-human. Marshall McLuhan
-defined media as 'extensions of man',[^6] but when media usage protocols
+defined media as 'extensions of man',[^05chapter4_6] but when media usage protocols
 are assimilated by users to the extent of becoming automatic, it is hard
 to say where the extension begins. Naturalization renders the mediation
 transparent to the user of the medium. Saying 'hello' or 'I'm hanging
@@ -226,20 +245,20 @@ mediation and also divided into subcategories, such as the temporal arts
 and the spatial arts, or distinguished on the basis of certain aspects
 of the devices they employ, such as the use of words, musical notes,
 drawings, etc. These entities were then named and organized into a
-hierarchy, which has changed over time.[^7] Of course, the essentialist
+hierarchy, which has changed over time.[^05chapter4_7] Of course, the essentialist
 naming of the conjunctures not only discretizes, but also reifies them,
 concealing to some degree their fundamental and dynamic characteristics.
 
 What is true of the arts applies as well to media. The term 'medium' as
-we refer to the it here was, in the late 19th century, both of the
-need to distinguish traditional representational practices – the arts
-– from new practices in which the non-human occupied a hitherto unknown
-role (thanks to the growing use of electricity and the fast-paced
-development of sound and image reproduction technologies). This
-revolution in agency, by which we mean the scope and nature of the role
-that various agents play in mediation processes, did not occur without
-friction. Resistance sprang up, nourished by explicitly anti-mechanical
-and technophobic discourses, often tinged with nostalgia. In the 1930s,
+we refer to the it here was, in the late 19th century, both of the need
+to distinguish traditional representational practices – the arts – from
+new practices in which the non-human occupied a hitherto unknown role
+(thanks to the growing use of electricity and the fast-paced development
+of sound and image reproduction technologies). This revolution in
+agency, by which we mean the scope and nature of the role that various
+agents play in mediation processes, did not occur without friction.
+Resistance sprang up, nourished by explicitly anti-mechanical and
+technophobic discourses, often tinged with nostalgia. In the 1930s,
 while Henri Gouhier was seeking the 'essence' of theater (in our terms,
 a nexus of mediating conjunctures that is stable over time) in the live
 and 'real' co-presence of actor and spectator, independent of any
@@ -260,7 +279,7 @@ with what was then called the materiality of media, and it made an
 important contribution to re-evaluating the role of the non-human in the
 development and operation of mediating conjunctures. The new value it
 ascribed to the non-human represented a departure from the
-anthropocentric conception of technology inherited from McLuhan.[^8]
+anthropocentric conception of technology inherited from McLuhan.[^05chapter4_8]
 Considerable effort was devoted to understanding the specific dynamic of
 the non-human and its modes of interaction with human agents. A prime
 example is the research on virtual reality, and on synthetic characters.
@@ -279,7 +298,7 @@ writer Georges Bataille decried the unhappy effect of words on our
 perception of the world. To elude their reifying and reductive power,
 Bataille proposed a new kind of dictionary, one that 'would begin from
 the point at which it no longer rendered the meanings of words but
-rather their tasks'.[^9]
+rather their tasks'.[^05chapter4_9]
 
 Beyond his distrust of words, Bataille's aim was to free humans from the
 grip of the sign and the inseparability of signifier and signified, the
@@ -298,7 +317,7 @@ of and in connection with the surrealist movement. Formlessness was an
 attempt, then, to speak the ungraspable, and the concept opens the door
 to what might be called a poetics of the unexpressed.
 
-Bataille provides no satisfactory illustration of the formless,[^10]
+Bataille provides no satisfactory illustration of the formless,[^05chapter4_10]
 nor, of course, any clear, stable definition of the concept, which would
 have been a logical contradiction. But some characteristics recur in his
 discussions of the notion: it is heterogeneous, ungraspable and a
@@ -310,14 +329,14 @@ mass that is individuated and rendered recognizable and classifiable by
 form. Bataille plainly had this in mind, as the entry for 'formless' in
 his *Dictionnaire critique* makes clear: 'Thus *formless* is not only an
 adjective with a given meaning but a term which declassifies, generally
-requiring that each thing take on a form'.[^11] The act of
+requiring that each thing take on a form'.[^05chapter4_11] The act of
 declassification therefore demands both the presence and negation of
 form: the formless is not just the absence of form but also, at the same
 time and inseparably, its active suppression. From this perspective,
 then, the formless possesses a destructive dimension that is,
 paradoxically, also a gateway to something else. Bataille's dictionary
-would 'no longer [render] the meanings of words but rather their
-tasks'[^12] and it was through those tasks that the reader, listener or
+would 'no longer \[render\] the meanings of words but rather their
+tasks'[^05chapter4_12] and it was through those tasks that the reader, listener or
 spectator would open up to the presence of the formless and experience
 it. The formless contains a strong performative vein even as it calls
 for a redefinition of agency.
@@ -336,7 +355,7 @@ not exclusively linguistic signs) are tools for the subjugation of the
 non-human to the human. It is this anthropomorphic, anthropocentric
 dimension of form, and the self-containment it effects that Georges
 Didi-Huberman underscores in *La ressemblance humaine ou le gai savoir
-selon George Bataille*.[^13]
+selon George Bataille*.[^05chapter4_13]
 
 A startlingly inventive writer though he was, Bataille was unable to
 describe the formless other than by what it is not. It's easy to see
@@ -349,13 +368,12 @@ was something beyond communication, he did not move beyond a preliminary
 stage of reflection, one that consisted not so much of blazing new
 trails towards the vast continent of the formless, as of dismantling the
 routes that do not lead there. His enterprise heralds the great debates
-that would attend the rise and fall of semiotics – and of linguistics
-in general – but its lasting importance resides mainly in this
-fundamental and fraught question, precisely because it is
-counterintuitive: what is the undifferentiated? To ask this question
-also involves asking how the undifferentiated is to be mediated,
-regardless of whether it was always undifferentiated or became so when
-detached from human language.
+that would attend the rise and fall of semiotics – and of linguistics in
+general – but its lasting importance resides mainly in this fundamental
+and fraught question, precisely because it is counterintuitive: what is
+the undifferentiated? To ask this question also involves asking how the
+undifferentiated is to be mediated, regardless of whether it was always
+undifferentiated or became so when detached from human language.
 
 These questions raised by Bataille nearly a century ago are at the
 center of today's intermedial debates and they are key to uncovering the
@@ -391,7 +409,7 @@ is what he calls 'radical mediation'. And Grusin goes further still. He
 argues that immediacy is limited neither to the products of mediation,
 nor to its erasure – *i.e.*, its transparency – and, what's more, that
 it is mediation itself that is immediate: 'Mediation is not opposed to
-immediacy but rather is itself immediate'.[^14]
+immediacy but rather is itself immediate'.[^05chapter4_14]
 
 Grusin returns – or rather relegates – the two-pronged concept of
 transparent immediacy to an instance of 'media correlationism', which
@@ -417,7 +435,7 @@ importantly, forces us to rethink mediation. In solving one problem, the
 model's confinement within the realms of representational logic, Grusin
 creates another, one that is highly instructive. He says: 'Where
 remediation focused largely on the visual aspects of mediation, radical
-mediation would take into account the entire human sensorium'.[^15] This
+mediation would take into account the entire human sensorium'.[^05chapter4_15] This
 passage and others from the landmark article suggest that, like Bolter,
 Grusin has trouble conceiving visual mediation outside of
 representational logic, which is why he entirely abandons the concept of
@@ -443,7 +461,7 @@ understood in the classic representational paradigm, an opacity that
 obscures, masks or, in Zola's terms, 'distorts' that which ought to be
 represented transparently. In this case, nothing is being re-presented:
 there is only live presence. This show of not showing, this 'aesthetics
-of the impossible' as Darwin Ortiz calls it,[^16] rests on partial,
+of the impossible' as Darwin Ortiz calls it,[^05chapter4_16] rests on partial,
 willful masking of basic elements of the mediation. Even as it reveals
 itself, the specific mediation of the magic show eludes the spectator.
 
@@ -487,7 +505,7 @@ Mediation*, co-authored with two other New York media theoreticians,
 Eugene Thacker and McKenzie Wark. The book opens with an apparently
 innocuous question that directly echoes Bataille's reflections: 'Does
 everything that exists, exist to be presented and represented, to be
-mediated and remediated, to be communicated and translated?'[^17] A
+mediated and remediated, to be communicated and translated?'[^05chapter4_17] A
 series of examples from various spheres leads them quickly and
 predictably to answer in the negative, which raises a second question:
 how, then, do we know that something exists? And a third: how can
@@ -507,14 +525,14 @@ model among many, Galloway et al. suggest that communication is only one
 mode of mediation; it is neither the principle nor the matrix of
 mediation: 'We aim, therefore, to craft not so much a theory of
 mediation in terms of communication, for which there already exist a
-number of exemplars, but a theory of mediation as excommunication'.[^18]
+number of exemplars, but a theory of mediation as excommunication'.[^05chapter4_18]
 
 What, then, is this 'mediation as excommunication' that operates outside
 communication, *i.e.*, outside strictly human communication (as it has
 been conceived until now), and that encompasses the human and non-human
 without distinction? It is 'a double movement in which the
 communicational imperative is expressed, and expressed as the
-impossibility of communication'.[^19] What they are referring to is not
+impossibility of communication'.[^05chapter4_19] What they are referring to is not
 the absence of a message or an interrupted communication; neither is it
 a performative failure of mediation, since something, they insist, is
 still being mediated. We don't know what, but we sense it, just as, in a
@@ -525,7 +543,7 @@ What the three authors of *Excommunication* are trying to articulate
 corresponds, in many respects, to Bataille's project. As we know, media
 theory originally revolved around what was thought to be a universal
 communicative process, the best-known model being Shannon and Weaver's
-classic scheme.[^20] Their 1948 model is based on a one-way, linear,
+classic scheme.[^05chapter4_20] Their 1948 model is based on a one-way, linear,
 structural conception of communication. It breaks down (we would say
 'discretizes') processes into sequences, including encoding and
 decoding, and the agents, human and non-human, who perform them. The
@@ -538,16 +556,15 @@ its dynamics. This does not, however, vitiate its value, for it in fact
 unveils a new stage in debates about intermediality and mediation. Just
 as we can regard mediation as excommunication – that is, understand it
 outside the communicative framework – we can speak of excommunicating
-mediating conjunctures – *i.e.*, instances of mediation that are
-located outside the classic model and hence cannot be explained by it.
-Thacker calls these types of mediation 'Dark Media'. It might be
-suggested that the magic show, with its 'inopacity', is a salient
-example. The function of what might be called 'dark mediating
-conjunctures', which rub shoulders with more traditional mediating
-conjunctures, no longer aims to make the inaccessible accessible or to
-connect what is separate: 'Instead, media reveal inaccessibility in and
-of itself – they make accessible the inaccessible – in its
-inaccessibility'.[^21]
+mediating conjunctures – *i.e.*, instances of mediation that are located
+outside the classic model and hence cannot be explained by it. Thacker
+calls these types of mediation 'Dark Media'. It might be suggested that
+the magic show, with its 'inopacity', is a salient example. The function
+of what might be called 'dark mediating conjunctures', which rub
+shoulders with more traditional mediating conjunctures, no longer aims
+to make the inaccessible accessible or to connect what is separate:
+'Instead, media reveal inaccessibility in and of itself – they make
+accessible the inaccessible – in its inaccessibility'.[^05chapter4_21]
 
 ## Conclusion
 
@@ -581,12 +598,12 @@ constitutes a decisive double break in the development of what we call
 postmediatic intermediality, and describes a new way of being in the
 world and living together in and with the world.
 
-[^1]: See Chapter 1.
+[^05chapter4_1]: See Chapter 1.
 
-[^2]: Richard Grusin, 'Radical Mediation', *Critical Inquiry*, 42.1
+[^05chapter4_2]: Richard Grusin, 'Radical Mediation', *Critical Inquiry*, 42.1
     (2015), 124-48 (pp. 137-38) https://doi.org/10.1086/682998.
 
-[^3]: Ian Hacking gave an example of the institutionalization of
+[^05chapter4_3]: Ian Hacking gave an example of the institutionalization of
     discourse in 2005, in his Philosophy and History of Scientific
     Concepts course at the Collège de France. He discussed the process
     by which certain medical categories (obesity, autism) become
@@ -596,58 +613,58 @@ world and living together in and with the world.
     Hacking identifies at least four moments in the process: (1)
     classification, (2) people, (3) institutions and (4) expert
     knowledge and popular knowledge. His lecture is available online at
-    https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510\_Hacking2004\_2005.pdf]{.underline}](https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510_Hacking2004_2005.pdf.
-    [Retrieved on 29 May, 2018].
+    https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510\_Hacking2004\_2005.pdf\]{.underline}\](https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510\_Hacking2004\_2005.pdf.
+    \[Retrieved on 29 May, 2018\].
 
-[^4]: Carolyn Marvin, *When Old Technologies Were New: Thinking About
+[^05chapter4_4]: Carolyn Marvin, *When Old Technologies Were New: Thinking About
     Electric Communication in the Late Nineteenth Century*, Nachdr.,
     Ill, 1990.
 
-[^5]: Marvin calls this process 'technological literacy as social
+[^05chapter4_5]: Marvin calls this process 'technological literacy as social
     currency'. Marvin, *When Old Technologies Were New: Thinking About
     Electric Communication in the Late Nineteenth Century*, p. 9 ff.
 
-[^6]: Marshall MCLuhan, *Understanding Media*, New York: Signet, 1966.
+[^05chapter4_6]: Marshall MCLuhan, *Understanding Media*, New York: Signet, 1966.
 
-[^7]: During the Romantic period, for example, music was often
+[^05chapter4_7]: During the Romantic period, for example, music was often
     considered the highest art form.
 
-[^8]: Only insofar as McLuhan relegated the non-human to an extension of
+[^05chapter4_8]: Only insofar as McLuhan relegated the non-human to an extension of
     the human, as we have noted.
 
-[^9]: Dominic Faccini and others, 'Critical Dictionary', *October*, 60
+[^05chapter4_9]: Dominic Faccini and others, 'Critical Dictionary', *October*, 60
     (1992), 25-31 (p. 27) https://doi.org/10.2307/779027.
 
-[^10]: In general terms, he suggests the examples of the earthworm, the
+[^05chapter4_10]: In general terms, he suggests the examples of the earthworm, the
     spider and the spittle.
 
-[^11]: Faccini and others, 'Critical Dictionary', p. 27.
+[^05chapter4_11]: Faccini and others, 'Critical Dictionary', p. 27.
 
-[^12]: Faccini and others, 'Critical Dictionary', p. 27.
+[^05chapter4_12]: Faccini and others, 'Critical Dictionary', p. 27.
 
-[^13]: Georges Didi-Huberman, *La ressemblance informe: ou le gai savoir
+[^05chapter4_13]: Georges Didi-Huberman, *La ressemblance informe: ou le gai savoir
     visuel selon Georges Bataille*, 2019.
 
-[^14]: Grusin, 'Radical Mediation', p. 129.
+[^05chapter4_14]: Grusin, 'Radical Mediation', p. 129.
 
-[^15]: Grusin, 'Radical Mediation', p. 132.
+[^05chapter4_15]: Grusin, 'Radical Mediation', p. 132.
 
-[^16]: Darwin Ortiz, *The Annotated Erdnase*, Pasadena, Calif: Magical
+[^05chapter4_16]: Darwin Ortiz, *The Annotated Erdnase*, Pasadena, Calif: Magical
     Publications, 1991.
 
-[^17]: *Excommunication: Three Inquiries in Media and Mediation*, ed. by
+[^05chapter4_17]: *Excommunication: Three Inquiries in Media and Mediation*, ed. by
     Alexander R. Galloway, Eugene Thacker, and McKenzie Wark, Trios,
     Chicago; London: The University of Chicago Press, 2014, p. 10.
 
-[^18]: Galloway, Thacker, and Wark, *Excommunication: Three Inquiries in
+[^05chapter4_18]: Galloway, Thacker, and Wark, *Excommunication: Three Inquiries in
     Media and Mediation*, p. 11.
 
-[^19]: Eugene Thacker, 'Dark Media', in *Excommunication: Three
+[^05chapter4_19]: Eugene Thacker, 'Dark Media', in *Excommunication: Three
     Inquiries in Media and Mediation*, ed. by Alexander R. Galloway,
     McKenzie Wark, and Eugene Thacker, Trios, Chicago; London: The
     University of Chicago Press, 2014, p. 80.
 
-[^20]: John R. Pierce, *An Introduction to Information Theory: Symbols,
+[^05chapter4_20]: John R. Pierce, *An Introduction to Information Theory: Symbols,
     Signals & Noise*, 2nd, rev. ed, New York: Dover Publications, 1980.
 
-[^21]: Thacker, 'Dark Media', p. 96.
+[^05chapter4_21]: Thacker, 'Dark Media', p. 96.

@@ -5,15 +5,15 @@ A-id: 31
 Type: book
 Book-type: anthology
 Anthology item: article
-Item-id: 
+Item-id: unique no.
 Article-title: Media Do Not Exist
 Article-status: accepted
-Author: Editors: Jean-Marc Larrue, Marcello Vitali-Rosati
-Author-email:   
+Author: Jean-Marc Larrue, Marcello Vitali-Rosati
+Author-email:   corresponding address
 Author-bio:  about the author
-Abstract:   
-Keywords:   
-Rights: 
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
 ...
 
 #Colophon <br />
