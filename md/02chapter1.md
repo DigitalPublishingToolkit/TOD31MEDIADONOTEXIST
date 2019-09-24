@@ -6,7 +6,7 @@ Type: book
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: Media Do Not Exist
+Article-title: Media Do Not Exist. Performativity and mediating conjunctures
 Article-status: accepted
 Author: Jean-Marc Larrue, Marcello Vitali-Rosati
 Author-email:   corresponding address
@@ -1413,7 +1413,7 @@ of intermediality.
 
 [^02chapter1_45]: Philippe Junod, *Transparence et opacité: Essai sur les
     fondements théoriques de l'art moderne. Pour une nouvelle lecture de
-    Konrad Fiedler*, Nîmes: Chambon, 2004, pp. 11-12, our translation
+    Konrad Fiedler*, Nîmes: Chambon, 2004, pp. 11-12, our translation.
 
 [^02chapter1_46]: Junod, *Transparence et opacité: Essai sur les fondements
     théoriques de l'art moderne. Pour une nouvelle lecture de Konrad

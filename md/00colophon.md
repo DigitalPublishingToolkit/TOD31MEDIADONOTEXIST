@@ -5,20 +5,20 @@ A-id: 31
 Type: book
 Book-type: anthology
 Anthology item: article
-Item-id: unique no.
-Article-title: Media Do Not Exist
+Item-id: u
+Article-title: Media Do Not Exist. Performativity and mediating conjunctures
 Article-status: accepted
 Author: Jean-Marc Larrue, Marcello Vitali-Rosati
 Author-email:   corresponding address
 Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Abstract:   This essay offers a radically new approach to the phenomena of mediation, proposing a new understanding of the media processes that challenge the very notion of media. It begins with a historical overview of recent developments in Western thought on mediation, especially since the mid '80s and the emergence of Media Archaeology and Intermediality. While these developments are inseparable from the advent of digital technology, they have a long history.
+Keywords:   media, mediation, performativity, mediating conjunctures, media archaeology, intermediality, digital technology, philosophy.
 Rights: CC BY-NC 4.0
 ...
 
 #Colophon <br />
 Theory on Demand #31 <br />
-**Media Do Not Exist**
+**Media Do Not Exist. Performativity and mediating conjunctures**
 
 Editors: Jean-Marc Larrue, Marcello Vitali-Rosati <br />
 Copy editor: <br />
@@ -47,3 +47,5 @@ Attribution-NonCommercial-NoDerrivatives 4.0 International (CC BY-NC-SA
 This publication is made available through various print on demand
 services and freely downloadable from
 http://www.networkcultures.org/publications
+
+![logo INC] (/Users/valeria/Desktop/INC/GitHub/TOD31MEDIADONOTEXIST/md/imgs/inclogo.jpg) <br />

@@ -6,7 +6,7 @@ Type: book
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: Media Do Not Exist
+Article-title: Media Do Not Exist. Performativity and mediating conjunctures
 Article-status: accepted
 Author: Jean-Marc Larrue, Marcello Vitali-Rosati
 Author-email:   corresponding address
@@ -390,8 +390,8 @@ practices (for example, by saying 'cultural activities', we group
 Synchronous institutionalization consists in taking a very heightened
 number of practices relating to a very short time frame. In this way, we
 very often refer to what is known as 'culture', for example the culture
-of a period. Humanism, as a culture that characterizes the 15^th^ and
-16^th^ centuries, assembles a series of very heterogenous practices that
+of a period. Humanism, as a culture that characterizes the 15th and
+16th centuries, assembles a series of very heterogenous practices that
 are nonetheless characterized by a common denominator, a kind of 'spirit
 of times'. We could say that religious cultures also enter into this
 type of institutionalization even if, in the case of religion, we group
