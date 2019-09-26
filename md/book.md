@@ -189,7 +189,7 @@ well. As Espen J. Aarseth observed in one of the foundational texts of
 game studies,[^02chapter1_2] information technology did not make the cybertext
 possible; cybertexts existed before computers and cybertextual thinking
 dates back several millennia. In support of this assertion, Aarseth
-shows how the famous Chinese book of changes, the *I Ching*, which dates
+shows how the famous Chinese book of changes, the *I Ching,* which dates
 back to the Zhou dynasty (1027-256 BC), was already a cybertext. The
 intermedial approach likewise investigates processes that extend into
 the distant past. Researchers such as Peter Boenisch[^02chapter1_3] argue that
