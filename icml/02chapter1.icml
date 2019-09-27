@@ -241,34 +241,6 @@
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
 		</ParagraphStyleGroup>
-		<ParagraphStyle Self="ParagraphStyle/BulList &gt; first &gt; Paragraph" Name="BulList &gt; first &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/BulList &gt; first &gt; Paragraph" SplitDocument="false" EmitCss="true" StyleUniqueId="d8d0bb08-0658-4c24-acae-09b629039fd5" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" BulletsAndNumberingListType="BulletList">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<TabList type="list">
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">10</Position>
-					</ListItem>
-				</TabList>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/BulList &gt; Paragraph" Name="BulList &gt; Paragraph" Imported="false" NextStyle="ParagraphStyle/BulList &gt; Paragraph" SplitDocument="false" EmitCss="true" StyleUniqueId="c4510889-2c6c-406b-b078-9e227a66a3b3" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" BulletsAndNumberingListType="BulletList">
-			<Properties>
-				<BasedOn type="object">ParagraphStyle/$ID/NormalParagraphStyle</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<TabList type="list">
-					<ListItem type="record">
-						<Alignment type="enumeration">LeftAlign</Alignment>
-						<AlignmentCharacter type="string">.</AlignmentCharacter>
-						<Leader type="string"></Leader>
-						<Position type="unit">10</Position>
-					</ListItem>
-				</TabList>
-			</Properties>
-		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/$ID/[No paragraph style]" Name="$ID/[No paragraph style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" FillColor="Color/Black" FontStyle="Regular" PointSize="12" HorizontalScale="100" KerningMethod="$ID/Metrics" Ligatures="true" PageNumberType="AutoPageNumber" StrokeWeight="1" Tracking="0" Composer="HL Composer" DropCapCharacters="0" DropCapLines="0" BaselineShift="0" Capitalization="Normal" StrokeColor="Swatch/None" HyphenateLadderLimit="3" VerticalScale="100" LeftIndent="0" RightIndent="0" FirstLineIndent="0" AutoLeading="120" AppliedLanguage="$ID/English: UK" Hyphenation="true" HyphenateAfterFirst="2" HyphenateBeforeLast="2" HyphenateCapitalizedWords="true" HyphenateWordsLongerThan="5" NoBreak="false" HyphenationZone="36" SpaceBefore="0" SpaceAfter="0" Underline="false" OTFFigureStyle="Default" DesiredWordSpacing="100" MaximumWordSpacing="133" MinimumWordSpacing="80" DesiredLetterSpacing="0" MaximumLetterSpacing="0" MinimumLetterSpacing="0" DesiredGlyphScaling="100" MaximumGlyphScaling="100" MinimumGlyphScaling="100" StartParagraph="Anywhere" KeepAllLinesTogether="false" KeepWithNext="0" KeepFirstLines="2" KeepLastLines="2" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" KeepLinesTogether="false" StrokeTint="-1" FillTint="-1" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" RuleAboveLineWeight="1" RuleAboveTint="-1" RuleAboveOffset="0" RuleAboveLeftIndent="0" RuleAboveRightIndent="0" RuleAboveWidth="ColumnWidth" RuleBelowLineWeight="1" RuleBelowTint="-1" RuleBelowOffset="0" RuleBelowLeftIndent="0" RuleBelowRightIndent="0" RuleBelowWidth="ColumnWidth" RuleAboveOverprint="false" RuleBelowOverprint="false" RuleAbove="false" RuleBelow="false" LastLineIndent="0" HyphenateLastWord="true" ParagraphBreakType="Anywhere" SingleWordJustification="FullyJustified" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" RuleAboveGapTint="-1" RuleAboveGapOverprint="false" RuleBelowGapTint="-1" RuleBelowGapOverprint="false" Justification="LeftAlign" DropcapDetail="1" PositionalForm="None" OTFMark="true" HyphenWeight="5" OTFLocale="true" HyphenateAcrossColumns="true" KeepRuleAboveInFrame="false" IgnoreEdgeAlignment="false" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" SpanColumnType="SingleColumn" SplitColumnInsideGutter="6" SplitColumnOutsideGutter="0" KeepWithPrevious="false" SpanColumnMinSpaceBefore="0" SpanColumnMinSpaceAfter="0" OTFSwash="false" ParagraphShadingTint="-1" ParagraphShadingOverprint="false" ParagraphShadingWidth="ColumnWidth" ParagraphShadingOn="false" ParagraphShadingClipToFrame="false" ParagraphShadingSuppressPrinting="false" ParagraphShadingLeftOffset="0" ParagraphShadingRightOffset="0" ParagraphShadingTopOffset="0" ParagraphShadingBottomOffset="0" ParagraphShadingTopOrigin="AscentTopOrigin" ParagraphShadingBottomOrigin="DescentBottomOrigin" ParagraphBorderTint="-1" ParagraphBorderOverprint="false" ParagraphBorderOn="false" ParagraphBorderGapTint="-1" ParagraphBorderGapOverprint="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" KinsokuType="KinsokuPushInFirst" KinsokuHangType="None" BunriKinshi="true" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" AutoTcy="0" AutoTcyIncludeRoman="false" Jidori="0" GridGyoudori="0" GridAlignFirstLineOnly="false" GridAlignment="None" CharacterRotation="0" RotateSingleByteCharacters="false" Rensuuji="true" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" LeadingModel="LeadingModelAkiBelow" ScaleAffectsLineHeight="false" ParagraphGyoudori="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" TreatIdeographicSpaceAsSpace="true" AllowArbitraryHyphenation="false" BulletsAndNumberingListType="NoList" NumberingStartAt="1" NumberingLevel="1" NumberingContinue="true" NumberingApplyRestartPolicy="true" BulletsAlignment="LeftAlign" NumberingAlignment="LeftAlign" NumberingExpression="^#.^t" BulletsTextAfter="^t" ParagraphBorderLeftOffset="0" ParagraphBorderRightOffset="0" ParagraphBorderTopOffset="0" ParagraphBorderBottomOffset="0" ParagraphBorderStrokeEndJoin="MiterEndJoin" ParagraphBorderTopLeftCornerOption="None" ParagraphBorderTopRightCornerOption="None" ParagraphBorderBottomLeftCornerOption="None" ParagraphBorderBottomRightCornerOption="None" ParagraphBorderTopLeftCornerRadius="1" ParagraphBorderTopRightCornerRadius="1" ParagraphBorderBottomLeftCornerRadius="1" ParagraphBorderBottomRightCornerRadius="1" ParagraphShadingTopLeftCornerOption="None" ParagraphShadingTopRightCornerOption="None" ParagraphShadingBottomLeftCornerOption="None" ParagraphShadingBottomRightCornerOption="None" ParagraphShadingTopLeftCornerRadius="1" ParagraphShadingTopRightCornerRadius="1" ParagraphShadingBottomLeftCornerRadius="1" ParagraphShadingBottomRightCornerRadius="1" ParagraphBorderStrokeEndCap="ButtEndCap" ParagraphBorderWidth="ColumnWidth" ParagraphBorderTopOrigin="AscentTopOrigin" ParagraphBorderBottomOrigin="DescentBottomOrigin" ParagraphBorderTopLineWeight="1" ParagraphBorderBottomLineWeight="1" ParagraphBorderLeftLineWeight="1" ParagraphBorderRightLineWeight="1" ParagraphBorderDisplayIfSplits="false" MergeConsecutiveParaBorders="false" ProviderHyphenationStyle="HyphAll" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" ParagraphDirection="LeftToRightDirection" ParagraphJustification="DefaultJustification" ParagraphKashidaWidth="2" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false" KeyboardDirection="DefaultDirection">
 			<Properties>
 				<Leading type="enumeration">Auto</Leading>
@@ -311,12 +283,6 @@
 				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0" />
 				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
 				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
-			</Properties>
-		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0">
-			<Properties>
-				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</ParagraphStyle>
 	</RootParagraphStyleGroup>
@@ -874,7 +840,7 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; first &gt; Paragraph" NumberingContinue="false">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" LeftIndent="18" FirstLineIndent="-18" BulletsAndNumberingListType="BulletList">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>As a field of study, it deals with complex, rich, polymorphous, multidirectional relations among &apos;mediating conjunctures&apos;.</Content>
 			</CharacterStyleRange>
@@ -897,8 +863,6 @@
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/BulList &gt; Paragraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>As a dynamic, intermediality is what makes the production and evolution of such &apos;mediating conjunctures&apos; possible; it also leaves in its wake media residues, scraps of uncompleted mediation processes, the remnants of &apos;mediating conjunctures&apos; that have passed into history.</Content>
 				<Br />
@@ -1166,7 +1130,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Remediation, Central Concept in Intermediality&apos;s Mediatic Period</Content>
+				<Content>Remediation, Central Concept in  Intermediality&apos;s Mediatic Period</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1869,11 +1833,11 @@
 				<Br />
 				<Content>In Bolter and Grusin, Junod&apos;s equations</Content>
 				<Br />
-				<Content>   transparency = mimesis, opacity = * poiesis *</Content>
+				<Content>	transparency = mimesis, opacity = * poiesis *</Content>
 				<Br />
 				<Content>are replaced by</Content>
 				<Br />
-				<Content>   transparency = immediacy, opacity = hypermediacy.</Content>
+				<Content>	transparency = immediacy, opacity = hypermediacy.</Content>
 				<Br />
 				<Content>These parallels should not surprise us; they betray the debt that the creators of the remediation model owe to art history and aesthetics. Nor is that influence new; it is evident in the first major works on electrical media.</Content>
 				<Br />
@@ -1947,9 +1911,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>We have seen the breakthroughs achieved by intermedial research up to the mid-2000s, and looked at resistance to remediation and the media residues left by remediation. This is fertile ground. Studies of sound in theater and still more recently of magic shows are examples of the new research paths that continue to improve our understanding of an intermedial reality composed of interlacings, intersections, &apos;entanglements&apos;, retreats and accidents, which the necessarily linear genealogy of media that inspired the first intermedialists could not readily account for.</Content>
-				<Br />
-				<Content>Sibony linked the in-between to the origin, but also regarded it as a locus of trials, and it is true that remediating processes sometimes, though not always, produce reactions of varying degrees of violence governed by a general principle that we call &apos;media resistance&apos;, which may be understood as an attempt at counter-remediation. This too is entirely absent within the scope of Bolter and Grusin&apos;s analysis. Media resistance is a defence mechanism triggered when the basic elements of the mediating conjuncture are, or more precisely appear to be, jeopardized by the intrusion of an exogenous element. The resistance mechanism can have the effect of preventing, avoiding or delaying the introduction of the new element, or even expelling it after it has made an incursion, in which case we can speak of &apos;de-remediation&apos; or simply &apos;demediation&apos;. The decline in the use of fixed sound systems in some theaters with the advent of talking pictures is a striking example. Analyses of technical specs and prompt books show that &apos;technologically reproduced sound&apos;, which had made a widely noted and welcomed entrance to the theater stage, was gradually evicted from it. And the evidence clearly suggests that this expulsion was not related solely to the waning of its drawing power (as a curiosity or novelty).</Content>
+				<Content>We have seen the breakthroughs achieved by intermedial research up to the mid-2000s, and looked at resistance to remediation and the media residues left by remediation. This is fertile ground. Studies of sound in theater and still more recently of magic shows are examples of the new research paths that continue to improve our understanding of an intermedial reality composed of interlacings, intersections, &apos;entanglements&apos;, retreats and accidents, which the necessarily linear genealogy of media that inspired the first intermedialists could not readily account for. Sibony linked the in-between to the origin, but also regarded it as a locus of trials, and it is true that remediating processes sometimes, though not always, produce reactions of varying degrees of violence governed by a general principle that we call &apos;media resistance&apos;, which may be understood as an attempt at counter-remediation. This too is entirely absent within the scope of Bolter and Grusin&apos;s analysis. Media resistance is a defence mechanism triggered when the basic elements of the mediating conjuncture are, or more precisely appear to be, jeopardized by the intrusion of an exogenous element. The resistance mechanism can have the effect of preventing, avoiding or delaying the introduction of the new element, or even expelling it after it has made an incursion, in which case we can speak of &apos;de-remediation&apos; or simply &apos;demediation&apos;. The decline in the use of fixed sound systems in some theaters with the advent of talking pictures is a striking example. Analyses of technical specs and prompt books show that &apos;technologically reproduced sound&apos;, which had made a widely noted and welcomed entrance to the theater stage, was gradually evicted from it. And the evidence clearly suggests that this expulsion was not related solely to the waning of its drawing power (as a curiosity or novelty).</Content>
 				<Br />
 				<Content>To be sure, there is no essentialism at work here. When a &apos;medium&apos; resists an incursion by a new technology (which is generally what the newcomer is), it is not behaving like a living organism secreting antibodies to expel or destroy an intruder. The resistance is always of a sociomedial nature: it arises in the community of men and women in which the medium operates; it springs from values; it is tied to a discourse, to representations. The microphone, which was long rejected by the theater – although today its use is becoming increasingly common, so much so that it goes unnoticed – was readily accepted on the cabaret stage for use by singers. And yet, since the days of Shakespeare, theater reviews had been complaining that it was hard to hear the actors. They did not articulate clearly enough or did not speak loudly enough; the audience was too noisy; or the sounds emanating from the stage or the building were too loud; or the acoustics were lousy. The arrival of sound systems could have solved those problems and enhanced theatrical mediation. But the theater resisted. Meanwhile, the cabaret halls put in sound systems and pulled in the crowds.</Content>
 				<Br />
