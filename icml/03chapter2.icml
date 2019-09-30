@@ -402,8 +402,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="10">
 				<Content>The history of Western philosophy starts with the apparently irresolvable aporia produced by the opposition between the one and the many. The first philosophers picked one side or the other, defending either the unity of reality or its plurality. Most of the questions that have claimed the attention of philosophers in the West and beyond arise from this opposition. Briefly put, unity is the notion that makes the ideas of essence and concept possible, whereas multiplicity grounds the possibility of motion and freedom. This debate remains pertinent to this day and the theoretical issues it throws up will inform our reflections on media.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>In Book 1 of the </Content>
 			</CharacterStyleRange>
@@ -661,9 +663,11 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Our analysis of the philosophical premises underpinning the distinction between the mediatic and postmediatic periods in intermedial thinking can be taken one step further: the opposition between essence and motion can be correlated with another, more formal antithesis between discrete and continuous. As shall be seen, these two categories also ground the distinction between analog and digital, which is critically important in current discourses about media.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The discrete and the continuous are two opposed forms of representation of reality. The mathematical difficulty of rendering them commensurable is, in a sense, at the root of the paradoxes we have described. To define these two terms, which in general physics correspond to the distinction between particle and wave, it may be said that an object is discrete when it consists of a set of (finite or infinite) unitary, indivisible parts. Whole numbers are discrete: there is nothing between 1 and 2; the numbers 1, 2 and 3 are each unitary, indivisible elements. Similarly, a fruit basket is a set of discrete parts, for it consists of a series of indivisible units, each single fruit. By contrast, a continuous object is not made up of parts but is always further divisible, and its distinguishing property is density: between point A and point B there is always an infinite series of points. Real numbers are continuous. Water is continuous. One cannot have one water or two waters; it is a dense body.</Content>
 				<Br />
 				<Content>The difficulty of understanding the transition from stasis to motion, and the paradoxes that attend interpretations of change in general, derive from the impossibility of explaining the continuity of reality starting from a series of discrete units. To return to our chair example, the observation that there was a white chair and then a blue chair clearly hinges on a discretization of reality: we isolate two objects and posit them as whole, unitary, indivisible parts of reality. White chair (1), blue chair (2). When we try to understand what happens between points 1 and 2, we are forced to shift from the discrete to the continuous, and this raises a number of difficulties, beginning with a mathematical dilemma.</Content>
@@ -1262,7 +1266,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" NumberingContinue="false">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>a. An apparatus is a heterogeneous set that includes virtually &gt; &gt; anything, linguistic and nonlinguistic, under the same heading: &gt; &gt; discourses, institutions, buildings, laws, police measures, &gt; &gt; philosophical propositions, and so on. The apparatus itself is &gt; &gt; the network that is established between these elements.</Content>
+				<Content>a. An apparatus is a heterogeneous set that includes virtually &gt; &gt; anything, linguistic and nonlinguistic, under the same heading: &gt; &gt; discourses, institutions, buildings, laws, police measures &gt; &gt; philosophical propositions, and so on. The apparatus itself is &gt; &gt; the network that is established between these elements.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1455,13 +1459,17 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> Reality is no longer apprehended as a series of immobile objects endowed with an essence, but as motion itself. There are no things, only movement; no essence, only action; no media, only convergences that produce mediations.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-15">
 				<Content>Clearly, this is not a recent opinion; as we have seen, it was first propounded by Heraclitus, the philosopher of flux and motion. Not only is this point of view not new but neither is it confined to philosophy. Nietzsche&apos;s critique of ontological thinking invites a number of arguments that have informed not only intermedial thinking, but a wide swath of contemporary research in the humanities, most notably in gender studies. For example, Judith Butler&apos;s questioning of traditional conceptions of sexual identity in </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-15">
 				<Content>Gender Trouble</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-15">
 				<Content> has some bearing on our own field inquiry:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1525,7 +1533,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-14">
 				<Content>If we bring this perspective to bear on our analysis of technology and media, then the interface can no longer be understood as the point of passage between two things. The interface becomes the only reality: the two poles are produced retrospectively by the interface. Therefore, mediation cannot be conceived as a negotiation between two ontologically pre-existing poles, for those poles appear only belatedly, subsequent to the action which actually occurs in the interface.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>As we know, the word &apos;media&apos; is often used to essentialize mediation and frame it as a point of passage between two pre-existing poles. Rejecting the previous poles leads us to conclude, in agreement with postmediatic thinkers such as Galloway and Dworkin, that there is no such thing as media; there are only practices. In this case, there is no longer an in-between for there is nothing for it to be between. There is nothing but action transpiring in the continuum of reality. It is only in meeting the requirements of language that we crystallize actions by freezing and naming them retrospectively. The naming of media – radio, television, the Web, theater – is an example of this process. We shall return to this point in Chapter 4.</Content>
 				<Br />
@@ -1867,8 +1879,12 @@
 				<Br />
 				<Content>From an essentialist point of view, mediation can be described as something between two moments, two objects, and so forth. There is a moment A and a moment B; and mediation is the path from one to the other. Thus, as we have discussed, mediation is itself essentialized and reduced to a determined, pre-established apparatus. In the process, the indecision that inhabits the moment of mediation is lost.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Let us take an interface as an example. It can be described in two opposing ways. From the determinist / essentialist point of view, it is what lies between code and user. The code and the user were already there, determined and well-defined. The interface links them but is wholly determined by the nature of the two things it connects. The code is already written, the user is already in front of the screen with expectations, abilities and needs. From the characteristics of code and user, we can deduce the interface. Its function is pre-established: what happens in the mediation reproduces what was already plotted. Similarly, the essentialization of the interface compels us to conceive the action that occurs within it as entirely determined – by its premediation, by its affordance, by the fact that it is an apparatus, in Bachimont&apos;s sense.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>If our interest is in the undecided element, we must frame the picture differently. Mediation becomes the starting point of the analysis, for it is all we have. In the </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1877,9 +1893,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, there is neither user nor code, but only the interface. The user and the code are produced by the interface: they make their appearance only because there is an interface that connects them. All that seemed to be decided and determined is in fact open: the mediation is located in the undecided zone and is therefore performative. Or, more precisely, the mediation contains premediated and undecided aspects that are ontologically inseparable, but we must consider them separately in order to distinguish the element of freedom in every action.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="20">
 				<Content>This approach is particularly pertinent to the analysis of digital practices, as shall be seen in the final chapter. Much of the discussion around information technologies has centered on their normative dimension, how algorithms and technical devices premediate action to the point of transforming users into automatons.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="20" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1897,8 +1915,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="20">
 				<Content> But while focusing on the predetermined aspect of technological practices illuminates a basic feature of their operation, it is politically perilous, as it forecloses responsibility and gives rise to a discourse imbued with paternalism. It is true that any use of a platform is premediated by its structure, but there are also emancipatory possibilities insofar as our behaviours can etch new norms for that platform. We are conditioned, to be sure, but we also condition at the same time. We may be exploited, but that exploitation bears within itself the potential for normative agency.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>In the following chapter, we explore this idea and illustrate the relationship between mediation and performativity, which we will attempt to elucidate using the concept of mediating conjunctures.</Content>
 			</CharacterStyleRange>

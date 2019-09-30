@@ -119,9 +119,6 @@
 	<FontFamily Self="di3d68" Name="TradeGothic LT Light">
 		<Font Self="di3d68FontnTradeGothic LT Light Regular" FontFamily="TradeGothic LT Light" Name="TradeGothic LT Light Regular" PostScriptName="TradeGothicLT-Light" Status="Installed" FontStyleName="Regular" FontType="TrueType" WritingScript="0" FullName="Trade Gothic LT Light" FullNameNative="Trade Gothic LT Light" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 6.1; 2002" TypekitID="$ID/" />
 	</FontFamily>
-	<FontFamily Self="di3d69" Name="Lato (OTF)">
-		<Font Self="di3d69FontnLato (OTF) Medium" FontFamily="Lato (OTF)" Name="Lato (OTF) Medium" PostScriptName="Lato-Medium" Status="Installed" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Lato Medium" FullNameNative="Lato Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.015; 2015-08-06; http://www.latofonts.com/" TypekitID="$ID/" />
-	</FontFamily>
 	<FontFamily Self="di3d6c" Name="TradeGothic">
 		<Font Self="di3d6cFontnTradeGothic LightOblique" FontFamily="TradeGothic" Name="TradeGothic LightOblique" PostScriptName="TradeGothic-LightOblique" Status="Installed" FontStyleName="LightOblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Trade Gothic Light Oblique" FullNameNative="Trade Gothic Light Oblique" FontStyleNameNative="LightOblique" PlatformName="$ID/" Version="Version 001.001 " TypekitID="$ID/" />
 	</FontFamily>
@@ -352,15 +349,17 @@
 				<Br />
 				<Content>Polarization splits a segment of reality in two: it creates a polarity between two elements that are placed in opposition to form a binary structure. The segmentation of reality that it effects is clearly arbitrary and not rooted in any &apos;natural&apos; necessity, for reality is continuous. Polarization is the foundation of the general laws of logic: the principles of non-contradiction and excluded middle. It cannot be day and night at once (principle of non-contradiction), for language identifies night with not-day. It&apos;s either day or night; there is no third option (principle of excluded middle).</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>The second form of discretization of reality is individuation. Richard Grusin, the coauthor of </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 				<Content>Remediation: Understanding New Media</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>, which we have discussed</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -372,10 +371,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content> and to which we shall return, defines mediation as &apos;the process, action, or event that generates or provides the conditions for the emergence of subjects and objects, for the individuation of entities within the world&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -392,6 +391,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -416,7 +417,10 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Ian Hacking gave an example of the institutionalization of discourse in 2005, in his Philosophy and History of Scientific Concepts course at the Collège de France. He discussed the process by which certain medical categories (obesity, autism) become institutionalized. He argued that statistical discourse and the scientific community&apos;s definition become operational only when a group of people begin to recognize themselves in those categories. Hacking identifies at least four moments in the process: (1) classification, (2) people, (3) institutions and (4) expert knowledge and popular knowledge. His lecture is available online at https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510_Hacking2004_2005.pdf]{.underline}](https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510_Hacking2004_2005.pdf. [Retrieved on 29 May, 2018].</Content>
+							<Content>	</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-6">
+							<Content>Ian Hacking gave an example of the institutionalization of discourse in 2005, in his Philosophy and History of Scientific Concepts course at the Collège de France. He discussed the process by which certain medical categories (obesity, autism) become institutionalized. He argued that statistical discourse and the scientific community&apos;s definition become operational only when a group of people begin to recognize themselves in those categories. Hacking identifies at least four moments in the process: (1) classification, (2) people, (3) institutions and (4) expert knowledge and popular knowledge. His lecture is available online at https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510_Hacking2004_2005.pdf]{.underline}](https://www.college-de-france.fr/media/ian-hacking/UPL6120975782849689510_Hacking2004_2005.pdf. [Retrieved on 29 May, 2018].</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -499,7 +503,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> but when media usage protocols are assimilated by users to the extent of becoming automatic, it is hard to say where the extension begins. Naturalization renders the mediation transparent to the user of the medium. Saying &apos;hello&apos; or &apos;I&apos;m hanging up&apos;, dialling a number, hearing a voice (or not) after several rings, all belong to a body of knowledge that transmutes into a set of reflexes on the part of the telephone user. These protocols might be expected to accentuate the opacity of the mediation process, but instead they create a transparent effect as a result of their assimilation by the user. The varieties of opacification discussed in Chapter 1, exemplified by the radiophonic voice that exposes the artifice of the theatrical voice, may be understood as processes of &apos;denaturalization&apos; (of what had previously been naturalized).</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>We have been using the term &apos;sociomedialities&apos; to describe these specific socialities that give rise to media practices. Clearly, the naturalization of discretization processes tends to render the sociomedial dimensions of some individual and collective behaviours commonplace or even invisible. It might be concluded that the concept is not useful, since sociomedialities inevitably collapse into socialities. But it must be borne in mind that &apos;new media&apos;, or new dominant trends within mediating conjunctures are always appearing and disturbing users&apos; behaviours.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -780,7 +788,11 @@
 				<Br />
 				<Content>The concept of radical mediation is of considerable heuristic value. Situating immediacy within mediation itself, as Grusin suggests, rather than in the product of the mediation, is a major historical departure. If mediation consists in endowing objects in the world with an anthropomorphic aspect by re-presenting them, radical mediation establishes a different, more direct or immediate relationship with the world, which could be called formless since it does not rest on form.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="12">
 				<Content>It is unfortunate, however, that Grusin has exchanged one indissoluble pair (transparent immediacy) for another (the immediacy of mediation), thereby excluding the possibility of other combinations. While it was necessary to situate mediation within a wider logic than that of representation, the persistence of the representational mode of mediation in all its forms, particularly in the arts and performance, is something that we must accommodate for.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -791,16 +803,16 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="14">
 				<Content>Alexander R. Galloway was one of the fiercest critics of Bolter and Grusin&apos;s remediation model and a prolific proponent of abandoning the concept of medium in favor of mediation. Today, the majority of intermedialists subscribe to his formula: &apos;not media, but mediation&apos;. In 2014, he published </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="14">
 				<Content>Excommunication: Three Inquiries in Media and Mediation</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="14">
 				<Content>, co-authored with two other New York media theoreticians, Eugene Thacker and McKenzie Wark. The book opens with an apparently innocuous question that directly echoes Bataille&apos;s reflections: &apos;Does everything that exists, exist to be presented and represented, to be mediated and remediated, to be communicated and translated?&apos;</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="14" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -818,12 +830,16 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="14">
 				<Content> A series of examples from various spheres leads them quickly and predictably to answer in the negative, which raises a second question: how, then, do we know that something exists? And a third: how can something still be transmitted; in other words, how is it that something is mediated?</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Rehashing their argument in detail would be irrelevant here, but it unquestionably represents another significant advance in intermedial thinking about mediation and effects a major paradigm shift: while Grusin has released mediation from the representational cage to which he and Bolter had confined it, he still keeps it penned within the perimeter of communication – a larger enclosure, to be sure, but an enclosure nonetheless. Galloway and his co-authors go further by proposing to remove mediation from the communicative framework. Just as Grusin showed that the representational schema is only one remediation model among many, Galloway et al. suggest that communication is only one mode of mediation; it is neither the principle nor the matrix of mediation: &apos;We aim, therefore, to craft not so much a theory of mediation in terms of communication, for which there already exist a number of exemplars, but a theory of mediation as excommunication&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -840,18 +856,20 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>What, then, is this &apos;mediation as excommunication&apos; that operates outside communication, </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-				<Content>i.e.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>, outside strictly human communication (as it has been conceived until now), and that encompasses the human and non-human without distinction? It is &apos;a double movement in which the communicational imperative is expressed, and expressed as the impossibility of communication&apos;.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
+				<Content>What, then, is this &apos;mediation as excommunication&apos; that operates outside communication, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="5">
+				<Content>i.e.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
+				<Content>, outside strictly human communication (as it has been conceived until now), and that encompasses the human and non-human without distinction? It is &apos;a double movement in which the communicational imperative is expressed, and expressed as the impossibility of communication&apos;.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -869,9 +887,11 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content> What they are referring to is not the absence of a message or an interrupted communication; neither is it a performative failure of mediation, since something, they insist, is still being mediated. We don&apos;t know what, but we sense it, just as, in a magic show, we see that we don&apos;t see, without (theoretically) knowing what it is we&apos;re not seeing.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>What the three authors of </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -933,7 +953,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Georges Bataille forcefully defended the idea of a pervasive formlessness from which humans have cut themselves off by the very means they use to mediate it. They seek other paths, but find none to this formlessness untouched by any discretization, for they remain imprisoned in a logocentric logic. What they glimpse remains within the realm of communication and can be expressed and transmitted only by their means.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>The slow process of maturation that led Richard Grusin to a &apos;radical&apos; form of mediation is the most important change in the theory of remediation to date. Breaking with the deep-rooted and widespread notion that the function of media, like that of the arts, is to &apos;represent&apos;, an idea that undergirds the remediation model, Grusin abandons the representational paradigm and casts mediation as experience in the first instance. In this case, what counts is the immediate, the mediation, not its product.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>Excommunication is the most recent development in thinking about mediation: communication is one form of mediation but not the only one, nor the most effective. Grusin has emancipated the varieties of mediation from the confines of representation; Galloway, Thacker and Wark have situated them beyond the limits of communication, in the region where Georges Bataille sought the formless.</Content>
 				<Br />

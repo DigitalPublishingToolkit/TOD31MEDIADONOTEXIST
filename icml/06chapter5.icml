@@ -809,15 +809,23 @@
 				<Br />
 				<Content>This same debate applies to a large number of institutions: if we think of personal identity management, of teaching, of research, of art, of communication. In the case, for example, of creating university positions in &apos;digital literature&apos;, we witness a change in practices that require the creation of this label. We speak of &apos;literature&apos; to refer to a certain number of practices that have crystallized over years and centuries. These practices evolve up until a time where the difference between what we mean by literature and what real practices are becomes too important to not pose a problem. The university does not know what to do with practices that do not enter into the institutional framework: they therefore begin to use the word &apos;digital&apos;. In this sense, the digital has nothing – or very little – to do with computers. It may be revealed that information technology has played a role in the change of our practices, but this is not the primary role, and above all not the only one. This is why, in the end, digital literature does not refer to literature made by computers, but rather literature during the historical moment of computers. The expression &apos;digital literature&apos; could be replaced by &apos;today&apos;s literature&apos;. These are, in other words, practices that probably relate to literature but that diverge too much from institutionalized practices for us to simply consider them &apos;contemporary literature&apos;.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>And yet this brings up a series of questions relating to the standardization process of practices, on the role of institutions, on their place in society. Institutions are, by nature, always behind the times. Their standardization is based on something that is always, by definition, outdated. Practices are always beyond foundational standards, they are always laden with an institutionalizing character that is creative and normative. Each time someone creates literature, they do something that is not really what we mean by literature but that redefines the meaning of &apos;literature&apos;. And this creativity undermines institutional standards. Each time, the institution tries to catch up by changing. This change is what we can call &apos;institutionalization&apos; or &apos;standardization&apos; our even &apos;naturalization&apos;, as we have seen in the previous chapter. In the case of digital literature, for example, institutionalization consists in creating prizes for &apos;digital literature&apos;, classes, associations, editors that make &apos;digital literature&apos; and so forth (we could also refer to the work done for a number of years by the </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>Electronic Literature Organization</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>). This institutionalization implies that new practices no longer seem foreign and deviant. They become normal. This also implies that norms are appearing. We begin to know what &apos;digital literature&apos; is and therefore what it &apos;should&apos; be. Prior to being institutionalized, alternative practices were by no means standard: they were simply practices that did not conform to institutional definitions. But after institutionalization, they begin to be standardized, regulated: we know what we must do if we want to reclaim the sector. This implies that creative and innovative practices will end up by moving away from a given definition and will again find themselves marginal to the institution.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>The standardization phase is, of course, necessary for being able to organize our society. And yet, there are two ways of standardizing practices: one is diachronic and the other synchronous. This means that we can try to standardize a very limited number of practices over a very long period (diachronic) or a very high number of practices over a very short period (synchronous). Let us think about the definition of practices that we assemble under the name of theater. We observe that human beings in many societies and for many centuries do something particular and very specific: they display their actions. We notice that very often this display of actions is done within a pre-defined setting, we notice the social role of this display of actions and the ensemble of (technical, cultural, anthropological) devices that structure these practices. All of this, we call &apos;theater&apos;. With this word, we also try to define what the theater is; we try to structure it. We try to understand it and to standardize it so that we may manage its role in society. It is based on this institutionalization that we can create theaters, systems to subsidize theater productions, theater teaching programs, and so forth. The same reasoning applies to literature, cinema, television, radio. These are diachronic definitions of very precise practices. Obviously, institutionalization provides a snapshot: it disregards the differences between a heterogenous ensemble of practices in order to place them in the same group and name them. One could provide a degree of tolerance regarding the more or less important differences in order to assemble a more or less elevated number of practices (for example, by saying &apos;cultural activities&apos;, we group &apos;literary&apos;, &apos;theatrical&apos;, &apos;cinematographic&apos; practices, etc.).</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>Synchronous institutionalization consists in taking a very heightened number of practices relating to a very short time frame. In this way, we very often refer to what is known as &apos;culture&apos;, for example the culture of a period. Humanism, as a culture that characterizes the 15th and 16th centuries, assembles a series of very heterogenous practices that are nonetheless characterized by a common denominator, a kind of &apos;spirit of times&apos;. We could say that religious cultures also enter into this type of institutionalization even if, in the case of religion, we group together a synchronous vision and a diachronic vision. But from a certain viewpoint, we could assert that it is important is to first standardize a very heightened number of practices in the present moment. What counts is that all of today&apos;s Christians behave in the same way in a determined situation. The fact that a hundred years ago things were different does not count for much. Of course, the daily actions of a Christian from a hundred years ago were very different from the actions of a Christian today, simply because the changing environment, social concerns, etc., were not the same. But the fact of being Christian today alters the ensemble of possible practices (one is Christian when one eats, when one makes art, when one works, etc.).</Content>
 				<Br />
@@ -1194,7 +1202,7 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	The term, popularized by Walter Benjamin&apos;s momentous essay, was obviously not used at the time, but similar concerns were nonetheless raised.</Content>
+							<Content>	The term, popularized by Walter Benjamin&apos;s momentous essay, was obviously not used at the time,  but similar concerns were nonetheless raised.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1230,7 +1238,7 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Referring to Pythagoras&apos;s famous lessons given to his disciples, wherein he separated himself from them by a curtain so that they heard him without seeing him, Pierre Schaeffer developed the concept of acousmatic sound by demonstrating the role played by sight in relation to hearing. (see Pierre Schaeffer, </Content>
+							<Content>	Referring to Pythagoras&apos;s famous lessons given to his disciples, wherein he separated himself from them by a curtain so that they heard him without seeing him, Pierre Schaeffer developed the concept  of acousmatic sound by demonstrating the role played by sight in relation to hearing. (see Pierre Schaeffer, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>Traité Des Objets Musicaux: Essai Interdisciplines</Content>
@@ -1264,7 +1272,7 @@
 							<Content>charisma</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>. Concepts of presence are grounded in notions of actorly representation; the actor&apos;s presence is often thought to derive from her embodiment of, or even possession by, the character defined in a play text, from the (re)presentation of self through the mediation of character, or, in the Artaudian/Grotowskian/Beckian line of thought, from the archetypal psychic impulses accessible through the actor&apos;s physicality, Philip Auslander, </Content>
+							<Content>. Concepts  of presence are grounded in notions of actorly representation; the actor&apos;s presence is often thought  to derive from her embodiment of, or even possession by, the character defined in a play text, from  the (re)presentation of self through the mediation of character, or, in the Artaudian/Grotowskian/Beckian line of thought, from the archetypal psychic impulses accessible through the actor&apos;s physicality, Philip Auslander, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>Presence and Resistance: Postmodernism and Cultural Politics in Contemporary American Performance</Content>
@@ -1284,7 +1292,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>Here, a word whose significance is great, a word that represents and implies an ensemble of very diverse qualities, whose happy reunion only can enable the attainment of the entirely relative perfection allotted to human nature. Theater art is a particularly complex art, very varied in its expression as in its means, speaking at once to the spirit, the imagination, the ears and the eyes, and thereby producing impressions of a rare strength and a surprising intensity.</Content>
+				<Content>Here, a word whose significance is great, a word that represents and implies an ensemble of very diverse qualities, whose happy reunion only can enable the attainment of the entirely relative perfection allotted to human nature. Theater art is a particularly complex art, very varied in its expression as in its means, speaking at once to the spirit, the imagination, the ears and the eyes, and thereby producing impressions  of a rare strength and a surprising intensity.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1337,7 +1345,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, or even Chiel Kattenbelt&apos;s hypermedium model, we find not a minute trace of this notion of presence so frequently evoked following the appearance of cinema!</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>The intermedial approach has demonstrated that there are ontological issues tied to every technological innovation – or every intermedial transfer (between an ensemble of mediating conjunctures and another) – and that these concerns become major and therefore terribly worrying when innovation has the ability to overturn usage protocols and established values. The more anxiety thrives, the stronger the media resistance that nourishes it becomes. This was the case during the electrical era, and it remains perhaps even more so in our current historical moment. Technologies founded on the digital are supple and have a transformational potential clearly superior to that of electric technologies. It is therefore unsurprising that the anxieties induced by electric media are not only transferred, but amplified by essentializing discourse.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1607,10 +1619,10 @@
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>Benjamin not only recognized theater&apos;s particular status at the hour of its reproduction by technology, he highlighted the essential function played by the actor. It is to the actor that theater owes its originality, even its superiority. Quoting perceptual psychologist and film theorist Rudolph Arnheim, Benjamin recalls that &apos;the latest trend [in film consists in] treating the actor as a stage prop chosen for its characteristics and [...] inserted at the proper place&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1635,9 +1647,11 @@
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Pirandello&apos;s complaint of the film cameras &apos;denaturing&apos; interference is the same that motivated accusations of sound reproduction technologies&apos; betrayal, as Jonathan Sterne mentions.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>One could be tempted to believe that three quarters of a century later, the reality of the practice – which was not undermined by the invasion of reproduction technologies and intermedial transfers – would have relegated this essentialist discourse, along with the notion of presence, which it is based on, to the ranks of a historically categorized argument. But it is far from that. In an important work published in 1993, Peggy Phelan, a noteworthy figure in Performance Studies, persistently recalls this feature that she presents as a primordial ontological fact for theater.</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -1699,9 +1713,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> and trigger a long and passionate debate within Performance and Theater Studies. Auslander&apos;s foundational argument was that, not only is presence not the opposite of the meditated, but it is its product, a product which is, for that matter, not exclusive to theater. Auslander&apos;s arguments were irrefutable and should have blown away all resistance, but the conflict did not limit itself to rational logic. Rather, it focused on a fundamental and hugely complex dimension: identity.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>In his essay on memory, history, and forgetting,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1719,10 +1735,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content> published at nearly the same time as Bolter and Grusin&apos;s work on remediation and as Auslander&apos;s work on liveness, Paul Ricœur furthers his reflection on the construction of identity and on related concerns initiated about ten years prior.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1740,10 +1756,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content> By returning to concepts such as &apos;sameness&apos; and &apos;ipseity&apos;, the latter corresponding more to the defenders&apos; arguments – including Phelan – for maintaining the original purity of the practice, Ricœur underlines the flaws relating to the process of affirming one&apos;s identity and the downward spiral that this can cause. Identity is not entirely certain! &apos;What constitutes the fragility of identity? It is identity&apos;s purely presumptive, alleged, reputed character&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1761,8 +1777,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content> It is in order to legitimize this presumption-allegation-assertion that the defenders of identity – namely, of ipseity – recall with such insistence a past that is quite obviously a reinterpreted one.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1821,9 +1839,11 @@
 				<Br />
 				<Content>But this secondary reason manifests itself above all in the present, whereas the former has an effect over time, both past and future: past because we shape a historical narrative made to measure for this identity, in erasing tendencies or major historical facts that alter it and magnify more secondary ones that justify it; future because identity is also an affirmation of the self, projected into the future to ensure that the projection&apos;s effectiveness depends upon the archives that one generation bequeaths to the one following. The archival gesture is not, however, mechanical nor insignificant. It allows one document, rather than another, to transcend time. Let us take two examples, one from the past, one from the present.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>The 20th century historical narrative has rendered theater the &apos;residue of pure and authentic culture in a world of mass-media and television daftness&apos;, as Peter Boenisch rightly claims.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1841,13 +1861,13 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content> From Jacques Copeau&apos;s &apos;bare stage&apos; and Peter Brook&apos;s &apos;empty space&apos; to Jerzy Grotowski&apos;s &apos;poor theater&apos;, the narrative insists heavily on minimalist practices. These practices are often over-documented and over-commented in relation to many other experiences which are, however, not lacking in interest nor resonance in stage practice more generally. We highlight the case of the remarkable collection for the </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 				<Content>Association de la Régie Théâtrale</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1859,10 +1879,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content> uncovered by Françoise Pélisson-Karro.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1880,15 +1900,17 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content> This fund includes a very rich collection of manuscript notes detailing the direction of nearly two thousand theater productions created in Paris between 1850 and 1950. Interest in these documents is indisputable, as they demonstrate well how the creators and producers of the period, in their large majority, integrated technology, including sound and image reproduction technology, into their show, without appearing distressed by ontological concerns. And yet these precious archives failed to be lost, despite being rejected by large institutions, including the National Library of France (BnF). They wandered for years, only surviving thanks to the dedication of some, before ending up at the </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 				<Content>Bibliothèque Historique de la Ville de Paris</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content> where they were finally appreciated for their cultural wealth.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>We could believe that the opposition between presence and the mediated, as well as its influence on the archival gesture, would progressively ease at a time when the use of individual microphones (and the murmuring voices that it enables) would nearly go unnoticed, where the recourse to soundtracks and to videographic projections is clearly naturalized and where certain noteworthy shows, nonetheless perceived as theater shows, include no living actor on stage.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
@@ -1921,8 +1943,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Certain archives seem &apos;natural&apos; and possess a distinct value in virtue of an authenticity regime which, we notice, also rests primarily on the cult of presence. Theater texts, manuscript notes, photographs, programs, posters, sometimes even elements of set design or costumes, technical and administrative documents, correspondence between creative participants, critical testimonies, all of these at first seem archivable, and researchers generally have access to these documents without too much difficulty. This is not the case for the direct sound recordings of representations (by cassette or reel-to-reel recorder) that began to be used in the 1950s, nor for direct video recordings that became widespread in the 2000s (thanks to the progress and accessibility of digital technology). Audio recordings are straight out neglected, the majority of them poorly stored and currently inaudible. Very often, they are simply discarded. More recent video recordings are difficult to access. The reticence of theater companies and creative teams to make them available is well known, especially when these recordings are not the object of any post-production editing or filtering and are made with the help of a single mounted camera.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>For an intermedialist, the reticence to retain these archives, which nevertheless brings us even closer to representation, is only explained because these archives, as opposed to others, are the result of a remediation of representation in its duration. They therefore weaken a foundation of the concept of theater presence, and of its ontology. In the wake of Peggy Phelan&apos;s striking essay, Gay McAuley thereby reminds us that:</Content>
 				<Br />
@@ -2071,15 +2095,17 @@
 				<Br />
 				<Content>We have insisted on the fact that, all while rejecting essentialism and the idea of the existence of related irreducible invariables, we recognize that mediating conjunctures are differentiated at once from their nature and their effects. It is in this sense that we understand theatricality: it is the mediality of theater, that is to say that quality emerges from singular conjunctures that have the effect of producing a theater show or its components in a given spatio-temporal and cultural context. The processes, elements, conditions and agents required for the theater show to take place vary from one period to another, from one region to another, from one institutional framework to another, from one culture to another. Theatricality continuously evolves. And this relative instability gives rise to questions of an ontological nature that challenge institutional discourse. In fact, this instability has been and is translated again into a necessity where we find ourselves continuously redefining theatricality and shifting the boundaries between media practices.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>Our inability to lastingly define genres or media – to be precise, we are obliged to remain true to a defined conjuncture (5th century (BC) Greek tragedy, the French theater of the </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="5">
 				<Content>Grand Siècle</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>, American vaudeville theater, etc.) – is the most striking display of this. And technological progress derived from the mastery of electricity and, more recently, from digital developments, have only accentuated and rendered again more apparent this changing media reality that brings into light the very porous frontiers (between media practices) or which, more precisely, reveal their invented nature (frontiers are above all discursive constructions). The audiences that attend the most recent theater productions and dance shows in fact regularly experience this: we find many more shared characteristics between these two reputed and distinct art practices than between current theater and that of the 17th century. Ontological discourse traces frontiers, suggests historical filiations, deduces theoretical ties between practices of different periods, that the stage reality enjoys interfering with.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2090,6 +2116,8 @@
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -2225,16 +2253,16 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 							<Content>	Michael Fried, </Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 							<Content>Art and Objecthood: Essays and Reviews</Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 							<Content>, Chicago: University of Chicago Press, 1998, p. 18.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>

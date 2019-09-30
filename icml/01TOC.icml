@@ -165,13 +165,6 @@
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
 			</Properties>
 		</CharacterStyle>
-		<CharacterStyle Self="CharacterStyle/Bold" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="48f99dcd-41e9-41d5-a7d5-e0f3040ade15" IncludeClass="true" KeyboardShortcut="0 0" Name="Bold" FontStyle="Light">
-			<Properties>
-				<BasedOn type="string">$ID/[No character style]</BasedOn>
-				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Helvetica Neue</AppliedFont>
-			</Properties>
-		</CharacterStyle>
 		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" Name="$ID/[No character style]" />
 	</RootCharacterStyleGroup>
 	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
@@ -187,7 +180,9 @@
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)" Name="Page &gt; Running Text:Headings:Header2 (subtitle)" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" StyleUniqueId="3e1f6c42-1bf1-4868-8a97-5e326a4c8c76" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
+			</ParagraphStyleGroup>
+			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aTable of Contents" Name="$ID/Page &gt; Running Text:Table of Contents">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapters" Name="Page &gt; Running Text:Table of Contents:Chapters" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" StyleUniqueId="3993dc10-0573-4259-8faa-dcbb9cf6ea12" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" Capitalization="AllCaps" SpaceBefore="5.669291338582678" SpaceAfter="5.669291338582678" RuleBelowLineWeight="0.25" RuleBelowOffset="5.669291338582678" RuleBelow="true" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -196,9 +191,7 @@
 						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-			</ParagraphStyleGroup>
-			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aTable of Contents" Name="$ID/Page &gt; Running Text:Table of Contents">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle" Name="Page &gt; Running Text:Table of Contents:Subtitle" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" StyleUniqueId="3e8579e2-b71f-47e8-8368-28dd27b8926e" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" SpaceAfter="14.173228346456694" RuleBelowLineWeight="0.5" RuleBelowOffset="2.834645669291339" RuleBelow="true" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aParagraphs" Name="Page &gt; Running Text:Table of Contents:Paragraphs" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" StyleUniqueId="136a1cc7-6820-4f6d-82d7-7ebd1bd31364" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="9" SpaceAfter="2.834645669291339" GridAlignment="AlignBaseline" DiacriticPosition="OpentypePosition">
 					<Properties>
 						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
@@ -207,15 +200,18 @@
 						<ParagraphShadingColor type="object">Color/#989c96</ParagraphShadingColor>
 					</Properties>
 				</ParagraphStyle>
-			</ParagraphStyleGroup>
-			<ParagraphStyleGroup Self="ParagraphStyleGroup/$ID/Page &gt; Running Text%3aReferences (end of each part)" Name="$ID/Page &gt; Running Text:References (end of each part)">
-				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List" Name="Page &gt; Running Text:References (end of each part):Reference List" Imported="false" NextStyle="ParagraphStyle/$ID/[No paragraph style]" SplitDocument="false" EmitCss="true" StyleUniqueId="ba04ddef-d4a9-47c0-849c-90e8ed55efc4" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8" Ligatures="false" Tracking="-5" AppliedLanguage="$ID/English: USA" HyphenateAfterFirst="3" SpaceAfter="5.669291338582678" MaximumWordSpacing="110.00000000000001" MinimumWordSpacing="90" MaximumLetterSpacing="5" MinimumLetterSpacing="-5" DiacriticPosition="OpentypePosition">
+				<ParagraphStyle Self="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3asub-paragraphs" Name="Page &gt; Running Text:Table of Contents:sub-paragraphs" Imported="false" NextStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3asub-paragraphs" SplitDocument="false" EmitCss="true" StyleUniqueId="f7497061-a7da-478b-aedc-d666112f0c7d" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8">
 					<Properties>
-						<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+						<BasedOn type="object">ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aParagraphs</BasedOn>
 						<PreviewColor type="enumeration">Nothing</PreviewColor>
-						<Leading type="unit">10</Leading>
-						<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
-						<ParagraphShadingColor type="object">Color/R=147 G=44 B=101 2</ParagraphShadingColor>
+						<TabList type="list">
+							<ListItem type="record">
+								<Alignment type="enumeration">LeftAlign</Alignment>
+								<AlignmentCharacter type="string">,</AlignmentCharacter>
+								<Leader type="string"></Leader>
+								<Position type="unit">24.000944881889765</Position>
+							</ListItem>
+						</TabList>
 					</Properties>
 				</ParagraphStyle>
 			</ParagraphStyleGroup>
@@ -318,49 +314,31 @@
 	<Story Self="u3d70" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="" AppliedNamedGrid="n">
 		<StoryPreference OpticalMarginAlignment="true" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
 		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)" SpaceAfter="5.669291338582678">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader1 (title of the part)">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>CONTENTS</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Capitalization="AllCaps">
-				<Content>From the Birth of Intermedial Thinking to the  Concept of Remediation:  The Mediatic Phase of Intermediality</Content>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapters">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>From the Birth of Intermedial Thinking  to the Concept of Remediation:  The Mediatic Phase of Intermediality</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Introduction</Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aParagraphs">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Introduction </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Historical Overview</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Historical Overview </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Remediation, Central Concept in Intermediality&apos;s Mediatic Period</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Remediation, Central Concept in Intermediality&apos;s Mediatic Period </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Postmediatic Intermediality: Remediation and Beyond</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Postmediatic Intermediality: Remediation and Beyond </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3asub-paragraphs">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>	Limitations of the Remediation Model </Content>
 				<Br />
@@ -372,208 +350,98 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Capitalization="AllCaps">
-				<Content>Essence and Performativity</Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapters">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>Essence and Performativity</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Introduction</Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aParagraphs">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Introduction </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Essence and Flux: The Irreducibility of Movement</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Essence and Flux: The Irreducibility of Movement </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Discrete, Continuous, Digital</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Discrete, Continuous, Digital </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Media and Action</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Media and Action </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Support</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Support </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
 				<Content>Interface</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Apparatus</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Apparatus </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Performativity in Intermediality</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Performativity in Intermediality </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Performativity as a Component of Action</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Performativity as a Component of Action </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Drama and Performance</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Drama and Performance </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>The Temporal Structure of Action</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>The Temporal Structure of Action </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>The Undecided</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>The Undecided </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Mediation as Performativity</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Mediation as Performativity </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Capitalization="AllCaps">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapters">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Mediating Conjunctures</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Between Multiplicity and Identification</Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aParagraphs">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Between Multiplicity and Identification </Content>
+				<Br />
+				<Content>The Dimensions of Mediating Conjunctures </Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>The Dimensions of Mediating Conjunctures</Content>
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Performativity and Metaontology</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Performativity and Metaontology </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Capitalization="AllCaps">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapters">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Mediating Conjunctures and Mediation</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Historical Perspectives on Mediation: Individuation, Naturalization and Sociomedialities</Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aParagraphs">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Historical Perspectives on Mediation: Individuation, Naturalization and Sociomedialities </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Postmediatic Perspectives</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Postmediatic Perspectives </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>The Formless: Beyond Language</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>The Formless: Beyond Language </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Radical Mediation: Updating the Remediation Model</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Radical Mediation: Updating the Remediation Model </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Mediation as Excommunication</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Mediation as Excommunication </Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Conclusion</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Conclusion </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Capitalization="AllCaps">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapters">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The Digital and Theater as Mediating Conjunctures</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>The Digital as Mediating Conjunctures</Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aParagraphs">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>The Digital as Mediating Conjunctures </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3asub-paragraphs">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>	The Digital does not Exist </Content>
 				<Br />
@@ -591,16 +459,13 @@
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aSubtitle">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Bold">
-				<Content>Theater as Mediating Conjunctures</Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aParagraphs">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Theater as Mediating Conjunctures </Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aReferences (end of each part)%3aReference List">
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3asub-paragraphs">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>	Presence and its Founding Trio: Liveness, Ephemeral, Nowness </Content>
 				<Br />
@@ -610,16 +475,13 @@
 				<Br />
 				<Content>	Crisis Symptoms: from Theatricality to Performativity to Theatrically </Content>
 				<Br />
-				<Content>	Conclusion </Content>
+				<Content>	Conclusion</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Capitalization="AllCaps">
-				<Content>Bibliography</Content>
-			</CharacterStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aTable of Contents%3aChapters">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> </Content>
+				<Content>Bibliography </Content>
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
