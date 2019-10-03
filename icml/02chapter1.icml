@@ -2545,6 +2545,16 @@
 				<Br />
 				<Content>The difficulty of defining what a medium is, and the basic technological mutations that have made it impossible to confidently associate a medium with a given technology or technologies, have led researchers in intermediality to abandon the historical concept of medium in favor of the idea of mediation, or what we call &apos;mediating conjunctures&apos;. Thus, over the past 10 years, we have gradually entered the postmediatic phase of intermediality.</Content>
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
+				</Properties>
+			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" Name="link" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="1" />

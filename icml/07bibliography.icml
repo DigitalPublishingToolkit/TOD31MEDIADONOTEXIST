@@ -1188,6 +1188,12 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, New York: Routledge, New York, 2012.</Content>
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" />
 		</ParagraphStyleRange>
 	</Story>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" Name="link" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="1" />

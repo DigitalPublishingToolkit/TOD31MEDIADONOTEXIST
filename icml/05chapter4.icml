@@ -963,6 +963,12 @@
 				<Br />
 				<Content>Conceiving of mediating conjunctures as other than representational practices that translate the world into human language, accepting the inaccessible in its inaccessibility and experiencing it as such, constitutes a decisive double break in the development of what we call postmediatic intermediality, and describes a new way of being in the world and living together in and with the world.</Content>
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" />
 		</ParagraphStyleRange>
 	</Story>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" Name="link" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="1" />

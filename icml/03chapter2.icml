@@ -1922,6 +1922,12 @@
 				<Br />
 				<Content>In the following chapter, we explore this idea and illustrate the relationship between mediation and performativity, which we will attempt to elucidate using the concept of mediating conjunctures.</Content>
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" />
 		</ParagraphStyleRange>
 	</Story>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" Name="link" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="1" />

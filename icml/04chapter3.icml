@@ -849,6 +849,16 @@
 				<Br />
 				<Content>The metaontological approach can therefore take into account the dynamics, oscillating between performativity and identifying mediating conjunctures, and help us to characterize mediatic practices without reducing them to fixed and essential units. This leads us to analyze the process of naturalization which presents itself as the inevitable aftermath of any performative gesture. This is covered in the following chapter.</Content>
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" ParagraphBreakType="NextPage">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
+				</Properties>
+			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" Name="link" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="1" />
