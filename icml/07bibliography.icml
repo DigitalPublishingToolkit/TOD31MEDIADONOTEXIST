@@ -376,13 +376,17 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, London; New York: Routledge, 2011.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>---------, </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>Presence and Resistance: Postmodernism and Cultural Politics in Contemporary American Performance</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>, Annotated edition edition, Ann Arbor: University of Michigan Press, 1994.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>Austin, John Langshaw, </Content>
 			</CharacterStyleRange>
@@ -408,14 +412,18 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, 2010.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Barad, Karen, </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 				<Content>Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>, Second Printing edition, Durham: Duke University Press Books, 2007.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>---------, &apos;Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter&apos;, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -552,12 +560,14 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, New York: Penguin Books, 1977.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>Cusset, François, </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="5">
 				<Content>French Theory: How Foucault, Derrida, Deleuze, &amp; Co. Transformed the Intellectual Life of the United States</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>, Minneapolis, Minn. [u.a.: Univ. of Minnesota Press, 2008.</Content>
 				<Br />
 			</CharacterStyleRange>

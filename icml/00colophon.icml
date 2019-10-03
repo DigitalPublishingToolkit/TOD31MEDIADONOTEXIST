@@ -283,20 +283,18 @@
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
 				</Properties>
-				<Content>Media Do Not Exist. Performativity and mediating conjunctures</Content>
+				<Content>Media Do Not Exist. Performativity and Mediating Conjunctures</Content>
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Br />
-				<Content>Editors: Jean-Marc Larrue, Marcello Vitali-Rosati </Content>
+				<Content>Authors: Jean-Marc Larrue, Marcello Vitali-Rosati </Content>
+				<Br />
+				<Content>This book was translated from an original French manuscript by John Detre and Beth Kearney</Content>
 				<Br />
 				<Br />
-				<Br />
-				<Content>Funding:</Content>
-				<Br />
-				<Br />
-				<Content>Cover design: </Content>
+				<Content>Cover design: Katja van Stiphout</Content>
 				<Br />
 				<Content>Design and EPUB development: Valeria Pugliese </Content>
 				<Br />
@@ -304,7 +302,7 @@
 				<Content>Published by the Institute of Network Cultures, Amsterdam, 2019</Content>
 				<Br />
 				<Br />
-				<Content>ISBN</Content>
+				<Content>ISBN: 978-94-92302-38-0</Content>
 				<Br />
 				<Br />
 			</CharacterStyleRange>
