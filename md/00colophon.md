@@ -21,7 +21,7 @@ Theory on Demand #31 <br />
 **Media Do Not Exist. Performativity and mediating conjunctures**
 
 Editors: Jean-Marc Larrue, Marcello Vitali-Rosati <br />
-Copy editor: <br />
+
 Editorial assistant: <br />
 
 
@@ -48,4 +48,4 @@ This publication is made available through various print on demand
 services and freely downloadable from
 http://www.networkcultures.org/publications
 
-![logo INC] (/Users/valeria/Desktop/INC/GitHub/TOD31MEDIADONOTEXIST/md/imgs/inclogo.jpg) <br />
+![](/Users/valeria/Desktop/INC/GitHub/TOD31MEDIADONOTEXIST/md/imgs/inclogo.jpg)
