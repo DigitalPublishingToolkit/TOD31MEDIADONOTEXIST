@@ -6,7 +6,7 @@ Type: book
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: Media Do Not Exist. Performativity and mediating conjunctures
+Article-title: Media Do Not Exist: Performativity and Mediating Conjunctures
 Article-status: accepted
 Author: Jean-Marc Larrue, Marcello Vitali-Rosati
 Author-email:   corresponding address
@@ -1350,33 +1350,30 @@ of intermediality.
 [^02chapter1_23]: Friedrich Kitler, quoted by Galloway, *The Interface Effect*, p.
     13.
 
-[^02chapter1_24]: Barbier and Bertho-Lavenir, *Histoire des médias: de Diderot à
-    Internet*, p. 5, our translation.
+[^02chapter1_24]: Barbier and Bertho-Lavenir, *Histoire des médias*, p. 5, our translation.
 
 [^02chapter1_25]: Eliséo Véron, 'De l'image sémiologique aux discursitivtés. Le
     temps d'une photo', *Hermès*, 13, 1994, 45 (p. 51)
     https://doi.org/10.4267/2042/15515, our translation.
 
-[^02chapter1_26]: Gitelman, *Always Already New: Media, History, and the Data of
-    Culture*, p. 7.
+[^02chapter1_26]: Gitelman, *Always Already New*, p. 7.
 
 [^02chapter1_27]: Jürgen Müller, *Intermedialität: Formen Moderner Kultureller
     Kommunikation*, Münster: Nodus Publikationen, 1996.
 
-[^02chapter1_28]: Müller, *Intermedialität: Formen Moderner Kultureller
-    Kommunikation*, p. 70.
+[^02chapter1_28]: Müller, *Intermedialität*, p. 70.
 
 [^02chapter1_29]: Jacques Rancière, 'Ce que "medium" peut vouloir dire: l'exemple
     de la photographie', *Appareil*, 1, 2008
     https://doi.org/10.4000/appareil.135.
 
-[^02chapter1_30]: Sibony, *Entre-deux: l'origine en partage*.
+[^02chapter1_30]: Sibony, *Entre-deux*.
 
-[^02chapter1_31]: Sibony, *Entre-deux: l'origine en partage*, p. 9.
+[^02chapter1_31]: Sibony, *Entre-deux*, p. 9.
 
-[^02chapter1_32]: Sibony, *Entre-deux: l'origine en partage*, p. 12.
+[^02chapter1_32]: Sibony, *Entre-deux*, p. 12.
 
-[^02chapter1_33]: Sibony, *Entre-deux: l'origine en partage*, pp. 15-16.
+[^02chapter1_33]: Sibony, *Entre-deux*, pp. 15-16.
 
 [^02chapter1_34]: *Travels in Intermedia\[lity\]: Reblurring the Boundaries*, ed.
     by Bernd Herzogenrath, Interfaces: Studies in Visual Culture, 1st
@@ -1387,7 +1384,7 @@ of intermediality.
 
 [^02chapter1_36]: Bolter and Grusin, *Remediation: Understanding New Media*, p. 65.
 
-[^02chapter1_37]: MCLuhan, *Understanding Media*, p. 23.
+[^02chapter1_37]: McLuhan, *Understanding Media*, p. 23.
 
 [^02chapter1_38]: Bolter and Grusin, *Remediation: Understanding New Media*, p. 65.
 
@@ -1415,29 +1412,17 @@ of intermediality.
     fondements théoriques de l'art moderne. Pour une nouvelle lecture de
     Konrad Fiedler*, Nîmes: Chambon, 2004, pp. 11-12, our translation.
 
-[^02chapter1_46]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*.
+[^02chapter1_46]: Junod, *Transparence et opacité*.
 
-[^02chapter1_47]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*, p. 293.
+[^02chapter1_47]: Junod, *Transparence et opacité*, p. 293.
 
-[^02chapter1_48]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*, pp. 309-10.
+[^02chapter1_48]: Junod, *Transparence et opacité*, pp. 309-10.
 
-[^02chapter1_49]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*, p. 393.
+[^02chapter1_49]: Junod, *Transparence et opacité*, p. 393.
 
-[^02chapter1_50]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*, pp. 310-11.
+[^02chapter1_50]: Junod, *Transparence et opacité*, pp. 310-11.
 
-[^02chapter1_51]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*, p. 387.
+[^02chapter1_51]: Junod, *Transparence et opacité*, p. 387.
 
 [^02chapter1_52]: Marvin, *When Old Technologies Were New: Thinking About Electric
     Communication in the Late Nineteenth Century*, pp. 63-108.
@@ -1445,8 +1430,7 @@ of intermediality.
 [^02chapter1_53]: Jacob Smith and American Council of Learned Societies, *Vocal
     Tracks: Performance and Sound Media*, Berkeley: University of
     California Press, 2008, p. 94
-    https://login.gbcprx01.georgebrown.ca/login?url=https://ebookcentral.proquest.com/lib/georgebrown-ebooks/detail.action?docID=358943
-    \[accessed 16 February 2019\].
+    https://login.gbcprx01.georgebrown.ca/login?url=https://ebookcentral.proquest.com/lib/georgebrown-ebooks/detail.action?docID=358943.
 
 [^02chapter1_54]: Chiel Kattenbelt, 'Theatre as the Art of the Performer and the
     Stage of Intermediality', in *Intermediality in Theatre and
@@ -1459,19 +1443,19 @@ of intermediality.
 [^02chapter1_56]: Henry Jenkins, *Convergence Culture: Where Old and New Media
     Collide*, Revised edition, New York: NYU Press, 2008, p. 14.
 
-[^02chapter1_57]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
+[^02chapter1_57]: Jenkins, *Convergence Culture*,
     p. 16.
 
-[^02chapter1_58]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
+[^02chapter1_58]: Jenkins, *Convergence Culture*,
     p. 15.
 
-[^02chapter1_59]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
+[^02chapter1_59]: Jenkins, *Convergence Culture*,
     p. 3.
 
-[^02chapter1_60]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
+[^02chapter1_60]: Jenkins, *Convergence Culture*,
     p. 2.
 
-[^02chapter1_61]: Jenkins, *Convergence Culture: Where Old and New Media Collide*.
+[^02chapter1_61]: Jenkins, *Convergence Culture*.
 
 [^02chapter1_62]: Paolo Soleri, *Arcologie: la ville à l'image de l'homme*,
     Roquevaire: Parenthèses, 1980.
@@ -1480,7 +1464,7 @@ of intermediality.
     History of Subcreation*, New York: Routledge, New York, 2012, p.
     247.
 
-[^02chapter1_64]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
+[^02chapter1_64]: Jenkins, *Convergence Culture*,
     p. 13.
 
 [^02chapter1_65]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
@@ -1502,7 +1486,6 @@ of intermediality.
 [^02chapter1_69]: Gaudreault and Marion, *The End of Cinema? A Medium in Crisis in
     the Digital Age*, p. 183.
 
-[^02chapter1_70]: Gaudreault and Marion, *The End of Cinema? A Medium in Crisis in
-    the Digital Age*, p. 123.
+[^02chapter1_70]: Gaudreault and Marion, *The End of Cinema?*, p. 123.
 
 [^02chapter1_71]: Galloway, *The Interface Effect*, p. 36.

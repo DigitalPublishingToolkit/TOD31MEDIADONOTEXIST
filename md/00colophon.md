@@ -16,7 +16,7 @@ Rights: CC BY-NC 4.0
 
 #Colophon <br />
 Theory on Demand #31 <br />
-**Media Do Not Exist. Performativity and Mediating Conjunctures**
+**Media Do Not Exist: Performativity and Mediating Conjunctures**
 
 Authors: Jean-Marc Larrue, Marcello Vitali-Rosati <br />
 This book was translated from an original French manuscript by John Detre and Beth Kearney <br />

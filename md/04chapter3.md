@@ -693,11 +693,10 @@ chapter.
     interpretations.
 
 [^04chapter3_4]: Regarding this aspect, see Maurizio Ferraris, *Documentality: Why
-    It Is Necessary to Leave Traces*, trans. by Richard Davies, 1
-    edition, New York: Fordham University Press, 2012.
+    It Is Necessary to Leave Traces*, trans. by Richard Davies, New York: Fordham University Press, 2012.
 
 [^04chapter3_5]: Eric Méchoulan, 'Intermédialité, ou comment penser les
-    transmissions', *Fabula Colloques*, 2017
+    transmissions', *Fabula Colloques*, 2017,
     http://www.fabula.org/colloques/document4278.php \[accessed 29 May
     2018\].
 

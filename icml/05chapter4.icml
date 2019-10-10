@@ -489,7 +489,7 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Marshall MCLuhan, </Content>
+							<Content>	Marshall McLuhan, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>Understanding Media</Content>
@@ -786,10 +786,12 @@
 				<Br />
 				<Content>Continuing the comparison, we can say that, in the high-wire act, the mediation is intransitive, immediate and transparent, since we see everything there is to see. Or at least that is how we experience it. In the magic show, the mediation is more subtle and complex: we can see that we don&apos;t see, which is why we cannot speak of opacity in this case, for in a magic show as in any show, we cannot see nothing. If there is neither opacity nor transparency, as we are not within a representational logic, what are we dealing with? We are dealing with an opacity that is not opaque and which, paradoxically, lets us see that we don&apos;t see. The process that unfolds in the magic show might be called &apos;inopaque&apos;. Inopacity is, in a way, the operative concept in the aesthetics of the impossible which Ortiz refers to.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="25">
 				<Content>The concept of radical mediation is of considerable heuristic value. Situating immediacy within mediation itself, as Grusin suggests, rather than in the product of the mediation, is a major historical departure. If mediation consists in endowing objects in the world with an anthropomorphic aspect by re-presenting them, radical mediation establishes a different, more direct or immediate relationship with the world, which could be called formless since it does not rest on form.</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="12">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="25">
 				<Content>It is unfortunate, however, that Grusin has exchanged one indissoluble pair (transparent immediacy) for another (the immediacy of mediation), thereby excluding the possibility of other combinations. While it was necessary to situate mediation within a wider logic than that of representation, the persistence of the representational mode of mediation in all its forms, particularly in the arts and performance, is something that we must accommodate for.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -968,7 +970,11 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" />
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
+				</Properties>
+			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" Name="link" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="1" />

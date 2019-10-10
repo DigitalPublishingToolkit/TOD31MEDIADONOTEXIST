@@ -486,7 +486,7 @@
 							<Content>Remediation: Understanding New Media</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Cambridge, Mass.: MIT Press, 2000. The title echoes the resounding essay published by Marshall MCLuhan, </Content>
+							<Content>, Cambridge, Mass.: MIT Press, 2000. The title echoes the resounding essay published by Marshall McLuhan, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>Understanding Media</Content>
@@ -971,7 +971,7 @@
 							<Content>	Barbier and Bertho-Lavenir, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Histoire des médias: de Diderot à Internet</Content>
+							<Content>Histoire des médias</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 5, our translation.</Content>
@@ -1051,7 +1051,7 @@
 							<Content>	Gitelman, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Always Already New: Media, History, and the Data of Culture</Content>
+							<Content>Always Already New</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 7.</Content>
@@ -1110,7 +1110,7 @@
 							<Content>	Müller, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Intermedialität: Formen Moderner Kultureller Kommunikation</Content>
+							<Content>Intermedialität</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 70.</Content>
@@ -1193,7 +1193,7 @@
 							<Content>	Sibony, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Entre-deux: l&apos;origine en partage</Content>
+							<Content>Entre-deux</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
@@ -1230,7 +1230,7 @@
 							<Content>	Sibony, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Entre-deux: l&apos;origine en partage</Content>
+							<Content>Entre-deux</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 9.</Content>
@@ -1251,7 +1251,7 @@
 							<Content>	Sibony, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Entre-deux: l&apos;origine en partage</Content>
+							<Content>Entre-deux</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 12.</Content>
@@ -1296,7 +1296,7 @@
 							<Content>	Sibony, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Entre-deux: l&apos;origine en partage</Content>
+							<Content>Entre-deux</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, pp. 15-16.</Content>
@@ -1407,7 +1407,7 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	MCLuhan, </Content>
+							<Content>	McLuhan, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>Understanding Media</Content>
@@ -1557,14 +1557,14 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="10">
 				<Content>The last remark foreshadows the major debates that have dominated intermedial theory since 2005, revolving around the gradual abandonment of the concept of medium in favor of mediation. In some artistic practices, such as the theater, this move has been paralleled by the shift from the representational paradigm to the presentational paradigm. These concepts are developed by Tracy C. Davis and Thomas Postlewait in connection with theatricality, the representational paradigm being governed by mimetic logic while the presentational paradigm obeys the logic of performance, in which one does not represent reality, but is in it.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Bolter and Grusin&apos;s essay marks the high point of this first period of intermedial theory, which we have called the mediatic period, and also reveals its limits, to which we shall now turn.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1624,8 +1624,10 @@
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>We do not share Galloway&apos;s view that the remediation model should simply be jettisoned. However, given its limitations, it does need to be enriched and made more complex, for Bolter and Grusin confined themselves to a fairly summary description of the mechanisms in play. Taking our cue from Elleström, we also need to situate the model within a broader framework, where it coexists with other types of media interactions that must also be described. In this chapter, we will discuss this expansion of the remediation model and look at some other types of interactions. But first, we will discuss some of the weaknesses that have been cited in the model&apos;s foundations, particularly the vein of essentialism and questions of origin and precedence.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1715,7 +1717,7 @@
 							<Content>	Junod, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Transparence et opacité: Essai sur les fondements théoriques de l&apos;art moderne. Pour une nouvelle lecture de Konrad Fiedler</Content>
+							<Content>Transparence et opacité</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
@@ -1736,7 +1738,7 @@
 							<Content>	Junod, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Transparence et opacité: Essai sur les fondements théoriques de l&apos;art moderne. Pour une nouvelle lecture de Konrad Fiedler</Content>
+							<Content>Transparence et opacité</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 293.</Content>
@@ -1775,7 +1777,7 @@
 							<Content>	Junod, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Transparence et opacité: Essai sur les fondements théoriques de l&apos;art moderne. Pour une nouvelle lecture de Konrad Fiedler</Content>
+							<Content>Transparence et opacité</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, pp. 309-10.</Content>
@@ -1786,10 +1788,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>Later, Junod argues that opacity is what makes it possible to &apos;preserve the perceptibility of artifice&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1799,13 +1801,15 @@
 							<Content>	Junod, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Transparence et opacité: Essai sur les fondements théoriques de l&apos;art moderne. Pour une nouvelle lecture de Konrad Fiedler</Content>
+							<Content>Transparence et opacité</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 393.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -1829,7 +1833,7 @@
 							<Content>	Junod, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Transparence et opacité: Essai sur les fondements théoriques de l&apos;art moderne. Pour une nouvelle lecture de Konrad Fiedler</Content>
+							<Content>Transparence et opacité</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, pp. 310-11.</Content>
@@ -1867,9 +1871,11 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, inherited from Fiedler, is dominated by the central principle of action and activity. Everything happens in and through action; all flows from it. This eliminates any precedence and, most importantly, makes performativity the basis of the creative dynamic, for both creator and user. It is surprising that while Bolter and Grusin note the existence of non-mimetic mediality, particularly in their discussion of hypermediacy, they do not delve more deeply into what is a vital dimension of intermediality. We shall return to this point in Chapter 3.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content>In this specific case, Bolter and Grusin fail to apply the artistic model strictly enough, but in others they would have done well to depart from it. Junod himself enriches the model&apos;s complexity with, for example, the concept of &apos;obscured transparency&apos;,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1887,8 +1893,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 				<Content> which he uses to account for works that proceed from mimetic logic but are ambiguous and assume meaning only through the action of the spectator/user. What Junod, and through him Fiedler, are stressing here is the sociomedial side of all mediating practices, as much as their performative dimension.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>The absence of this consideration is acutely perceived in the passages in which Bolter and Grusin attempt to articulate immediacy, transparency and opacity. Either mediation is opaque, in which case there is no immediacy, or it is imperceptible, in which case there </Content>
 			</CharacterStyleRange>
@@ -1928,38 +1936,32 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>We have seen the breakthroughs achieved by intermedial research up to the mid-2000s, and looked at resistance to remediation and the media residues left by remediation. This is fertile ground. Studies of sound in theater and still more recently of magic shows are examples of the new research paths that continue to improve our understanding of an intermedial reality composed of interlacings, intersections, &apos;entanglements&apos;, retreats and accidents, which the necessarily linear genealogy of media that inspired the first intermedialists could not readily account for.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 				<Content>Sibony linked the in-between to the origin, but also regarded it as a locus of trials, and it is true that remediating processes sometimes, though not always, produce reactions of varying degrees of violence governed by a general principle that we call &apos;media resistance&apos;, which may be understood as an attempt at counter-remediation. This too is entirely absent within the scope of Bolter and Grusin&apos;s analysis. Media resistance is a defence mechanism triggered when the basic elements of the mediating conjuncture are, or more precisely appear to be, jeopardized by the intrusion of an exogenous element. The resistance mechanism can have the effect of preventing, avoiding or delaying the introduction of the new element, or even expelling it after it has made an incursion, in which case we can speak of &apos;de-remediation&apos; or simply &apos;demediation&apos;. The decline in the use of fixed sound systems in some theaters with the advent of talking pictures is a striking example. Analyses of technical specs and prompt books show that &apos;technologically reproduced sound&apos;, which had made a widely noted and welcomed entrance to the theater stage, was gradually evicted from it. And the evidence clearly suggests that this expulsion was not related solely to the waning of its drawing power (as a curiosity or novelty).</Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="10">
 				<Content>To be sure, there is no essentialism at work here. When a &apos;medium&apos; resists an incursion by a new technology (which is generally what the newcomer is), it is not behaving like a living organism secreting antibodies to expel or destroy an intruder. The resistance is always of a sociomedial nature: it arises in the community of men and women in which the medium operates; it springs from values; it is tied to a discourse, to representations. The microphone, which was long rejected by the theater – although today its use is becoming increasingly common, so much so that it goes unnoticed – was readily accepted on the cabaret stage for use by singers. And yet, since the days of Shakespeare, theater reviews had been complaining that it was hard to hear the actors. They did not articulate clearly enough or did not speak loudly enough; the audience was too noisy; or the sounds emanating from the stage or the building were too loud; or the acoustics were lousy. The arrival of sound systems could have solved those problems and enhanced theatrical mediation. But the theater resisted. Meanwhile, the cabaret halls put in sound systems and pulled in the crowds.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Media resistance is governed by a two-sided logic: it is a reaction to remediation, i.e. to the tendency of any media practice, artistic or not, to incorporate into its mediating action knowledge, techniques, technologies, values, behaviours and protocols that are foreign to it, and at the same time it checks the tendency of those elements to invade an established media practice. It must be said, however, that much less resistance is mounted against content than against production processes, as the rich tradition of adaptation (of novels for the stage, of plays for the movies, etc.) shows.</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="10">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Media resistance also points to the fact that remediation doesn&apos;t only happen between media, it can also strike elements – again, often technologies – that are not attached to any specific medium, as was seen during the &apos;great digital conversion&apos; of the late 20th century. Nor is it a one-way process. What we can extract from this is that media are not the only things that remediate or are remediated, and remediation produces all manner of effects, including media resistance and demediation (also illustrated, in a way, by the renewed popularity of vinyl records and the preservation of 16 mm and 35 mm film).</Content>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="25">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>One of those effects, a somewhat surprising one, relates to the question of opacity. According to Bolter and Grusin, opacity exists when mediation is perceptible to the user. But Bolter and Grusin never consider the origins of opacity. Let us take the example of the use of the microphone in the theater. For reasons we will discuss later, the theater, like the opera, initially banned the mic from the stage, while three major media practices – records, radio and talking pictures (to which we might add cabaret) – developed and triumphed because of it. The radio played a central role in this process. The radio microphone truly revolutionized the art of public speaking, sparking an explosion of vocal styles. With radio, says Jacob Smith, the audience discovered that private speech and everyday conversation, could be elevated to the level of public speech and reproduced as such (or at least so it was perceived) on the radio in its infinite diversity, without exaggeration, without the familiar stage effects, &apos;transparently&apos;. It was the dawning of the age of the crooner, the dulcet-toned singers who, instead of making the back-row seats shudder, made hearts flutter. President-to-be Franklin Delano Roosevelt saw the change and grasped the persuasive power of the intimate new medium. He started his </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="25">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>fireside chats</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="25">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> In 1929, at the beginning of the Great Depression, and continued them until 1944, into his third term as president. In those radio addresses, he talked to his fellow Americans about the great problems of the day in conversational terms. Radio sounded true. And the audience could tell the difference. The comparison with theater, another locus of public speech, was inevitable. As a result, observes Smith, &apos;vocal conventions of the histrionic stage were becoming all too audible as conventions to many listeners&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="25" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1972,10 +1974,12 @@
 							<Content>Vocal Tracks: Performance and Sound Media</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, Berkeley: University of California Press, 2008, p. 94 https://login.gbcprx01.georgebrown.ca/login?url=https://ebookcentral.proquest.com/lib/georgebrown-ebooks/detail.action?docID=358943 [accessed 16 February 2019].</Content>
+							<Content>, Berkeley: University of California Press, 2008, p. 94 https://login.gbcprx01.georgebrown.ca/login?url=https://ebookcentral.proquest.com/lib/georgebrown-ebooks/detail.action?docID=358943.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="10" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
@@ -1983,9 +1987,9 @@
 				<Br />
 				<Content>Understood in terms of the logic of remediation, this development made opaque an aspect of mediation that had previously been naturalized (the mediation having become partially or totally transparent). This process is called &apos;opacification&apos;. In our example, one medium, radio, rendered the mediation effected by another, theater, opaque. Thus, contrary to what Bolter and Grusin suggest, opacity does not spring solely from a medium&apos;s bid to assert its identity or from a developmental dynamic, but can arise from a conjuncture on which it may have no purchase. When opacification is not produced by the medium itself, it is almost always hostile to the medium and damages its image.</Content>
 				<Br />
+				<Content>The mechanisms of media resistance, demediation and opacification do not exhaust the possibilities for further development of the remediation model, but the model&apos;s scope still remains limited, and it is clear today that this product of an age obsessed with recycling – industrial, esthetic, cultural, philosophical – cannot by itself account for the complexity and diversity of the intermedial dynamic. Other types of media interactions have been uncovered recently. In the following section, we look at the concepts of hypermediality, convergence and transmediality, which for the past 10 years have been at the center of intermedial reflection.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
-				<Content>The mechanisms of media resistance, demediation and opacification do not exhaust the possibilities for further development of the remediation model, but the model&apos;s scope still remains limited, and it is clear today that this product of an age obsessed with recycling – industrial, esthetic, cultural, philosophical – cannot by itself account for the complexity and diversity of the intermedial dynamic. Other types of media interactions have been uncovered recently. In the following section, we look at the concepts of hypermediality, convergence and transmediality, which for the past 10 years have been at the center of intermedial reflection.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
@@ -2014,16 +2018,16 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>[F]ilm, television and digital video are technology-based media that can record and play back everything that is visible and audible, within their specific ranges of sensitivity, but they cannot incorporate other media without transforming them under the conditions of the specificity of their own mediality. At the very most, media can </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-5">
 				<Content>remediate</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content> (Bolter and Grusin 1999) other media, which implies in the end a refashioning. Clearly, theatre is not a medium in the way that film, television and digital video are media. However, although theatre cannot record in the same way as the other media, just as it can incorporate the other arts, so it can incorporate all media into its performance space. It is in this capacity that I regard theatre as a hypermedium.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2044,16 +2048,16 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>A &apos;hypermedium&apos; must therefore be understood as a federating medium, not an assimilating or transformative one. It is an &apos;archi-medium&apos; or &apos;medium of media&apos;, </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="5">
 				<Content>home to all</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>, an interart, a technological meeting place &apos;where the art forms of theater, opera and dance meet, interact and integrate with the media of cinema, television, video and the new technologies&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2071,16 +2075,23 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content> This welcoming attitude is reflected in the theater&apos;s singular treatment of other mediatic objects, technologies, arts and media that enter into the process of theatrical creation or performance. The concept of hypermediality clearly derives from Bolter and Grusin&apos;s concept of hypermediacy, but it goes further. One attractive feature is that it eliminates the question of representation – and the relationship to reality – for, to return to Lanham&apos;s &apos;window&apos; metaphor, it does not require us to choose between &apos;looking at&apos; and &apos;looking through&apos;. Better still, it allows for both simultaneously, which fits well with current theatrical practices and the performative, experiential approach. The concept of hypermediality not only enables Kattenbelt to underscore the singularity of theater compared with many other media, but also advances intermedial theory by revealing the existence of systems of mediatic and technological interactions that do not fall within the purview of Bolter and Grusin&apos;s remediating logic and do not partake in its cannibalistic violence.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>In 2006, the same year that Chiel Kattenbelt developed the concept of hypermediality, Henry Jenkins tackled a central notion in the genealogy of media, one that underpins the concept of remediation: media convergence. It is not a new idea; its famous first appearance was in Wagner&apos;s call for a </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 				<Content>Gesamtkunstwerk</Content>
 			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+				<Content> – a total artwork – but it truly and lastingly took hold with the spread of electrical media in the first three decades of the 20th century. The advent of talking pictures is one of its most famous and memorable exempla, and also the most compelling argument in favor of the existence of a convergence dynamic. The talkies were in fact the result of the long-predicted &apos;convergence&apos; of sound and image reproduction technologies, which until then had developed separately. Paradoxically, the forward-looking logic of convergence that Jenkins attacks has a kinship with the nostalgic quest for an imagined, pre-technological origin that has been shattered and whose fragments, to use Sibony&apos;s image, must be pieced together again. That convergence is supposedly driven by three main factors: continuous progress in the relevant technologies; technological determinism, which tends towards their fusion; and users&apos; obsessive quest for absolute transparency. The convergence principle, which is held to be operative in all media dynamics, purportedly works &apos;in the name of the real&apos;, as the series of industry slogans we have already listed – fidelity, high fidelity, stereo, high definition, 3D, ultra-high definition, and so forth – assert. The relentless drumbeat of these claims over the space of more than a century constitutes a series of milestones – since they form a sequence – on the triumphant road that will ultimately lead to the absolute medium and perfectly transparent mediation, in Bolter and Grusin&apos;s sense. &apos;Sooner or later, the argument goes, all media content is going to flow through a single black box into our living rooms (or, in the mobile scenario, through black boxes we carry around </Content>
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content> – a total artwork – but it truly and lastingly took hold with the spread of electrical media in the first three decades of the 20th century. The advent of talking pictures is one of its most famous and memorable exempla, and also the most compelling argument in favor of the existence of a convergence dynamic. The talkies were in fact the result of the long-predicted &apos;convergence&apos; of sound and image reproduction technologies, which until then had developed separately. Paradoxically, the forward-looking logic of convergence that Jenkins attacks has a kinship with the nostalgic quest for an imagined, pre-technological origin that has been shattered and whose fragments, to use Sibony&apos;s image, must be pieced together again. That convergence is supposedly driven by three main factors: continuous progress in the relevant technologies; technological determinism, which tends towards their fusion; and users&apos; obsessive quest for absolute transparency. The convergence principle, which is held to be operative in all media dynamics, purportedly works &apos;in the name of the real&apos;, as the series of industry slogans we have already listed – fidelity, high fidelity, stereo, high definition, 3D, ultra-high definition, and so forth – assert. The relentless drumbeat of these claims over the space of more than a century constitutes a series of milestones – since they form a sequence – on the triumphant road that will ultimately lead to the absolute medium and perfectly transparent mediation, in Bolter and Grusin&apos;s sense. &apos;Sooner or later, the argument goes, all media content is going to flow through a single black box into our living rooms (or, in the mobile scenario, through black boxes we carry around with us everywhere we go)&apos;.</Content>
+				<Content>with us everywhere we go)&apos;.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -2115,7 +2126,7 @@
 							<Content>	Jenkins, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Convergence Culture: Where Old and New Media Collide</Content>
+							<Content>Convergence Culture</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 16.</Content>
@@ -2136,7 +2147,7 @@
 							<Content>	Jenkins, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Convergence Culture: Where Old and New Media Collide</Content>
+							<Content>Convergence Culture</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 15.</Content>
@@ -2157,7 +2168,7 @@
 							<Content>	Jenkins, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Convergence Culture: Where Old and New Media Collide</Content>
+							<Content>Convergence Culture</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 3.</Content>
@@ -2172,10 +2183,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>where old and new media collide, where grassroots and corporate media intersect, where the power of the media producer and the power of the media consumer interact in unpredictable ways.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2185,7 +2196,7 @@
 							<Content>	Jenkins, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Convergence Culture: Where Old and New Media Collide</Content>
+							<Content>Convergence Culture</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 2.</Content>
@@ -2209,7 +2220,7 @@
 							<Content>	Jenkins, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Convergence Culture: Where Old and New Media Collide</Content>
+							<Content>Convergence Culture</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>.</Content>
@@ -2234,11 +2245,9 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> spawned three feature films, a 90-minute television series, animated films, multiple comic books, video games, etc.</Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>Transmediality takes infinitely variegated forms, ranging from simply distributing purportedly uniform content on different platforms, which was the usual practice at the outset, to creating fragmented collective intelligence, whose different parts are supported by different technologies and the whole, like Paolo Soleri&apos;s arcology,</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2256,10 +2265,8 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
-				<Content> cannot be grasped from any vantage point.</Content>
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> cannot be grasped from any vantage point.</Content>
 				<Br />
 				<Content>In the first case, the objective is to adapt media content to different medialities (or media) with the intention of preserving the content in its entirety as far as possible. This conception of transmediality rests on two major assumptions: that media content can exist independently of mediation processes and, conversely, that those processes have no content.</Content>
 				<Br />
@@ -2282,10 +2289,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>Transmediality implies a kind of independence of its object: the more media windows we experience a world through, the less reliant that world is on the peculiarities of any one medium for its existence. Thus, transmediality also suggests the potential for the continuance of a world in multiple instances and registers; and the more we see and hear of a transmedial world, the greater is the illusion of ontological weight that it has, and experiencing the world becomes more like the mediated experience of the Primary World.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2306,13 +2313,13 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>While transmediality does not totally blur the dividing line between what Wolf, referencing Tolkien, calls the primary world and the mediatized world, it makes the distinction superfluous; from the point of view of a transmedial logic in which user experience is paramount, the question of representation becomes moot, as does the interplay between immediacy and hypermediacy. As in the case of convergence, the emphasis is on the user and the user experience, which is always real. We have moved from the representational paradigm to the experiential paradigm.</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader4 (sub-subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>Shattering the Medium: The Advent of Postmediatic Intermediality</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -2327,19 +2334,15 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> the social practices of production and appropriation of that technology&apos;. The &apos;double birth&apos; model that André Gaudreault and Philippe Marion extract from their observations on the origins of cinema rests on this same principle of primacy. According to Gaudreault and Marion, the double birth of a medium unfolds in three phases: the appearance of a new technology (phase 1), the creation of a device (phase 2), and the realization of the medium&apos;s expressive autonomy and specificity, with all that this implies in terms of both socialities and the medium&apos;s institutional dimension (phase 3). François Odin describes the same process, calling the emerging technology a &apos;cryptomedium&apos; (since it cannot yet be predicted that it will give birth to a medium), phase 2 being the appearance of a &apos;protomedium&apos;, and phase 3 the appearance of the medium as such.</Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>Transmediality doesn&apos;t just disrupt this chronology; it denies the primacy of technology. Jenkins&apos; critique of convergence culture, his defence of media divergence, and all that this implies for transmedial dynamics support the conclusion that a change in technology does not produce a change in medium. This also has consequences for the origins of media, as Jenkins makes clear:</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>[H]istory teaches us that old media never die – and they don&apos;t even necessarily fade away. What dies are simply the tools we use to access media content – the 8-Track, the Beta tape.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2349,7 +2352,7 @@
 							<Content>	Jenkins, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Convergence Culture: Where Old and New Media Collide</Content>
+							<Content>Convergence Culture</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 13.</Content>
@@ -2360,10 +2363,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Jenkins ends up drawing a clear distinction between the medium and what he calls the &apos;delivery technology&apos; for media content. &apos;Recorded sound is the medium. Cds, MP3 files, and 8-track cassettes are delivery technologies&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2373,7 +2376,7 @@
 							<Content>	Jenkins, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Convergence Culture: Where Old and New Media Collide</Content>
+							<Content>Convergence Culture</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 13.</Content>
@@ -2382,16 +2385,18 @@
 				</Footnote>
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Lars Elleström&apos;s work in recent years on multimodality moves in the same direction. He divides a medium into three subcategories: the basic medium, the qualified medium, to which artistic practices are attached, and the technical medium, which corresponds to Jenkins&apos; &apos;delivery technologies&apos;.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aBlockquote">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>Basic and qualified media are abstract categories that help us understand how media types are formed by very different sorts of qualities, whereas technical media are the very tangible devices needed to materialize instances of media types.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2412,16 +2417,16 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>We can see at once the ontological and methodological issues presented by this conceptual move and the concomitant risk of a reversion to an essentialist vision of media. To date, a medium&apos;s identity has been defined primarily by the material dimension of the mediation, but what happens if an important element of the mediation – Elleström&apos;s technical medium or Jenkins&apos; delivery technology – is radically changed? Will this lead to the end of the medium? That is precisely the question at the center of Gaudreault and Marion&apos;s essay, </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="5">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>The End of Cinema? A Medium in Crisis in the Digital Age</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>. They ask whether &apos;cinema, in its shift to the digital, has simply made a turn (in which case we could speak of a digital turn) or whether it is in the process of becoming something else – whether it is undergoing a true mutation (in which case we could speak of a digital mutation)&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2439,10 +2444,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> The latter case will presumably need a new name. The authors quote, in passing, Raymond Bellour to the effect that &apos;digital technology is not enough to kill cinema. Although it may disturb it in many respects, it does not touch its essence&apos;</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2455,7 +2460,7 @@
 							<Content>La querelle des dispositifs. Cinéma, installations, expositions</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, coll. &apos;Trafic&apos;, Paris, P.O.L., 2012, p. 16 quoted by Gaudreault and Marion, </Content>
+							<Content>, coll. &apos;Trafic&apos;, Paris, P.O.L., 2012, p. 16 quoted by Gaudreault and Marion, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>The End of Cinema? A Medium in Crisis in the Digital Age</Content>
@@ -2466,10 +2471,10 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> and draw on the genealogy of cinema arguing that the movies are not dying; it is just that &apos;a generation stands aside and makes room for the next&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2479,21 +2484,19 @@
 							<Content>	Gaudreault and Marion, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>The End of Cinema? A Medium in Crisis in the Digital Age</Content>
+							<Content>The End of Cinema?,</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, p. 183.</Content>
+							<Content> p. 183.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Br />
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>The genealogical argument is attractive. To the double birth model they developed in 2000, the second birth being the institutionalization of the medium, Gaudreault and Marion add a third birth, which is currently in progress: &apos;an integrative and intermedial birth involving a degree of return to porosity, to a hodgepodge, to hybridity, to crossfertilization - all of which imbued the medium&apos;s very first birth&apos;.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -2503,7 +2506,7 @@
 							<Content>	Gaudreault and Marion, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>The End of Cinema? A Medium in Crisis in the Digital Age</Content>
+							<Content>The End of Cinema?</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 123.</Content>
@@ -2511,10 +2514,8 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
-				<Content> By comparing the current state of affairs with an older period in the history of the medium, Gaudreault and Marion endow it with ontological legitimacy: digital is mediatically acceptable since the change it produces echoes a situation that is already inscribed in the history of the medium. They accredit the rupture thesis defended by Jenkins and Elleström: even a media practice as technologized as cinema can survive the most radical technological transformations.</Content>
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> By comparing the current state of affairs with an older period in the history of the medium, Gaudreault and Marion endow it with ontological legitimacy: digital is mediatically acceptable since the change it produces echoes a situation that is already inscribed in the history of the medium. They accredit the rupture thesis defended by Jenkins and Elleström: even a media practice as technologized as cinema can survive the most radical technological transformations.</Content>
 				<Br />
 				<Content>Current intermedial thinking, i.e. that of the postmediatic period, is characterized by the erosion of belief in determinism and progress – and particularly the death of the illusion of mediating exclusivity – as much as it is by the shattering of the traditional conception of media and the demise of technological primacy. The question of a medium&apos;s identity has become secondary to its action and its position in transmedial configurations. Not only do we now know that the set of characteristics once used to define a medium is in fact unstable and in constant flux, but we have also understood that no characteristic is the exclusive property of any one medium and none, taken in isolation, is decisive for the medium&apos;s survival, not even an array such as the camera-projector-screen triad that appears so essential and basic.</Content>
 				<Br />
@@ -2550,7 +2551,7 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular" Tracking="-5">
 				<Properties>
 					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
 				</Properties>

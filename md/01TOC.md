@@ -6,7 +6,7 @@ Type: book
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
-Article-title: Media Do Not Exist. Performativity and Mediating Conjunctures
+Article-title: Media Do Not Exist: Performativity and Mediating Conjunctures
 Article-status: accepted
 Author: Jean-Marc Larrue, Marcello Vitali-Rosati
 Author-email:   corresponding address

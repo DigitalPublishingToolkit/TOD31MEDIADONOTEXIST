@@ -624,7 +624,7 @@ world and living together in and with the world.
     currency'. Marvin, *When Old Technologies Were New: Thinking About
     Electric Communication in the Late Nineteenth Century*, p. 9 ff.
 
-[^05chapter4_6]: Marshall MCLuhan, *Understanding Media*, New York: Signet, 1966.
+[^05chapter4_6]: Marshall McLuhan, *Understanding Media*, New York: Signet, 1966.
 
 [^05chapter4_7]: During the Romantic period, for example, music was often
     considered the highest art form.

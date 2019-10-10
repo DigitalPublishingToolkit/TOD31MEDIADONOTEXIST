@@ -1209,26 +1209,26 @@ to elucidate using the concept of mediating conjunctures.
 
 [^03chapter2_18]: Foucault and others, *Dits et écrits, 1954-1988. II, II,* p. 299.
 
-[^03chapter2_19]: Agamben, *'What Is an Apparatus?' And Other Essays*, pp. 2-3.
+[^03chapter2_19]: Agamben, *'What Is an Apparatus?'*, pp. 2-3.
 
 [^03chapter2_20]: Éliséo Véron, 'De l'image sémiologique aux discursivités, From
     the semiotic image to discursivity' *Hermès, La Revue*, 13, 2013,
     45-64 http://www.cairn.info/resume.php?ID\_ARTICLE=HERM\_013\_0045
     \[accessed 30 April 2017\].
 
-[^03chapter2_21]: Bachimont, *Le sens de la technique: Le numérique et le calcul*,
+[^03chapter2_21]: Bachimont, *Le sens de la technique*,
     p. 42.
 
-[^03chapter2_22]: Bachimont, *Le sens de la technique: Le numérique et le calcul*,
+[^03chapter2_22]: Bachimont, *Le sens de la technique*,
     p. 42.
 
-[^03chapter2_23]: Craig Dworkin, *No Medium*, 1st MIT Press paperback edition,
+[^03chapter2_23]: Craig Dworkin, *No Medium*,
     Cambridge, Mass London: MIT Press, 2015.
 
 [^03chapter2_24]: Dworkin, *No Medium*, p. 28.
 
 [^03chapter2_25]: Judith Butler, *Gender Trouble: Feminism and the Subversion of
-    Identity*, 1 edition, New York: Routledge, 2006, p. 25.
+    Identity*, New York: Routledge, 2006, p. 25.
 
 [^03chapter2_26]: François Cusset, *French Theory: How Foucault, Derrida, Deleuze,
     & Co. Transformed the Intellectual Life of the United States*,
@@ -1256,7 +1256,7 @@ to elucidate using the concept of mediating conjunctures.
 
 [^03chapter2_31]: John Langshaw Austin, *How to Do Things with Words: \[The William
     James Lectures Delivered at Harvard University in 1955\]*, ed. by
-    James Opie Urmson, 2. ed., \[repr.\], Cambridge, Mass: Harvard Univ.
+    James Opie Urmson, \[repr.\], Cambridge, Mass: Harvard Univ.
     Press, 2009.
 
 [^03chapter2_32]: Matteo Treleani, 'Le spectre et l'automate. Deux figures du

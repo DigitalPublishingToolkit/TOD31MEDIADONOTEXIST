@@ -328,7 +328,14 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Paris: Payot &amp; Rivages, 2007.</Content>
 				<Br />
-				<Content>---------, </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" FirstLineIndent="2.834645669291339">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+				<Content>——</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>What Is an Apparatus? And Other Essays</Content>
@@ -336,6 +343,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Meridian, Crossing Aesthetics, Stanford, Calif: Stanford University Press, 2009.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Andreazza, Fabio, &apos;La conversion de Pirandello au cinéma&apos;, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -352,7 +363,14 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, ed. by C. D. C Reeve, 2018.</Content>
 				<Br />
-				<Content>---------, </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" FirstLineIndent="2.834645669291339">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+				<Content>——</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>The Metaphysics</Content>
@@ -360,6 +378,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, trans. by Hugh Tredennick, Cambridge, Mass.: Harvard University Press, 1989.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Arnheim, Rudolf, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -377,8 +399,13 @@
 				<Content>, London; New York: Routledge, 2011.</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" FirstLineIndent="2.834645669291339">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+				<Content>——</Content>
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
-				<Content>---------, </Content>
+				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 				<Content>Presence and Resistance: Postmodernism and Cultural Politics in Contemporary American Performance</Content>
@@ -388,6 +415,10 @@
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Austin, John Langshaw, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -404,7 +435,14 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, ed. by Ghislaine Gueudet et Luc Trouche, Paideia, PUR et INRP, 2010, pp. 75-90 http://hal.archives-ouvertes.fr/hal-00496590 [accessed 12 November 2012].</Content>
 				<Br />
-				<Content>---------, </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" FirstLineIndent="2.834645669291339">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+				<Content>——</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Le sens de la technique: Le numérique et le calcul</Content>
@@ -413,6 +451,8 @@
 				<Content>, 2010.</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>Barad, Karen, </Content>
 			</CharacterStyleRange>
@@ -423,8 +463,13 @@
 				<Content>, Second Printing edition, Durham: Duke University Press Books, 2007.</Content>
 				<Br />
 			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" FirstLineIndent="2.834645669291339">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+				<Content>——</Content>
+			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>---------, &apos;Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter&apos;, </Content>
+				<Content>, &apos;Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter&apos;, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Signs: Journal of Women in Culture and Society</Content>
@@ -432,6 +477,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, 28.3 (2003), 801-31 https://doi.org/10.1086/345321.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Barbier, Frédéric, and Catherine Bertho-Lavenir, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -448,7 +497,14 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Seuil, 1993.</Content>
 				<Br />
-				<Content>---------, &apos;Le théâtre de Baudelaire&apos;, in </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" FirstLineIndent="2.834645669291339">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+				<Content>——</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, &apos;Le théâtre de Baudelaire&apos;, in </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Essais critiques</Content>
@@ -456,6 +512,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Collection points Essais, 127, Impr, Paris: Éd. du Seuil, 1995.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Baudrillard, Jean, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -512,7 +572,14 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, New York: Routledge, 1997.</Content>
 				<Br />
-				<Content>---------, </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" FirstLineIndent="2.834645669291339">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+				<Content>——</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Gender Trouble: Feminism and the Subversion of Identity</Content>
@@ -520,6 +587,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, 1 edition, New York: Routledge, 2006.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Cambron, Micheline, and Marilou St-Pierre, &apos;Presse et ondes radiophoniques&apos;, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -571,8 +642,6 @@
 				<Content>, Minneapolis, Minn. [u.a.: Univ. of Minnesota Press, 2008.</Content>
 				<Br />
 			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Davis, Tracy C, and Thomas Postlewait, </Content>
 			</CharacterStyleRange>
@@ -670,7 +739,14 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Basingstoke [u.a.: Palgrave Macmillan, 2010.</Content>
 				<Br />
-				<Content>---------, </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" FirstLineIndent="2.834645669291339">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+				<Content>——</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Media Transformation: The Transfer of Media Characteristics Among Media</Content>
@@ -678,6 +754,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Houndsmill, Basingstoke, Hampshire New York: Palgrave Macmillan, 2014.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Faccini, Dominic, Georges Bataille, Michel Leiris, Carl Einstein, and Marcel Griaule, &apos;Critical Dictionary&apos;, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1022,7 +1102,14 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, 1, 2008 https://doi.org/10.4000/appareil.135.</Content>
 				<Br />
-				<Content>---------, </Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph" FirstLineIndent="2.834645669291339">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+				<Content>——</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Le partage du sensible: esthétique et politique</Content>
@@ -1030,7 +1117,12 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Paris: Fabrique: Diffusion Les Belles Lettres, 2000.</Content>
 				<Br />
-				<Content>---------, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" OTFContextualAlternate="false">
+				<Content>——</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Le spectateur émancipé</Content>
@@ -1038,6 +1130,10 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, La Fabrique éditions, 2008.</Content>
 				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Reason, M, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1054,7 +1150,7 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, trans. by Kathleen Blamey and David Pellauer, New edition édition, Chicago, Ill.: University of Chicago Press, 2006.</Content>
 				<Br />
-				<Content>RICOEUR, PAUL, </Content>
+				<Content>Ricoeur, Paul, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 				<Content>Soi-même comme un autre</Content>
@@ -1078,10 +1174,6 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, Hyper Article en Ligne – Sciences de l&apos;Homme et de la Société, 2013 https://isidore.science/document/10670/1.0jcfgt [accessed 16 February 2019].</Content>
 				<Br />
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>Schaeffer, Pierre, </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1193,7 +1285,11 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" />
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
+				</Properties>
+			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" Name="link" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="1" />

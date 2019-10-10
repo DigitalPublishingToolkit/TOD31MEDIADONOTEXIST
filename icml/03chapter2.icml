@@ -709,7 +709,7 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	Alexander R Galloway, </Content>
+							<Content>	Alexander R. Galloway, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>The Interface Effect</Content>
@@ -1286,7 +1286,7 @@
 							<Content>	Agamben, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>&apos;What Is an Apparatus?&apos; And Other Essays</Content>
+							<Content>&apos;What Is an Apparatus?&apos;</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, pp. 2-3.</Content>
@@ -1331,7 +1331,7 @@
 							<Content>	Bachimont, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Le sens de la technique: Le numérique et le calcul</Content>
+							<Content>Le sens de la technique</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 42.</Content>
@@ -1352,7 +1352,7 @@
 							<Content>	Bachimont, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Le sens de la technique: Le numérique et le calcul</Content>
+							<Content>Le sens de la technique</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 42.</Content>
@@ -1402,7 +1402,7 @@
 							<Content>No Medium</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, 1st MIT Press paperback edition, Cambridge, Mass London: MIT Press, 2015.</Content>
+							<Content>, Cambridge, Mass London: MIT Press, 2015.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1480,17 +1480,17 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 							<Content>	Judith Butler, </Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 							<Content>Gender Trouble: Feminism and the Subversion of Identity</Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, 1 edition, New York: Routledge, 2006, p. 25.</Content>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+							<Content>, New York: Routledge, 2006, p. 25.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1554,7 +1554,7 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>Performativity as a Component of Action</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -1599,12 +1599,15 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	For an overview of the two concepts and their history, see Nicholas Cotton, &apos;Du performatif à la performance&apos; </Content>
+							<Content>	</Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
+							<Content>For an overview of the two concepts and their history, see Nicholas Cotton, &apos;Du performatif à la performance&apos; </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 							<Content>Sens Public</Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 							<Content>, 2016 http://www.sens-public.org/article1216.html [accessed 20 February 2018].</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
@@ -1620,7 +1623,7 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>Drama and Performance</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -1633,8 +1636,12 @@
 				<Br />
 				<Content>Performance lies at the other end of the spectrum: there are no actors in a performance precisely because there is action. The performer isn&apos;t reproducing anything: she acts, she drinks, she eats, she loves, she moves and she suffers.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>But this opposition, which underpinned the abandonment of theatricality in the theater in the 1980s and 1990s in favor of performativity, cannot withstand scrutiny. The question of the determination or indetermination of action is more complex and irreducible to any binary pair. The true polarity – though strictly speaking it is no such thing, at least not in the conventional sense of polarity – must be sought elsewhere, in the opposition between the determination and performativity of action. Those two elements, which coexist to varying degrees in any action, define what happens on the stage as drama or performance. All theater is partially determined, from the most faithful rendition of a script to the most improvised performance.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>What is true on the stage applies to all action. The dramatic model calls for particularly standardized action, while the performative model leaves more room for indetermination. But in every case, on or off the stage, our actions contain an element of determination, which we shall now consider in greater detail. That element of determination has multiple and varied aspects, but we will confine ourselves to three that we believe to be of particular importance: the spatial frame, the symbolic context and the physical constraints. These factors all fit into the framework that Grusin calls premediation.</Content>
 				<Br />
 				<Content>When a stage is used for a play, a playground for a baseball game, a classroom for a course or a bedroom for a nap, the spatial and architectural environment limits and structures the action. The architecture, understood in its broadest sense as the organization of space, functions as an apparatus; it predetermines – and premediates – the spectrum of possibilities. A chair predetermines the act of sitting down, a door the act of opening and closing, and so forth. &apos;Natural&apos; spaces, necessarily perceived through a cultural lens, are also endowed with this power of predetermination, lending them an architectural dimension. A lake beckons us to swim in summer or skate in winter.</Content>
@@ -1660,7 +1667,7 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>The Temporal Structure of Action</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -1693,28 +1700,28 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 							<Content>	Aristotle outlines the argument in </Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 							<Content>On Interpretation</Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 							<Content> 18b35. For commentary, see Hervé Barreau, &apos;Le Maître argument de Diodore: Son interprétation traditionnelle, sa signification historique, sa reconstitution contemporaine&apos;, </Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 							<Content>Cahiers Fundamenta Scientiae</Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 							<Content> 46, 1975, pp. 1-51; and G. Anscombe and M. Elizabeth, &apos;Aristotle and the Sea Battle: De Interpretatione, Chapter IX&apos;, </Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-10">
 							<Content>Mind</Content>
 						</CharacterStyleRange>
-						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
 							<Content> 65, 1956, pp. 1-15.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
@@ -1728,7 +1735,11 @@
 				<Content>Ontologically, then, the essence of the &apos;before&apos; – the script – and the &apos;after&apos; – the performance – must already be given, prior to any action. To stage a drama, there must already be a script and an idea of what it would and should look like when performed on the stage. From an ontological point of view, the two poles have priority over the action on the stage that runs counter to our conception of the chronology of action.</Content>
 				<Br />
 				<Content>Approaching the question from a chronological angle, Paul Ricoeur describes a sequence of mimetic action consisting of an original, a mediation, and then a copy. There is an initial pole (the original) and it is from the mediation – the in-between – that the second (the &apos;copy&apos;, or the representation) springs. But while there is a shift in perspective between the ontological and chronological points of view, they spring from the same essentialist conception of the order of things. Both rest on the discretization of reality and agree on the primacy of objects.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="10">
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>These two foundation blocks are the nub of the problem. By positing the existence of two poles, the essentialist approach forces us to attach the action to one of them, specifically the second, the one that comes chronologically after the first. The action is understood as the simple effect of a determining cause. Applied to the theater, this logic casts the performance – determined by that which preceded it and is its cause, namely the script – as the action.</Content>
 				<Br />
 				<Content>But how can we conceive of the script as a separate, pre-existing entity? Contrary to Barthes, recent work in dramaturgy by Joseph Danan convincingly shows that the script also fully participates in theatricality; it already bears within itself the conditions of its performance. In a way, it is a product of the performance because, to enlist Grusin&apos;s concept once again, it is &apos;premediated&apos;.</Content>
@@ -1756,7 +1767,7 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>The Undecided</Content>
 				<Br />
 			</CharacterStyleRange>
@@ -1785,14 +1796,18 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content> and always remains undecided.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>Clearly, both positions are tenable. It cannot be denied that every action is determined and, at the same time, retains a margin of indecision. But viewing action from the standpoint of performativity is, first and foremost, an ethical and political imperative. Those twin demands prompt us to redefine our terms. From a theoretical point of view, we may choose the approach that suits us best and focus on analyzing the determinants of action to understand its causes, if choose to. From a political point of view, we need to seek the performative element of action because that is where we will find the zone of freedom and responsibility. We cannot be responsible for something that has already been determined, but only for what is as yet undecided, where our actions can sway the outcome. Responsibility prevails in the </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="5">
 				<Content>exaiphnes</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="5">
 				<Content>: only in the non-determined space where I enjoy a margin of freedom can I be accountable.</Content>
 				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>From the ethical point of view, the key question is: precisely what remains undecided? The ethical approach probes the performative aspect of an action to delineate the zone of freedom in which responsibility is possible. If we are not responsible for what has already happened, for what is finished and immutable, but only for what can still be done differently, then performativity is the condition of possibility for ethical choice.</Content>
 				<Br />
 				<Content>Viewed through a political lens, all norms and apparatus of power are determinants of action. But an action can have no political significance if it is entirely controlled by those norms and apparatus: it assumes political meaning when it seeks the empty space, the zone of indecision that allows for creative normativity. Performativity disturbs norms because it overflows from their determinative power and produces something new, unexpected and therefore, to some degree, subversive.</Content>
@@ -1847,7 +1862,7 @@
 							<Content>How to Do Things with Words: [The William James Lectures Delivered at Harvard University in 1955]</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>, ed. by James Opie Urmson, 2. ed., [repr.], Cambridge, Mass: Harvard Univ. Press, 2009.</Content>
+							<Content>, ed. by James Opie Urmson, Cambridge, Mass: Harvard Univ. Press, 2009.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -1862,29 +1877,27 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aHeadings%3aHeader2 (subtitle)">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-5">
 				<Content>Mediation as Performativity</Content>
 				<Br />
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content>What does this perspective mean for mediation? We have seen the essentialist and non-essentialist interpretations of the term. From a non-essentialist point of view, mediation is a way to understand the </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="0">
 				<Content>exaiphnes</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
 				<Content> as an instant that belongs to neither the before, nor the after. Mediation is what happens in the moment: it is the creative instant of action. In this sense, it is pure performativity.</Content>
 				<Br />
-				<Content>From an essentialist point of view, mediation can be described as something between two moments, two objects, and so forth. There is a moment A and a moment B; and mediation is the path from one to the other. Thus, as we have discussed, mediation is itself essentialized and reduced to a determined, pre-established apparatus. In the process, the indecision that inhabits the moment of mediation is lost.</Content>
-				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
-				<Content>Let us take an interface as an example. It can be described in two opposing ways. From the determinist / essentialist point of view, it is what lies between code and user. The code and the user were already there, determined and well-defined. The interface links them but is wholly determined by the nature of the two things it connects. The code is already written, the user is already in front of the screen with expectations, abilities and needs. From the characteristics of code and user, we can deduce the interface. Its function is pre-established: what happens in the mediation reproduces what was already plotted. Similarly, the essentialization of the interface compels us to conceive the action that occurs within it as entirely determined – by its premediation, by its affordance, by the fact that it is an apparatus, in Bachimont&apos;s sense.</Content>
-				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content>From an essentialist point of view, mediation can be described as something between two moments, two objects, and so forth. There is a moment A and a moment B; and mediation is the path from one to the other. Thus, as we have discussed, mediation is itself essentialized and reduced to a determined, pre-established apparatus. In the process, the indecision that inhabits the moment of mediation is lost.</Content>
+				<Br />
+				<Content>Let us take an interface as an example. It can be described in two opposing ways. From the determinist / essentialist point of view, it is what lies between code and user. The code and the user were already there, determined and well-defined. The interface links them but is wholly determined by the nature of the two things it connects. The code is already written, the user is already in front of the screen with expectations, abilities and needs. From the characteristics of code and user, we can deduce the interface. Its function is pre-established: what happens in the mediation reproduces what was already plotted. Similarly, the essentialization of the interface compels us to conceive the action that occurs within it as entirely determined – by its premediation, by its affordance, by the fact that it is an apparatus, in Bachimont&apos;s sense.</Content>
+				<Br />
 				<Content>If our interest is in the undecided element, we must frame the picture differently. Mediation becomes the starting point of the analysis, for it is all we have. In the </Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1893,11 +1906,9 @@
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Content>, there is neither user nor code, but only the interface. The user and the code are produced by the interface: they make their appearance only because there is an interface that connects them. All that seemed to be decided and determined is in fact open: the mediation is located in the undecided zone and is therefore performative. Or, more precisely, the mediation contains premediated and undecided aspects that are ontologically inseparable, but we must consider them separately in order to distinguish the element of freedom in every action.</Content>
 				<Br />
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="20">
 				<Content>This approach is particularly pertinent to the analysis of digital practices, as shall be seen in the final chapter. Much of the discussion around information technologies has centered on their normative dimension, how algorithms and technical devices premediate action to the point of transforming users into automatons.</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="20" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1915,10 +1926,8 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="20">
-				<Content> But while focusing on the predetermined aspect of technological practices illuminates a basic feature of their operation, it is politically perilous, as it forecloses responsibility and gives rise to a discourse imbued with paternalism. It is true that any use of a platform is premediated by its structure, but there are also emancipatory possibilities insofar as our behaviours can etch new norms for that platform. We are conditioned, to be sure, but we also condition at the same time. We may be exploited, but that exploitation bears within itself the potential for normative agency.</Content>
-			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Content> But while focusing on the predetermined aspect of technological practices illuminates a basic feature of their operation, it is politically perilous, as it forecloses responsibility and gives rise to a discourse imbued with paternalism. It is true that any use of a platform is premediated by its structure, but there are also emancipatory possibilities insofar as our behaviours can etch new norms for that platform. We are conditioned, to be sure, but we also condition at the same time. We may be exploited, but that exploitation bears within itself the potential for normative agency.</Content>
 				<Br />
 				<Content>In the following chapter, we explore this idea and illustrate the relationship between mediation and performativity, which we will attempt to elucidate using the concept of mediating conjunctures.</Content>
 			</CharacterStyleRange>
@@ -1927,7 +1936,11 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" />
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular" Tracking="-5">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
+				</Properties>
+			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" Name="link" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="1" />

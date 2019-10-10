@@ -1,7 +1,7 @@
 
 #Colophon <br />
 Theory on Demand #31 <br />
-**Media Do Not Exist. Performativity and Mediating Conjunctures**
+**Media Do Not Exist: Performativity and Mediating Conjunctures**
 
 Authors: Jean-Marc Larrue, Marcello Vitali-Rosati <br />
 This book was translated from an original French manuscript by John Detre and Beth Kearney <br />
@@ -1426,33 +1426,30 @@ of intermediality.
 [^02chapter1_23]: Friedrich Kitler, quoted by Galloway, *The Interface Effect*, p.
     13.
 
-[^02chapter1_24]: Barbier and Bertho-Lavenir, *Histoire des médias: de Diderot à
-    Internet*, p. 5, our translation.
+[^02chapter1_24]: Barbier and Bertho-Lavenir, *Histoire des médias*, p. 5, our translation.
 
 [^02chapter1_25]: Eliséo Véron, 'De l'image sémiologique aux discursitivtés. Le
     temps d'une photo', *Hermès*, 13, 1994, 45 (p. 51)
     https://doi.org/10.4267/2042/15515, our translation.
 
-[^02chapter1_26]: Gitelman, *Always Already New: Media, History, and the Data of
-    Culture*, p. 7.
+[^02chapter1_26]: Gitelman, *Always Already New*, p. 7.
 
 [^02chapter1_27]: Jürgen Müller, *Intermedialität: Formen Moderner Kultureller
     Kommunikation*, Münster: Nodus Publikationen, 1996.
 
-[^02chapter1_28]: Müller, *Intermedialität: Formen Moderner Kultureller
-    Kommunikation*, p. 70.
+[^02chapter1_28]: Müller, *Intermedialität*, p. 70.
 
 [^02chapter1_29]: Jacques Rancière, 'Ce que "medium" peut vouloir dire: l'exemple
     de la photographie', *Appareil*, 1, 2008
     https://doi.org/10.4000/appareil.135.
 
-[^02chapter1_30]: Sibony, *Entre-deux: l'origine en partage*.
+[^02chapter1_30]: Sibony, *Entre-deux*.
 
-[^02chapter1_31]: Sibony, *Entre-deux: l'origine en partage*, p. 9.
+[^02chapter1_31]: Sibony, *Entre-deux*, p. 9.
 
-[^02chapter1_32]: Sibony, *Entre-deux: l'origine en partage*, p. 12.
+[^02chapter1_32]: Sibony, *Entre-deux*, p. 12.
 
-[^02chapter1_33]: Sibony, *Entre-deux: l'origine en partage*, pp. 15-16.
+[^02chapter1_33]: Sibony, *Entre-deux*, pp. 15-16.
 
 [^02chapter1_34]: *Travels in Intermedia\[lity\]: Reblurring the Boundaries*, ed.
     by Bernd Herzogenrath, Interfaces: Studies in Visual Culture, 1st
@@ -1463,7 +1460,7 @@ of intermediality.
 
 [^02chapter1_36]: Bolter and Grusin, *Remediation: Understanding New Media*, p. 65.
 
-[^02chapter1_37]: MCLuhan, *Understanding Media*, p. 23.
+[^02chapter1_37]: McLuhan, *Understanding Media*, p. 23.
 
 [^02chapter1_38]: Bolter and Grusin, *Remediation: Understanding New Media*, p. 65.
 
@@ -1491,29 +1488,17 @@ of intermediality.
     fondements théoriques de l'art moderne. Pour une nouvelle lecture de
     Konrad Fiedler*, Nîmes: Chambon, 2004, pp. 11-12, our translation.
 
-[^02chapter1_46]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*.
+[^02chapter1_46]: Junod, *Transparence et opacité*.
 
-[^02chapter1_47]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*, p. 293.
+[^02chapter1_47]: Junod, *Transparence et opacité*, p. 293.
 
-[^02chapter1_48]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*, pp. 309-10.
+[^02chapter1_48]: Junod, *Transparence et opacité*, pp. 309-10.
 
-[^02chapter1_49]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*, p. 393.
+[^02chapter1_49]: Junod, *Transparence et opacité*, p. 393.
 
-[^02chapter1_50]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*, pp. 310-11.
+[^02chapter1_50]: Junod, *Transparence et opacité*, pp. 310-11.
 
-[^02chapter1_51]: Junod, *Transparence et opacité: Essai sur les fondements
-    théoriques de l'art moderne. Pour une nouvelle lecture de Konrad
-    Fiedler*, p. 387.
+[^02chapter1_51]: Junod, *Transparence et opacité*, p. 387.
 
 [^02chapter1_52]: Marvin, *When Old Technologies Were New: Thinking About Electric
     Communication in the Late Nineteenth Century*, pp. 63-108.
@@ -1521,8 +1506,7 @@ of intermediality.
 [^02chapter1_53]: Jacob Smith and American Council of Learned Societies, *Vocal
     Tracks: Performance and Sound Media*, Berkeley: University of
     California Press, 2008, p. 94
-    https://login.gbcprx01.georgebrown.ca/login?url=https://ebookcentral.proquest.com/lib/georgebrown-ebooks/detail.action?docID=358943
-    \[accessed 16 February 2019\].
+    https://login.gbcprx01.georgebrown.ca/login?url=https://ebookcentral.proquest.com/lib/georgebrown-ebooks/detail.action?docID=358943.
 
 [^02chapter1_54]: Chiel Kattenbelt, 'Theatre as the Art of the Performer and the
     Stage of Intermediality', in *Intermediality in Theatre and
@@ -1535,19 +1519,19 @@ of intermediality.
 [^02chapter1_56]: Henry Jenkins, *Convergence Culture: Where Old and New Media
     Collide*, Revised edition, New York: NYU Press, 2008, p. 14.
 
-[^02chapter1_57]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
+[^02chapter1_57]: Jenkins, *Convergence Culture*,
     p. 16.
 
-[^02chapter1_58]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
+[^02chapter1_58]: Jenkins, *Convergence Culture*,
     p. 15.
 
-[^02chapter1_59]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
+[^02chapter1_59]: Jenkins, *Convergence Culture*,
     p. 3.
 
-[^02chapter1_60]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
+[^02chapter1_60]: Jenkins, *Convergence Culture*,
     p. 2.
 
-[^02chapter1_61]: Jenkins, *Convergence Culture: Where Old and New Media Collide*.
+[^02chapter1_61]: Jenkins, *Convergence Culture*.
 
 [^02chapter1_62]: Paolo Soleri, *Arcologie: la ville à l'image de l'homme*,
     Roquevaire: Parenthèses, 1980.
@@ -1556,7 +1540,7 @@ of intermediality.
     History of Subcreation*, New York: Routledge, New York, 2012, p.
     247.
 
-[^02chapter1_64]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
+[^02chapter1_64]: Jenkins, *Convergence Culture*,
     p. 13.
 
 [^02chapter1_65]: Jenkins, *Convergence Culture: Where Old and New Media Collide*,
@@ -1578,8 +1562,7 @@ of intermediality.
 [^02chapter1_69]: Gaudreault and Marion, *The End of Cinema? A Medium in Crisis in
     the Digital Age*, p. 183.
 
-[^02chapter1_70]: Gaudreault and Marion, *The End of Cinema? A Medium in Crisis in
-    the Digital Age*, p. 123.
+[^02chapter1_70]: Gaudreault and Marion, *The End of Cinema?*, p. 123.
 
 [^02chapter1_71]: Galloway, *The Interface Effect*, p. 36.
 
@@ -2777,26 +2760,26 @@ to elucidate using the concept of mediating conjunctures.
 
 [^03chapter2_18]: Foucault and others, *Dits et écrits, 1954-1988. II, II,* p. 299.
 
-[^03chapter2_19]: Agamben, *'What Is an Apparatus?' And Other Essays*, pp. 2-3.
+[^03chapter2_19]: Agamben, *'What Is an Apparatus?'*, pp. 2-3.
 
 [^03chapter2_20]: Éliséo Véron, 'De l'image sémiologique aux discursivités, From
     the semiotic image to discursivity' *Hermès, La Revue*, 13, 2013,
     45-64 http://www.cairn.info/resume.php?ID\_ARTICLE=HERM\_013\_0045
     \[accessed 30 April 2017\].
 
-[^03chapter2_21]: Bachimont, *Le sens de la technique: Le numérique et le calcul*,
+[^03chapter2_21]: Bachimont, *Le sens de la technique*,
     p. 42.
 
-[^03chapter2_22]: Bachimont, *Le sens de la technique: Le numérique et le calcul*,
+[^03chapter2_22]: Bachimont, *Le sens de la technique*,
     p. 42.
 
-[^03chapter2_23]: Craig Dworkin, *No Medium*, 1st MIT Press paperback edition,
+[^03chapter2_23]: Craig Dworkin, *No Medium*,
     Cambridge, Mass London: MIT Press, 2015.
 
 [^03chapter2_24]: Dworkin, *No Medium*, p. 28.
 
 [^03chapter2_25]: Judith Butler, *Gender Trouble: Feminism and the Subversion of
-    Identity*, 1 edition, New York: Routledge, 2006, p. 25.
+    Identity*, New York: Routledge, 2006, p. 25.
 
 [^03chapter2_26]: François Cusset, *French Theory: How Foucault, Derrida, Deleuze,
     & Co. Transformed the Intellectual Life of the United States*,
@@ -2824,7 +2807,7 @@ to elucidate using the concept of mediating conjunctures.
 
 [^03chapter2_31]: John Langshaw Austin, *How to Do Things with Words: \[The William
     James Lectures Delivered at Harvard University in 1955\]*, ed. by
-    James Opie Urmson, 2. ed., \[repr.\], Cambridge, Mass: Harvard Univ.
+    James Opie Urmson, \[repr.\], Cambridge, Mass: Harvard Univ.
     Press, 2009.
 
 [^03chapter2_32]: Matteo Treleani, 'Le spectre et l'automate. Deux figures du
@@ -3509,11 +3492,10 @@ chapter.
     interpretations.
 
 [^04chapter3_4]: Regarding this aspect, see Maurizio Ferraris, *Documentality: Why
-    It Is Necessary to Leave Traces*, trans. by Richard Davies, 1
-    edition, New York: Fordham University Press, 2012.
+    It Is Necessary to Leave Traces*, trans. by Richard Davies, New York: Fordham University Press, 2012.
 
 [^04chapter3_5]: Eric Méchoulan, 'Intermédialité, ou comment penser les
-    transmissions', *Fabula Colloques*, 2017
+    transmissions', *Fabula Colloques*, 2017,
     http://www.fabula.org/colloques/document4278.php \[accessed 29 May
     2018\].
 
@@ -4164,7 +4146,7 @@ world and living together in and with the world.
     currency'. Marvin, *When Old Technologies Were New: Thinking About
     Electric Communication in the Late Nineteenth Century*, p. 9 ff.
 
-[^05chapter4_6]: Marshall MCLuhan, *Understanding Media*, New York: Signet, 1966.
+[^05chapter4_6]: Marshall McLuhan, *Understanding Media*, New York: Signet, 1966.
 
 [^05chapter4_7]: During the Romantic period, for example, music was often
     considered the highest art form.
@@ -4662,7 +4644,7 @@ the mathematization of the world.
 #### Network Culture
 
 The word 'digital' is strongly associated with the development first of
-the Internet and then of the web. Digital culture is undoubtedly a
+the internet and then of the web. Digital culture is undoubtedly a
 network culture, as we can see by the large number of scholarly works
 dedicated to the subject.[^06chapter5_15] Ideas such as contribution, sharing,
 connectivity, collaboration, etc., which are so present in today's
@@ -5868,7 +5850,7 @@ to be, in our time, the primary objective of philosophy.
     Blamey and David Pellauer, New edition édition, Chicago, Ill.:
     University of Chicago Press, 2006.
 
-[^06chapter5_42]: PAUL RICOEUR, *Soi-même comme un autre*, POINTS, 2015.
+[^06chapter5_42]: Paul Ricoeur, *Soi-même comme un autre*, POINTS, 2015.
 
 [^06chapter5_43]: Ricoeur, *Memory, History, Forgetting*, p. 81.
 
@@ -5939,16 +5921,12 @@ to be, in our time, the primary objective of philosophy.
     the visibility of the invisible; it is therefore Phaedra on stage
     and not Berma. Here we are close to Deleuze's statement according to
     which roles supersede actors; but, certainly, Merleau-Ponty's notion
-    is more complex.
-
-    In the classical structure, the spectator would be caught in between
+    is more complex. In the classical structure, the spectator would be caught in between
     two poles: he would ask himself if he sees Phaedra (the before) or
     Berma (the after), if Berma is none other than that which brings
     Phaedra into existence or if Phaedra is not but a deferred
     manifestation of Berma, and it is therefore not only according to
-    the latter that we can conceive of the former.
-
-    But in the experience of theater we do not at all feel this tension
+    the latter that we can conceive of the former. But in the experience of theater we do not at all feel this tension
     and this polarity. We do, however, perceive a chiasmus, the
     encroachment of Phaedra towards Berma. The spectator is not able to
     see Berma all while knowing that the actress is in the process of
@@ -5989,7 +5967,7 @@ Minnesota Press, 2007.
 Agamben, Giorgio, *Qu'est-ce qu'un dispositif?*, Paris: Payot & Rivages,
 2007.
 
----------, *What Is an Apparatus? And Other Essays*, Meridian, Crossing
+–––––, *What Is an Apparatus? And Other Essays*, Meridian, Crossing
 Aesthetics, Stanford, Calif: Stanford University Press, 2009.
 
 Andreazza, Fabio, 'La conversion de Pirandello au cinéma', *Actes de la
@@ -5998,7 +5976,7 @@ https://doi.org/10.3917/arss.161.0032.
 
 Aristotle, *Physics*, ed. by C. D. C Reeve, 2018.
 
----------, *The Metaphysics*, trans. by Hugh Tredennick, Cambridge,
+–––––, *The Metaphysics*, trans. by Hugh Tredennick, Cambridge,
 Mass.: Harvard University Press, 1989.
 
 Arnheim, Rudolf, *Film Als Kunst.*, Frankfurt am Main: Suhrkamp, 2002.
@@ -6006,7 +5984,7 @@ Arnheim, Rudolf, *Film Als Kunst.*, Frankfurt am Main: Suhrkamp, 2002.
 Auslander, Philip, *Liveness: Performance in a Mediatized Culture*,
 London; New York: Routledge, 2011.
 
----------, *Presence and Resistance: Postmodernism and Cultural Politics
+–––––, *Presence and Resistance: Postmodernism and Cultural Politics
 in Contemporary American Performance*, Annotated edition edition, Ann
 Arbor: University of Michigan Press, 1994.
 
@@ -6021,13 +5999,13 @@ et Luc Trouche, Paideia, PUR et INRP, 2010, pp. 75-90
 http://hal.archives-ouvertes.fr/hal-00496590 \[accessed 12 November
 2012\].
 
----------, *Le sens de la technique: Le numérique et le calcul*, 2010.
+–––––, *Le sens de la technique: Le numérique et le calcul*, 2010.
 
 Barad, Karen, *Meeting the Universe Halfway: Quantum Physics and the
 Entanglement of Matter and Meaning*, Second Printing edition, Durham:
 Duke University Press Books, 2007.
 
----------, 'Posthumanist Performativity: Toward an Understanding of How
+–––––, 'Posthumanist Performativity: Toward an Understanding of How
 Matter Comes to Matter', *Signs: Journal of Women in Culture and
 Society*, 28.3 (2003), 801-31 https://doi.org/10.1086/345321.
 
@@ -6036,7 +6014,7 @@ de Diderot à Internet*, Paris: Colin, 1996.
 
 Barthes, Roland, *Le bruissement de la langue*, Seuil, 1993.
 
----------, 'Le théâtre de Baudelaire', in *Essais critiques*, Collection
+–––––, 'Le théâtre de Baudelaire', in *Essais critiques*, Collection
 points Essais, 127, Impr, Paris: Éd. du Seuil, 1995.
 
 Baudrillard, Jean, *Le crime parfait*, Paris: Editions Galilée, 1995.
@@ -6062,7 +6040,7 @@ Press, 2013.
 Butler, Judith, *Excitable Speech: A Politics of the Performative*, New
 York: Routledge, 1997.
 
----------, *Gender Trouble: Feminism and the Subversion of Identity*, 1
+–––––, *Gender Trouble: Feminism and the Subversion of Identity*, 1
 edition, New York: Routledge, 2006.
 
 Cambron, Micheline, and Marilou St-Pierre, 'Presse et ondes
@@ -6125,7 +6103,7 @@ Europe*, Cambridge: Cambridge University Press, 1983.
 Elleström, Lars, *Media Borders, Multimodality and Intermediality*,
 Basingstoke \[u.a.: Palgrave Macmillan, 2010.
 
----------, *Media Transformation: The Transfer of Media Characteristics
+–––––, *Media Transformation: The Transfer of Media Characteristics
 Among Media*, Houndsmill, Basingstoke, Hampshire New York: Palgrave
 Macmillan, 2014.
 
@@ -6289,10 +6267,10 @@ Costume, Machinerie, ... Fètes Publiques, Réjouissa*, Forgotten Books,
 Rancière, Jacques, 'Ce que "medium" peut vouloir dire: l'exemple de la
 photographie', *Appareil*, 1, 2008 https://doi.org/10.4000/appareil.135.
 
----------, *Le partage du sensible: esthétique et politique*, Paris:
+–––––, *Le partage du sensible: esthétique et politique*, Paris:
 Fabrique: Diffusion Les Belles Lettres, 2000.
 
----------, *Le spectateur émancipé*, La Fabrique éditions, 2008.
+–––––, *Le spectateur émancipé*, La Fabrique éditions, 2008.
 
 Reason, M, *Documentation, Disappearance and the Representation of Live
 Performance*, Place of publication not identified: Palgrave Macmillan,
@@ -6302,7 +6280,7 @@ Ricoeur, Paul, *Memory, History, Forgetting*, trans. by Kathleen Blamey
 and David Pellauer, New edition édition, Chicago, Ill.: University of
 Chicago Press, 2006.
 
-RICOEUR, PAUL, *Soi-même comme un autre*, POINTS, 2015.
+Ricoeur, Paul, *Soi-même comme un autre*, POINTS, 2015.
 
 Rose, Mark, *Authors and Owners: The Invention of Copyright*, Cambridge,
 Mass.: Harvard University Press, 1993.

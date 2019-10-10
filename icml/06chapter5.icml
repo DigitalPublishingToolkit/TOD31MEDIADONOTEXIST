@@ -894,7 +894,7 @@
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-				<Content>The word &apos;digital&apos; is strongly associated with the development first of the Internet and then of the web. Digital culture is undoubtedly a network culture, as we can see by the large number of scholarly works dedicated to the subject.</Content>
+				<Content>The word &apos;digital&apos; is strongly associated with the development first of the internet and then of the web. Digital culture is undoubtedly a network culture, as we can see by the large number of scholarly works dedicated to the subject.</Content>
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
 				<Footnote>
@@ -1315,10 +1315,10 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aText%3aParagraph">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-6">
 				<Content>These &apos;very diverse qualities&apos; and this &apos;particularly complex art, very varied in its expression&apos; grasps, without naming it, a theatrical concept that we will later discuss. If, in this definition of theater art, we see that it resonates with Richard Wagner&apos;s</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Position="Superscript">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-6" Position="Superscript">
 				<Footnote>
 					<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Page &gt; Running Text%3aNotes%3aFootnote">
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
@@ -1336,14 +1336,16 @@
 					</ParagraphStyleRange>
 				</Footnote>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-6">
 				<Content> Total Artwork project, the symbolists&apos; </Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" Tracking="-6">
 				<Content>synesthesia dream</Content>
 			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-6">
 				<Content>, or even Chiel Kattenbelt&apos;s hypermedium model, we find not a minute trace of this notion of presence so frequently evoked following the appearance of cinema!</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 				<Br />
 			</CharacterStyleRange>
 			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="0">
@@ -1587,7 +1589,7 @@
 							<Content>	Benjamin, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Illuminations: Essays and Reflections</Content>
+							<Content>Illuminations</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 221.</Content>
@@ -1610,7 +1612,7 @@
 							<Content>	Benjamin, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Illuminations: Essays and Reflections</Content>
+							<Content>Illuminations</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, pp. 229-30.</Content>
@@ -1632,7 +1634,7 @@
 							<Content>	Benjamin, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
-							<Content>Illuminations: Essays and Reflections</Content>
+							<Content>Illuminations</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
 							<Content>, p. 230. (quotation from Rudolf Arnheim, </Content>
@@ -1745,7 +1747,7 @@
 							<Content><?ACE 4?></Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content>	PAUL RICOEUR, </Content>
+							<Content>	Paul Ricoeur, </Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic">
 							<Content>Soi-même comme un autre</Content>
@@ -2232,13 +2234,13 @@
 							<Content>The Guermantes Way,</Content>
 						</CharacterStyleRange>
 						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
-							<Content> talks about the actress Berma playing the role of Phaedra. At the heart of the analysis that he offers is a critique of the idea of theater as representation. The theater experience consists in once again rendering present an event that is no longer there. The actor would therefore represent a character, in a structure strongly opposing the subject and the object: an object represented and a subject representing. Merleau-Ponty&apos;s idea is, by contrast, that theater in no way engenders a representative structure. The relationship between actor and character can be considered as an explanatory example of what is produced in the chiasmus between visible and invisible.</Content>
-							<Br />
-							<Content>	We are not before a visible center – once upon a time there was Phaedra – that is reproduced, represented here and now thanks to the actor&apos;s action. It is more a case of the invisible, and this invisibility structures all the visible; Phaedra is the invisible. What is produced on stage is a sort of embodiment: the actor becomes the visibility of the invisible; it is therefore Phaedra on stage and not Berma. Here we are close to Deleuze&apos;s statement according to which roles supersede actors; but, certainly, Merleau-Ponty&apos;s notion is more complex.</Content>
-							<Br />
-							<Content>	In the classical structure, the spectator would be caught in between two poles: he would ask himself if he sees Phaedra (the before) or Berma (the after), if Berma is none other than that which brings Phaedra into existence or if Phaedra is not but a deferred manifestation of Berma, and it is therefore not only according to the latter that we can conceive of the former.</Content>
-							<Br />
-							<Content>	But in the experience of theater we do not at all feel this tension and this polarity. We do, however, perceive a chiasmus, the encroachment of Phaedra towards Berma. The spectator is not able to see Berma all while knowing that the actress is in the process of playing the role of Phaedra; the spectator perceives the single unit of role and of actor. It is not possible to see Phaedra on stage without Berma, but we can neither perceive Berma without Phaedra. Proust realizes this when he asserts that whatever he had studied in advance on Phaedra&apos;s role, which in principle would be the common ground of all the actresses that play Phaedra, to be capable of subtracting it, of not gathering it as the residue of Mrs. Berma&apos;s talent, he notices that this talent is only made with the role.</Content>
+							<Content> talks about the actress Berma playing the role of Phaedra. At the heart of the analysis that he offers is a critique of the idea of theater as representation. The theater experience consists in once again rendering present an event that is no longer there. The actor would therefore represent a character, in a structure strongly opposing the subject and the object: an object represented and a subject representing. Merleau-Ponty&apos;s idea is, by contrast, that theater in no way engenders a representative structure. The relationship between actor and character can be considered as an explanatory example of what is produced in the chiasmus between visible and invisible. We are not before a visible center – once upon a time there was Phaedra – that is reproduced, represented here and now thanks to the actor&apos;s action. It is more a case of the invisible, and this invisibility structures all the visible; Phaedra is the invisible. What is produced on stage is a sort of embodiment: </Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" Tracking="-10">
+							<Content>the actor becomes the visibility of the invisible; it is therefore Phaedra on stage and not Berma. Here we</Content>
+						</CharacterStyleRange>
+						<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+							<Content> are close to Deleuze&apos;s statement according to which roles supersede actors; but, certainly, Merleau-Ponty&apos;s notion is more complex. In the classical structure, the spectator would be caught in between two poles: he would ask himself if he sees Phaedra (the before) or Berma (the after), if Berma is none other than that which brings Phaedra into existence or if Phaedra is not but a deferred manifestation of Berma, and it is therefore not only according to the latter that we can conceive of the former. But in the experience of theater we do not at all feel this tension and this polarity. We do, however, perceive a chiasmus, the encroachment of Phaedra towards Berma. The spectator is not able to see Berma all while knowing that the actress is in the process of playing the role of Phaedra; the spectator perceives the single unit of role and of actor. It is not possible to see Phaedra on stage without Berma, but we  can neither perceive Berma without Phaedra. Proust realizes this when he asserts that whatever  he had studied in advance on Phaedra&apos;s role, which in principle would be the common ground of  all the actresses that play Phaedra, to be capable of subtracting it, of not gathering it as the residue  of Mrs. Berma&apos;s talent, he notices that this talent is only made with the role.</Content>
 						</CharacterStyleRange>
 					</ParagraphStyleRange>
 				</Footnote>
@@ -2383,7 +2385,11 @@
 			</CharacterStyleRange>
 		</ParagraphStyleRange>
 		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default" />
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Default">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Light</AppliedFont>
+				</Properties>
+			</CharacterStyleRange>
 		</ParagraphStyleRange>
 	</Story>
 	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" Name="link" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="1" />

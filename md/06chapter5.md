@@ -468,7 +468,7 @@ the mathematization of the world.
 #### Network Culture
 
 The word 'digital' is strongly associated with the development first of
-the Internet and then of the web. Digital culture is undoubtedly a
+the internet and then of the web. Digital culture is undoubtedly a
 network culture, as we can see by the large number of scholarly works
 dedicated to the subject.[^06chapter5_15] Ideas such as contribution, sharing,
 connectivity, collaboration, etc., which are so present in today's
@@ -1674,7 +1674,7 @@ to be, in our time, the primary objective of philosophy.
     Blamey and David Pellauer, New edition édition, Chicago, Ill.:
     University of Chicago Press, 2006.
 
-[^06chapter5_42]: PAUL RICOEUR, *Soi-même comme un autre*, POINTS, 2015.
+[^06chapter5_42]: Paul Ricoeur, *Soi-même comme un autre*, POINTS, 2015.
 
 [^06chapter5_43]: Ricoeur, *Memory, History, Forgetting*, p. 81.
 
@@ -1745,16 +1745,12 @@ to be, in our time, the primary objective of philosophy.
     the visibility of the invisible; it is therefore Phaedra on stage
     and not Berma. Here we are close to Deleuze's statement according to
     which roles supersede actors; but, certainly, Merleau-Ponty's notion
-    is more complex.
-
-    In the classical structure, the spectator would be caught in between
+    is more complex. In the classical structure, the spectator would be caught in between
     two poles: he would ask himself if he sees Phaedra (the before) or
     Berma (the after), if Berma is none other than that which brings
     Phaedra into existence or if Phaedra is not but a deferred
     manifestation of Berma, and it is therefore not only according to
-    the latter that we can conceive of the former.
-
-    But in the experience of theater we do not at all feel this tension
+    the latter that we can conceive of the former. But in the experience of theater we do not at all feel this tension
     and this polarity. We do, however, perceive a chiasmus, the
     encroachment of Phaedra towards Berma. The spectator is not able to
     see Berma all while knowing that the actress is in the process of

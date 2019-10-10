@@ -28,7 +28,7 @@ Minnesota Press, 2007.
 Agamben, Giorgio, *Qu'est-ce qu'un dispositif?*, Paris: Payot & Rivages,
 2007.
 
----------, *What Is an Apparatus? And Other Essays*, Meridian, Crossing
+–––––, *What Is an Apparatus? And Other Essays*, Meridian, Crossing
 Aesthetics, Stanford, Calif: Stanford University Press, 2009.
 
 Andreazza, Fabio, 'La conversion de Pirandello au cinéma', *Actes de la
@@ -37,7 +37,7 @@ https://doi.org/10.3917/arss.161.0032.
 
 Aristotle, *Physics*, ed. by C. D. C Reeve, 2018.
 
----------, *The Metaphysics*, trans. by Hugh Tredennick, Cambridge,
+–––––, *The Metaphysics*, trans. by Hugh Tredennick, Cambridge,
 Mass.: Harvard University Press, 1989.
 
 Arnheim, Rudolf, *Film Als Kunst.*, Frankfurt am Main: Suhrkamp, 2002.
@@ -45,7 +45,7 @@ Arnheim, Rudolf, *Film Als Kunst.*, Frankfurt am Main: Suhrkamp, 2002.
 Auslander, Philip, *Liveness: Performance in a Mediatized Culture*,
 London; New York: Routledge, 2011.
 
----------, *Presence and Resistance: Postmodernism and Cultural Politics
+–––––, *Presence and Resistance: Postmodernism and Cultural Politics
 in Contemporary American Performance*, Annotated edition edition, Ann
 Arbor: University of Michigan Press, 1994.
 
@@ -60,13 +60,13 @@ et Luc Trouche, Paideia, PUR et INRP, 2010, pp. 75-90
 http://hal.archives-ouvertes.fr/hal-00496590 \[accessed 12 November
 2012\].
 
----------, *Le sens de la technique: Le numérique et le calcul*, 2010.
+–––––, *Le sens de la technique: Le numérique et le calcul*, 2010.
 
 Barad, Karen, *Meeting the Universe Halfway: Quantum Physics and the
 Entanglement of Matter and Meaning*, Second Printing edition, Durham:
 Duke University Press Books, 2007.
 
----------, 'Posthumanist Performativity: Toward an Understanding of How
+–––––, 'Posthumanist Performativity: Toward an Understanding of How
 Matter Comes to Matter', *Signs: Journal of Women in Culture and
 Society*, 28.3 (2003), 801-31 https://doi.org/10.1086/345321.
 
@@ -75,7 +75,7 @@ de Diderot à Internet*, Paris: Colin, 1996.
 
 Barthes, Roland, *Le bruissement de la langue*, Seuil, 1993.
 
----------, 'Le théâtre de Baudelaire', in *Essais critiques*, Collection
+–––––, 'Le théâtre de Baudelaire', in *Essais critiques*, Collection
 points Essais, 127, Impr, Paris: Éd. du Seuil, 1995.
 
 Baudrillard, Jean, *Le crime parfait*, Paris: Editions Galilée, 1995.
@@ -101,7 +101,7 @@ Press, 2013.
 Butler, Judith, *Excitable Speech: A Politics of the Performative*, New
 York: Routledge, 1997.
 
----------, *Gender Trouble: Feminism and the Subversion of Identity*, 1
+–––––, *Gender Trouble: Feminism and the Subversion of Identity*, 1
 edition, New York: Routledge, 2006.
 
 Cambron, Micheline, and Marilou St-Pierre, 'Presse et ondes
@@ -164,7 +164,7 @@ Europe*, Cambridge: Cambridge University Press, 1983.
 Elleström, Lars, *Media Borders, Multimodality and Intermediality*,
 Basingstoke \[u.a.: Palgrave Macmillan, 2010.
 
----------, *Media Transformation: The Transfer of Media Characteristics
+–––––, *Media Transformation: The Transfer of Media Characteristics
 Among Media*, Houndsmill, Basingstoke, Hampshire New York: Palgrave
 Macmillan, 2014.
 
@@ -328,10 +328,10 @@ Costume, Machinerie, ... Fètes Publiques, Réjouissa*, Forgotten Books,
 Rancière, Jacques, 'Ce que "medium" peut vouloir dire: l'exemple de la
 photographie', *Appareil*, 1, 2008 https://doi.org/10.4000/appareil.135.
 
----------, *Le partage du sensible: esthétique et politique*, Paris:
+–––––, *Le partage du sensible: esthétique et politique*, Paris:
 Fabrique: Diffusion Les Belles Lettres, 2000.
 
----------, *Le spectateur émancipé*, La Fabrique éditions, 2008.
+–––––, *Le spectateur émancipé*, La Fabrique éditions, 2008.
 
 Reason, M, *Documentation, Disappearance and the Representation of Live
 Performance*, Place of publication not identified: Palgrave Macmillan,
@@ -341,7 +341,7 @@ Ricoeur, Paul, *Memory, History, Forgetting*, trans. by Kathleen Blamey
 and David Pellauer, New edition édition, Chicago, Ill.: University of
 Chicago Press, 2006.
 
-RICOEUR, PAUL, *Soi-même comme un autre*, POINTS, 2015.
+Ricoeur, Paul, *Soi-même comme un autre*, POINTS, 2015.
 
 Rose, Mark, *Authors and Owners: The Invention of Copyright*, Cambridge,
 Mass.: Harvard University Press, 1993.
